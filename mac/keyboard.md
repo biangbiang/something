@@ -1,9 +1,5 @@
-OS X 键盘快捷键
+[OS X 键盘快捷键](http://support.apple.com/kb/HT1343?viewlocale=zh_CN&locale=zh_CN)
 =============
-
-###参考网址
-
-http://support.apple.com/kb/HT1343?viewlocale=zh_CN&locale=zh_CN
 
 ###以下是可能会出现在 OS X 菜单中的修饰键符号：
 
