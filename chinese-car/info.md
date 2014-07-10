@@ -29,17 +29,9 @@ START挡是发动机的启动档位，启动后会自动恢复正常状态也就
 ---
 
 * 驼峰桥
-
-![img](img/sign1.jpg)
 * 路面不平
-
-![img](img/sign2.jpg)
 * 路面高突
-
-![img](img/sign3.jpg)
 * 路面低洼
-
-![img](img/sign4.jpg)
 
 ---
 
