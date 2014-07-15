@@ -1,7 +1,9 @@
-[OS X 键盘快捷键](http://support.apple.com/kb/HT1343?viewlocale=zh_CN&locale=zh_CN)
+OS X 键盘快捷键
 =============
 
 ###以下是可能会出现在 OS X 菜单中的修饰键符号：
+
+来自:http://support.apple.com/kb/HT1343?viewlocale=zh_CN&locale=zh_CN
 
 * ⌘	Command 键
 * ⌃	控制代码

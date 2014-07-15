@@ -1,2 +1,4 @@
-[ATOM](https://atom.io/)
+ATOM
 ====
+
+### [atom笔记](note)

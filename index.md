@@ -1,48 +1,44 @@
 biang叔的博客
 ===========
 
-### atom
-
-[atom](atom/index)
+### [atom](atom/index)
 
 ---
 
-### chinese-car
-
-[chinese-car](chinese-car/info)
+### [chinese-car](chinese-car/index)
 
 ---
 
-### flowchart
-
-[flowchart](flowchart/about)
+### [flowchart](flowchart/index)
 
 ---
 
-### license
-
-[license](license/info)
+### [jade](jade/index)
 
 ---
 
-### mac
-
-[mac](mac/keyboard)
+### [license](license/index)
 
 ---
 
-### markdown
-
-[markdown](markdown/simple)
+### [mac](mac/index)
 
 ---
 
-### nodejs
-
-[nodejs](nodejs/fs)
+###[markdown](markdown/simple)
 
 ---
 
-### trip
+### [mysql](mysql/index)
 
-[trip](trip/china)
+---
+
+### [nodejs](nodejs/index)
+
+---
+
+### [ssh](ssh/index)
+
+---
+
+### [trip](trip/index)
