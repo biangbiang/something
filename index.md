@@ -17,6 +17,10 @@ biang叔的博客
 
 ---
 
+### [javascript](javascript/index)
+
+---
+
 ### [license](license/index)
 
 ---
@@ -37,8 +41,16 @@ biang叔的博客
 
 ---
 
+### [php](php/index)
+
+---
+
 ### [ssh](ssh/index)
 
 ---
 
 ### [trip](trip/index)
+
+---
+
+### [ubuntu](ubuntu/index)
