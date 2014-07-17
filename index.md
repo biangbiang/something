@@ -45,6 +45,10 @@ biang叔的博客
 
 ---
 
+### [redis](redis/index)
+
+---
+
 ### [ssh](ssh/index)
 
 ---
