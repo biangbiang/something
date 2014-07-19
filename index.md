@@ -5,7 +5,11 @@ biang叔的博客
 
 ---
 
-### [chinese-car](chinese-car/index)
+### [bash](bash/index)
+
+---
+
+### [car](car/index)
 
 ---
 
@@ -46,6 +50,10 @@ biang叔的博客
 ---
 
 ### [redis](redis/index)
+
+---
+
+### [shell](shell/index)
 
 ---
 
