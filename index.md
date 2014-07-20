@@ -17,6 +17,10 @@ biang叔的博客
 
 ---
 
+### [html](html/index)
+
+---
+
 ### [jade](jade/index)
 
 ---
@@ -29,11 +33,19 @@ biang叔的博客
 
 ---
 
+### [linux](linux/index)
+
+---
+
 ### [mac](mac/index)
 
 ---
 
 ###[markdown](markdown/simple)
+
+---
+
+### [mixed](mixed/index)
 
 ---
 
@@ -62,9 +74,5 @@ biang叔的博客
 ---
 
 ### [trip](trip/index)
-
----
-
-### [ubuntu](ubuntu/index)
 
 ---
