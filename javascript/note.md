@@ -20,3 +20,13 @@ javascript笔记
 ### window.location()
 
 window.location 对象用于获得当前页面的地址 (URL)，并把浏览器重定向到新的页面。
+
+### history
+
+1. back()：加载 history 列表中的前一个 URL
+2. forward()：加载 history 列表中的下一个 URL
+3. go()：加载 history 列表中的某个具体页面
+
+### 死链接
+
+javascript:void(0) 
