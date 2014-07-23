@@ -6,3 +6,9 @@ php
 ---
 
 ### [php环境搭建](install)
+
+---
+
+### [php数组](array)
+
+---
