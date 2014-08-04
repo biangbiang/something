@@ -12,3 +12,7 @@ php
 ### [php数组](array)
 
 ---
+
+### [php字符串](string)
+
+---
