@@ -13,6 +13,10 @@ biang叔的博客
 
 ---
 
+### [economy](economy/index)
+
+---
+
 ### [flowchart](flowchart/index)
 
 ---

@@ -16,3 +16,24 @@ php学习笔记
 * public（公共的、默认）在PHP5中如果类没有指定成员的访问修饰符，默认就是public的访问权限。
 * protected（受保护的）被声明为protected的成员，只允许该类的子类进行访问。
 * private（私有的 ） 被定义为private的成员，对于类内部所有成员都可见，没有访问限制。对类外部不允许访问。
+
+### isset和empty
+
+
+当要 判断一个变量是否已经声明的时候 可以使用 isset 函数
+
+当要 判断一个变量是否已经赋予数据且不为空 可以用 empty 函数
+
+当要 判断 一个变量 存在且不为空 先isset 函数 再用 empty 函数
+
+isset返回值:
+
+* 若变量不存在则返回 FALSE
+* 若变量存在且其值为NULL，也返回 FALSE
+* 若变量存在且值不为NULL，则返回 TURE
+
+empty返回值:
+
+* 若变量不存在则返回 TRUE
+* 若变量存在且其值为""、0、"0"、NULL、FALSE、array()、var $var; 以及没有任何属性的对象，则返回 TURE
+* 若变量存在且值不为""、0、"0"、NULL、FALSE、array()、var $var; 以及没有任何属性的对象，则返回 FALSE
