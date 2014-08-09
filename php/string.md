@@ -49,3 +49,8 @@ implode(separator,array)
 说明：
 
 虽然 separator 参数是可选的。但是为了向后兼容，推荐您使用使用两个参数。
+
+### stripos()和strpos()
+
+
+### stristr()和strstr()

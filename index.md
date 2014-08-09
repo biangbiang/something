@@ -1,4 +1,4 @@
-biang叔的博客
+biang叔的笔记
 ===========
 
 ### [atom](atom/index)
