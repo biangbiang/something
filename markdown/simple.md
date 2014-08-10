@@ -1,5 +1,9 @@
-[markdown 简明语法](http://wowubuntu.com/markdown/)
-=================
+markdown 简明语法
+===============
+
+## 参考网址
+
+http://wowubuntu.com/markdown/
 
 ## 基本符号
 
