@@ -13,6 +13,10 @@ biang叔的笔记
 
 ---
 
+### [database](database/index)
+
+---
+
 ### [economy](economy/index)
 
 ---
@@ -21,11 +25,19 @@ biang叔的笔记
 
 ---
 
+### [game](game/index)
+
+---
+
 ### [git](git/index)
 
 ---
 
 ### [handwriting](handwriting/index)
+
+---
+
+### [homebrew](homebrew/index)
 
 ---
 

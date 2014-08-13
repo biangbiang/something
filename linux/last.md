@@ -174,3 +174,11 @@ last命令用了记录成功登录，而 lastb 命令记录失败的登录尝试
 ##### 总结
 
 你可以结合这些参数来自定义last和lastb的输出。所有可以运行于last命令的参数都可运行在lastb命令上。更多细节,请通过在控制台输入man last来访问。
+
+### 结构
+
+utmp文件中保存的是当前正在本系统中的用户的信息。
+
+wtmp文件中保存的是登录过本系统的用户的信息。
+
+`/var/log/wtmp` 文件结构和`/var/run/utmp` 文件结构一样，都是引用`/usr/include/bits/utmp.h` 中的struct utmp

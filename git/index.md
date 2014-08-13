@@ -8,3 +8,11 @@ git
 ### [git插件](plugin)
 
 ---
+
+### [Git Submodule 的認識與正確使用](submod)
+
+---
+
+### [基于git的源代码管理模型——git flow](gitflow)
+
+---
