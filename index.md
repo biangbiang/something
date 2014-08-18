@@ -108,3 +108,7 @@ biang叔的笔记
 ### [trip](trip/index)
 
 ---
+
+### [vim](vim/index)
+
+---
