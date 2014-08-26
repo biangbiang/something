@@ -16,3 +16,7 @@ php
 ### [php字符串](string)
 
 ---
+
+### [php5 mysqli教程](mysqli)
+
+---
