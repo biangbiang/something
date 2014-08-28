@@ -32,3 +32,7 @@ mixed
 ### [寻欢洞](gloryhole)
 
 ---
+
+### [编写高质量的代码——从命名入手](variablename)
+
+---
