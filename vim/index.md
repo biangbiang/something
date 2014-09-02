@@ -12,3 +12,7 @@ vim
 ### [Vim扩展之NERDTree](nerdtree)
 
 ---
+
+### [vim折叠设置](fold)
+
+---

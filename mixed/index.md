@@ -36,3 +36,11 @@ mixed
 ### [编写高质量的代码——从命名入手](variablename)
 
 ---
+
+### [苦逼程序员的修炼秘籍：8个级别对照表 ](coderlevel)
+
+---
+
+### [不锈钢](stainlesssteel)
+
+---

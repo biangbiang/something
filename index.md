@@ -81,6 +81,10 @@ biang叔的笔记
 
 ---
 
+### [nano](nano/index)
+
+---
+
 ### [nodejs](nodejs/index)
 
 ---
