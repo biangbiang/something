@@ -12,3 +12,10 @@ XQuartz
 XQuartz（X11.app）是苹果电脑为Mac OS X上X窗口系统的实作。苹果的X11是以XFree86为基础，加上硬件加速的2D绘图支持，硬件OpenGL加速，以及与Mac OS X 的GUI Aqua集成在一起。在Mac OS X v10.2时Apple X11原本一开始是当作可以下载的公开测试，后来已经在Mac OS X v10.3后包含进标准包装里面。不过在OS X Mountain Lion后OS X不再附带X11[1]，用户需要自行前往XQuartz网站下载这个组件。
 
 Apple X11的源代码可以在苹果电脑的Darwin Project网站以APSL（Apple Public Source License）授权方式取得。
+
+### 卸载
+
+    launchctl unload /Library/LaunchAgents/org.macosforge.xquartz.startx.plist
+    sudo launchctl unload /Library/LaunchDaemons/org.macosforge.xquartz.privileged_startx.plist
+    sudo rm -rf /opt/X11* /Library/Launch*/org.macosforge.xquartz.* /Applications/Utilities/XQuartz.app /etc/*paths.d/*XQuartz
+    sudo pkgutil --forget org.macosforge.xquartz.pkg
