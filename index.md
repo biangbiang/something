@@ -105,6 +105,10 @@ biang叔的笔记
 
 ---
 
+### [ruby](ruby/index)
+
+---
+
 ### [shell](shell/index)
 
 ---
