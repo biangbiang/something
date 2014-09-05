@@ -58,3 +58,15 @@ current() 函数返回当前被内部指针指向的数组元素的值，并不�
 
 * json_encode():对变量进行JSON编码
 * json_decode():对JSON格式的字符串进行解码，当第二个参数为TRUE时，直接可以转成array，而不会是对象
+
+### array_intersect()
+
+array_intersect() 函数返回两个或多个数组的交集数组。
+
+结果数组包含了所有在被比较数组中，也同时出现在所有其他参数数组中的值，键名保留不变。
+
+注释：仅有值用于比较。
+
+语法：
+
+    array_intersect(array1,array2,array3...)

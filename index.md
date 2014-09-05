@@ -128,3 +128,7 @@ biang叔的笔记
 ### [vim](vim/index)
 
 ---
+
+### [wechat](wechat/index)
+
+---
