@@ -24,3 +24,11 @@ linux
 ### [linux内置的审计跟踪工具 - last命令](last)
 
 ---
+
+### [访问控制](access-control)
+
+---
+
+### [find用法心得](find)
+
+---

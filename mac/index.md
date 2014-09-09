@@ -24,3 +24,7 @@ mac
 ### [Mac OS X 程序员利器 – Homebrew安装与使用](homebrewInstall)
 
 ---
+
+### [mac版Adobe CS6破解补丁下载和破解方法](ps6)
+
+---
