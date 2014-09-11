@@ -29,10 +29,6 @@ biang叔的笔记
 
 ---
 
-### [flowchart](flowchart/index)
-
----
-
 ### [game](game/index)
 
 ---
@@ -126,6 +122,10 @@ biang叔的笔记
 ---
 
 ### [tea](tea/index)
+
+---
+
+### [teamwork](teamwork/index)
 
 ---
 
