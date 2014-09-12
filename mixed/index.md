@@ -64,3 +64,15 @@ mixed
 ### [paypal手续费](paypal)
 
 ---
+
+### [ACFUN](acfun)
+
+---
+
+### [bilibili](bilibili)
+
+---
+
+### [UP主](up)
+
+---

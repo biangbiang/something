@@ -12,3 +12,7 @@ wechat
 ### [全局返回码说明](global-return-code)
 
 ---
+
+### [接收事件推送](receive-event)
+
+---
