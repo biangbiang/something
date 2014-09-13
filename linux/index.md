@@ -32,3 +32,19 @@ linux
 ### [find用法心得](find)
 
 ---
+
+### [Linux中通过locale来设置字符集](locale)
+
+---
+
+### [CDE](cde)
+
+---
+
+### [LANG,LC_ALL,locale详解](locale-detail)
+
+---
+
+### [把语言环境变量改为英文](lang)
+
+---
