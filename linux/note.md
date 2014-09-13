@@ -40,3 +40,9 @@ linux学习笔记
 ### uniq
 
 uniq 命令删除文件中的重复行。 uniq 命令读取由 InFile 参数指定的标准输入或文件。该命令首先比较相邻的行，然后除去第二行和该行的后续副本。
+
+###  报错can't set the locale; make sure $LC\_* and $LANG are correct
+
+1. 在 /etc/environment 里加入一行 LC\_ALL="en\_US.UTF-8"
+2. sudo locale-gen en\_US.UTF-8
+3. sudo reboot
