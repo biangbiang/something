@@ -28,3 +28,7 @@ mac
 ### [mac版Adobe CS6破解补丁下载和破解方法](ps6)
 
 ---
+
+### [在Mac OSX系统下使用iTunes来制作的铃声](make-ring)
+
+---

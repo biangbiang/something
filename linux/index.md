@@ -48,3 +48,7 @@ linux
 ### [把语言环境变量改为英文](lang)
 
 ---
+
+### [dpkg-reconfigure命令](dpkg-reconfigure)
+
+---

@@ -12,3 +12,7 @@ vim学习笔记
 直接配置 `.vimrc`:
 
     au BufRead,BufNewFile *.{md,mdown,mkd,mkdn,markdown,mdwn} set filetype=mkd
+
+### mac中在两行文字中插入一个空行
+
+	{n1},{n2}s/\n/\r
