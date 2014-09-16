@@ -16,3 +16,7 @@ mysql
 ### [关于phpmyadmin中添加外键的做法](phpmyadmin-fk)
 
 ---
+
+### [MySQL UPDATE操作的一个注意事项](mysql-update)
+
+---
