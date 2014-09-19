@@ -97,6 +97,10 @@ biang叔的笔记
 
 ---
 
+### [object-c](object-c/index)
+
+---
+
 ### [op](op/index)
 
 ---
@@ -106,6 +110,10 @@ biang叔的笔记
 ---
 
 ### [php](php/index)
+
+---
+
+### [python](python/index)
 
 ---
 

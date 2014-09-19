@@ -32,3 +32,7 @@ mac
 ### [在Mac OSX系统下使用iTunes来制作的铃声](make-ring)
 
 ---
+
+### [苹果Mac电脑怎么样连接局域网打印机？](printer)
+
+---
