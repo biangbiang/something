@@ -29,6 +29,10 @@ biang叔的笔记
 
 ---
 
+### [food](food/index)
+
+---
+
 ### [game](game/index)
 
 ---
