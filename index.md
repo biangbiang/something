@@ -109,6 +109,10 @@ biang叔的笔记
 
 ---
 
+### [photoshop](photoshop/index)
+
+---
+
 ### [php](php/index)
 
 ---

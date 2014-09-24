@@ -36,3 +36,7 @@ mac
 ### [苹果Mac电脑怎么样连接局域网打印机？](printer)
 
 ---
+
+### [Apple新闻之五国变六国：Mac OS X Mountain Lion 系统后苹果电脑死机有中文提示了](system-halted)
+
+---

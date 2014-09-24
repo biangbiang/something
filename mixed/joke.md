@@ -18,3 +18,29 @@
   启示1：知识改变命运——流氓不可怕，就怕流氓有文化
   
   启示2：一定要珍惜身边学法律的朋友，没事就请他们聚聚，跟他们学点东西，多好！
+
+5. 路过一家IT公司，一个男人在里面吵起来：“报价八万，便宜到七万五，为何还要砍一千？”男人越说越激动，竟哭了起来。旁人连忙安慰：“一千块而已，不至于啊？”男人说：“我不是哭这个，我难过的是我已经三十几岁了，还在做app外包，这根本不是我要的人生啊。”整个公司里的人都沉默了。
+
+6. 某乎上那些稳准狠的一句话问答，个个看完都是无言以对！
+
+![1](http://biangbiangpic.b0.upaiyun.com/blog/8573249d80e5f2e0af07d40b46b94024.jpg)
+
+![2](http://biangbiangpic.b0.upaiyun.com/blog/d1933e2ccb3e6f9ef3fdc0822735e6e6.jpg)
+
+![3](http://biangbiangpic.b0.upaiyun.com/blog/0c0968f3e71a516cc21017da2a6e2d32.jpg)
+
+![4](http://biangbiangpic.b0.upaiyun.com/blog/bd91f2fa4213b974013e69a5c8c06419.jpg)
+
+![5](http://biangbiangpic.b0.upaiyun.com/blog/daaf4bd12d892b68b07eb477364e3a55.jpg)
+
+![6](http://biangbiangpic.b0.upaiyun.com/blog/a1fe707fe0819efa3c0d3c1a2c4b9b67.jpg)
+
+![7](http://biangbiangpic.b0.upaiyun.com/blog/38e7093229a0e1f5bdfc914952daf824.jpg)
+
+![8](http://biangbiangpic.b0.upaiyun.com/blog/13b3fee02a3804db94b645d3f2dedbfa.jpg)
+
+![9](http://biangbiangpic.b0.upaiyun.com/blog/26edb47c8501d4be096118ae4612b3ef.jpg)
+
+7. 愿你能遇见未知的自己，愿你被这个世界温柔相待。
+
+![10](http://biangbiangpic.b0.upaiyun.com/blog/effc546ed6549a60d03809348d0ddeb0.jpg)

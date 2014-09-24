@@ -20,3 +20,11 @@ mysql
 ### [MySQL UPDATE操作的一个注意事项](mysql-update)
 
 ---
+
+### [mysql mysqldump只导出表结构或只导出数据的实现方法](mysqldump-part)
+
+---
+
+### [详解MySQL中DROP,TRUNCATE 和DELETE的区别实现mysql从零开始](drop-truncate-delete)
+
+---

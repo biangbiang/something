@@ -16,3 +16,7 @@ code
 ### [编程语言的抉择](language-select)
 
 ---
+
+### [垃圾回收](garbage-collection)
+
+---

@@ -20,3 +20,7 @@ git
 ### [gollum](gollum)
 
 ---
+
+### [git 自动补全](bash-completion)
+
+---
