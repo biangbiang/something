@@ -23,24 +23,46 @@
 
 6. 某乎上那些稳准狠的一句话问答，个个看完都是无言以对！
 
-![1](http://biangbiangpic.b0.upaiyun.com/blog/8573249d80e5f2e0af07d40b46b94024.jpg)
-
-![2](http://biangbiangpic.b0.upaiyun.com/blog/d1933e2ccb3e6f9ef3fdc0822735e6e6.jpg)
-
-![3](http://biangbiangpic.b0.upaiyun.com/blog/0c0968f3e71a516cc21017da2a6e2d32.jpg)
-
-![4](http://biangbiangpic.b0.upaiyun.com/blog/bd91f2fa4213b974013e69a5c8c06419.jpg)
-
-![5](http://biangbiangpic.b0.upaiyun.com/blog/daaf4bd12d892b68b07eb477364e3a55.jpg)
-
-![6](http://biangbiangpic.b0.upaiyun.com/blog/a1fe707fe0819efa3c0d3c1a2c4b9b67.jpg)
-
-![7](http://biangbiangpic.b0.upaiyun.com/blog/38e7093229a0e1f5bdfc914952daf824.jpg)
-
-![8](http://biangbiangpic.b0.upaiyun.com/blog/13b3fee02a3804db94b645d3f2dedbfa.jpg)
-
-![9](http://biangbiangpic.b0.upaiyun.com/blog/26edb47c8501d4be096118ae4612b3ef.jpg)
+  ![](http://biangbiangpic.b0.upaiyun.com/blog/8573249d80e5f2e0af07d40b46b94024.jpg)
+  
+  ![](http://biangbiangpic.b0.upaiyun.com/blog/d1933e2ccb3e6f9ef3fdc0822735e6e6.jpg)
+  
+  ![](http://biangbiangpic.b0.upaiyun.com/blog/0c0968f3e71a516cc21017da2a6e2d32.jpg)
+  
+  ![](http://biangbiangpic.b0.upaiyun.com/blog/bd91f2fa4213b974013e69a5c8c06419.jpg)
+  
+  ![](http://biangbiangpic.b0.upaiyun.com/blog/daaf4bd12d892b68b07eb477364e3a55.jpg)
+  
+  ![](http://biangbiangpic.b0.upaiyun.com/blog/a1fe707fe0819efa3c0d3c1a2c4b9b67.jpg)
+  
+  ![](http://biangbiangpic.b0.upaiyun.com/blog/38e7093229a0e1f5bdfc914952daf824.jpg)
+  
+  ![](http://biangbiangpic.b0.upaiyun.com/blog/13b3fee02a3804db94b645d3f2dedbfa.jpg)
+  
+  ![](http://biangbiangpic.b0.upaiyun.com/blog/26edb47c8501d4be096118ae4612b3ef.jpg)
 
 7. 愿你能遇见未知的自己，愿你被这个世界温柔相待。
 
-![10](http://biangbiangpic.b0.upaiyun.com/blog/effc546ed6549a60d03809348d0ddeb0.jpg)
+  ![](http://biangbiangpic.b0.upaiyun.com/blog/effc546ed6549a60d03809348d0ddeb0.jpg)
+
+8. 程序员的10大常用语
+
+  这是老代码：这代码能用，但没人知道它为什么能用。
+  
+  我们采用敏捷开发：每天早上我们都需要站着开无聊的晨会。
+  
+  我们测试过：在我的电脑上是好用的。
+  
+  我们还没测试过：程序里全是bug。
+  
+  方案很简洁：程序可用，而且我知道为什么可用。
+  
+  我们需要重写它：程序可用，但我不知道为什么？
+  
+  这类库不好用：我想自己发明一套。
+  
+  Java比PHP好：我是个无聊的人。
+  
+  明天我们就能完成：把任务推到明天，而且在接下来的五天内完成它。
+  
+  下周我们就能完成：别再问愚蠢的问题了！
