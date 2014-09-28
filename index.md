@@ -1,10 +1,6 @@
 biang叔的笔记
 ===========
 
-### [atom](atom/index)
-
----
-
 ### [bash](bash/index)
 
 ---
@@ -18,6 +14,10 @@ biang叔的笔记
 ---
 
 ### [economy](economy/index)
+
+---
+
+### [editor](editor/index)
 
 ---
 
@@ -146,10 +146,6 @@ biang叔的笔记
 ---
 
 ### [vehicle](vehicle/index)
-
----
-
-### [vim](vim/index)
 
 ---
 
