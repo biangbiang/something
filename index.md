@@ -9,10 +9,6 @@ biang叔的笔记
 
 ---
 
-### [car](car/index)
-
----
-
 ### [code](code/index)
 
 ---
@@ -146,6 +142,10 @@ biang叔的笔记
 ---
 
 ### [trip](trip/index)
+
+---
+
+### [vehicle](vehicle/index)
 
 ---
 
