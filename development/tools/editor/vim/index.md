@@ -1,7 +1,11 @@
 vim
 ===
 
-### [vim学习笔记](note)
+### [vim折叠设置](fold)
+
+---
+
+### [VIM编写markdown文档](markdown)
 
 ---
 
@@ -13,10 +17,6 @@ vim
 
 ---
 
-### [vim折叠设置](fold)
-
----
-
-### [VIM编写markdown文档](markdown)
+### [vim学习笔记](note)
 
 ---

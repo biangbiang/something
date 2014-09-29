@@ -5,6 +5,10 @@
 
 ---
 
+### [nano](nano/index)
+
+---
+
 ### [vim](vim/index)
 
 ---
