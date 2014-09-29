@@ -1,4 +1,4 @@
-editor
+编辑器
 ======
 
 ### [atom](atom/index)

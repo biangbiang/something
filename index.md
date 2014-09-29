@@ -1,23 +1,11 @@
 biang叔的笔记
-===========
+=============
 
-### [bash](bash/index)
-
----
-
-### [code](code/index)
-
----
-
-### [database](database/index)
+### [进击的程序猿](development/index)
 
 ---
 
 ### [economy](economy/index)
-
----
-
-### [editor](editor/index)
 
 ---
 
@@ -33,43 +21,7 @@ biang叔的笔记
 
 ---
 
-### [git](git/index)
-
----
-
 ### [handwriting](handwriting/index)
-
----
-
-### [homebrew](homebrew/index)
-
----
-
-### [html](html/index)
-
----
-
-### [jade](jade/index)
-
----
-
-### [javascript](javascript/index)
-
----
-
-### [license](license/index)
-
----
-
-### [linux](linux/index)
-
----
-
-### [mac](mac/index)
-
----
-
-### [markdown](markdown/index)
 
 ---
 
@@ -77,67 +29,15 @@ biang叔的笔记
 
 ---
 
-### [mixed](mixed/index)
+### [杂烩](mixed/index)
 
 ---
 
-### [mysql](mysql/index)
-
----
-
-### [nano](nano/index)
-
----
-
-### [nodejs](nodejs/index)
-
----
-
-### [object-c](object-c/index)
-
----
-
-### [op](op/index)
-
----
-
-### [p2p](p2p/index)
-
----
-
-### [photoshop](photoshop/index)
-
----
-
-### [php](php/index)
-
----
-
-### [python](python/index)
-
----
-
-### [redis](redis/index)
-
----
-
-### [ruby](ruby/index)
-
----
-
-### [shell](shell/index)
-
----
-
-### [ssh](ssh/index)
+### [二次元](quadratic-element/index)
 
 ---
 
 ### [tea](tea/index)
-
----
-
-### [teamwork](teamwork/index)
 
 ---
 
