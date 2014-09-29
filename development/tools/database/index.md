@@ -1,10 +1,14 @@
-database
-========
+数据库
+======
 
-### [索引](key)
+### [数据库常识](common/index)
 
 ---
 
-### [大型电商用什么数据库](large-user)
+### [mysql](mysql/index)
+
+---
+
+### [redis](redis/index)
 
 ---
