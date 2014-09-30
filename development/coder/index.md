@@ -1,6 +1,14 @@
 码农的自我修养 
 =============
 
+### [markdown](markdown/index)
+
+---
+
+### [photoshop](photoshop/index)
+
+---
+
 ### [微信开发](wechat/index)
 
 ---
