@@ -1,7 +1,7 @@
 bash
 ====
 
-### [bash学习笔记](note)
+### [安全公告：GNU Bash 漏洞公告 (CVE-2014-6271, CVE-2014-7169)](bash-big-bug)
 
 ---
 
@@ -9,6 +9,6 @@ bash
 
 ---
 
-### [安全公告：GNU Bash 漏洞公告 (CVE-2014-6271, CVE-2014-7169)](bash-big-bug)
+### [bash学习笔记](note)
 
 ---

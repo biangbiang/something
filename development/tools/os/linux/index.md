@@ -1,54 +1,18 @@
 linux
 =====
 
-### [ubuntu学习笔记](ubuntu)
+### [bash](bash/index)
 
 ---
 
-### [linux学习笔记](note)
+### [other](other/index)
 
 ---
 
-### [grub](grub)
+### [shell](shell/index)
 
 ---
 
-### [linux gz 解压缩](gzip)
-
----
-
-### [linux awk命令详解](awk)
-
----
-
-### [linux内置的审计跟踪工具 - last命令](last)
-
----
-
-### [访问控制](access-control)
-
----
-
-### [find用法心得](find)
-
----
-
-### [Linux中通过locale来设置字符集](locale)
-
----
-
-### [CDE](cde)
-
----
-
-### [LANG,LC_ALL,locale详解](locale-detail)
-
----
-
-### [把语言环境变量改为英文](lang)
-
----
-
-### [dpkg-reconfigure命令](dpkg-reconfigure)
+### [ssh](ssh/index)
 
 ---
