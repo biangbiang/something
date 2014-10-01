@@ -5,11 +5,7 @@ biang叔的笔记
 
 ---
 
-### [economy](economy/index)
-
----
-
-### [food](food/index)
+### [苟且偷生](live/index)
 
 ---
 
