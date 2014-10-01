@@ -9,10 +9,6 @@ biang叔的笔记
 
 ---
 
-### [file-system](file-system/index)
-
----
-
 ### [food](food/index)
 
 ---
@@ -46,9 +42,5 @@ biang叔的笔记
 ---
 
 ### [vehicle](vehicle/index)
-
----
-
-### [wechat](wechat/index)
 
 ---
