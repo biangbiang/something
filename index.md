@@ -1,6 +1,10 @@
 biang叔的笔记
 =============
 
+### [优雅的诗人](art/index)
+
+---
+
 ### [进击的程序猿](development/index)
 
 ---
@@ -9,34 +13,6 @@ biang叔的笔记
 
 ---
 
-### [game](game/index)
-
----
-
-### [handwriting](handwriting/index)
-
----
-
-### [masterwork](masterwork/index)
-
----
-
-### [杂烩](mixed/index)
-
----
-
-### [二次元](quadratic-element/index)
-
----
-
-### [tea](tea/index)
-
----
-
-### [trip](trip/index)
-
----
-
-### [vehicle](vehicle/index)
+### [失落的神庙](mixed/index)
 
 ---
