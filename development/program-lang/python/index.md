@@ -9,6 +9,10 @@ python
 
 ---
 
+### [python 函数参数的传递(参数带星号的说明)](parameter)
+
+---
+
 ### [Python中的random模块](random)
 
 ---
