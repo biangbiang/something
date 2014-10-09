@@ -1,6 +1,10 @@
 python
 ======
 
+### [python基础知识](base)
+
+---
+
 ### [Python中的random模块](random)
 
 ---
