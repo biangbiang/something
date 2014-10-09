@@ -1,6 +1,10 @@
 python
 ======
 
+### [Python中的random模块](random)
+
+---
+
 ### [判断数据类型](type)
 
 ---
