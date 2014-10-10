@@ -17,6 +17,10 @@ python
 
 ---
 
+### [python中sort() sorted() reverse() reversed() 的区别](sort)
+
+---
+
 ### [判断数据类型](type)
 
 ---
