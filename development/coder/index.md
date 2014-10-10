@@ -9,10 +9,6 @@
 
 ---
 
-### [markdown](markdown/index)
-
----
-
 ### [photoshop](photoshop/index)
 
 ---
