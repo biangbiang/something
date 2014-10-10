@@ -9,6 +9,10 @@ python
 
 ---
 
+### [python class 用法](class)
+
+---
+
 ### [Python list 操作](list)
 
 ---
