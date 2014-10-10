@@ -9,6 +9,10 @@ python
 
 ---
 
+### [Python list 操作](list)
+
+---
+
 ### [python 函数参数的传递(参数带星号的说明)](parameter)
 
 ---
