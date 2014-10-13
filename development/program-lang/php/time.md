@@ -1,5 +1,5 @@
 php时间计算
-==========
+===========
 
     strtotime可以任意加减年、月、日
     
@@ -18,3 +18,11 @@ php时间计算
     // 输出：2008-10-10
     
     echo date("Y-m-d",strtotime("+3 year"));
+
+---
+
+	获取当前时间戳
+	echo time()
+
+	获得当前时间
+	echo date('Y-m-d H:i:s',time());
