@@ -29,3 +29,11 @@ git学习笔记
     git push origin :branch-name
 
 冒号前面的空格不能少，原理是把一个空分支push到server上，相当于删除该分支。
+
+### Git 获取远程分支
+
+另一哥们将分支push到库中，我怎么获取到他的分支信息呢？
+
+如果安装了git客户端，直接选择fetch一下，就可以获取到了。
+
+如果用命令行，运行 git fetch，可以将远程分支信息获取到本地，再运行 git checkout -b local-branchname origin/remote_branchname  就可以将远程分支映射到本地命名为local-branchname  的一分支。 
