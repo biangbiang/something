@@ -9,6 +9,10 @@ mysql
 
 ---
 
+### [MySQL联合查询语法内联、左联、右联、全联](join)
+
+---
+
 ### [MySQL UPDATE操作的一个注意事项](mysql-update)
 
 ---
