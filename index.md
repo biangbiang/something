@@ -13,6 +13,6 @@ biang叔的笔记
 
 ---
 
-### [失落的神庙](mixed/index)
+### [遗落之地](mixed/index)
 
 ---
