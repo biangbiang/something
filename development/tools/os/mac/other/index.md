@@ -21,6 +21,10 @@ other
 
 ---
 
+### [Parallels Desktop](parallels-desktop)
+
+---
+
 ### [苹果Mac电脑怎么样连接局域网打印机？](printer)
 
 ---
