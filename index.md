@@ -9,7 +9,7 @@ biang叔的笔记
 
 ---
 
-### [低调的村民](live/index)
+### [平凡的村民](live/index)
 
 ---
 
