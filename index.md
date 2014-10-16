@@ -13,6 +13,6 @@ biang叔的笔记
 
 ---
 
-### [遗落之地](mixed/index)
+### [杂乱的碎片](mixed/index)
 
 ---
