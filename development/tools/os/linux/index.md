@@ -5,6 +5,10 @@ linux
 
 ---
 
+### [kernel](kernel/index)
+
+---
+
 ### [other](other/index)
 
 ---
