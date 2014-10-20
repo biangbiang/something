@@ -32,6 +32,6 @@ string gettype ( mixed $var )
 * “user function”（只用于 PHP 3，现已停用）
 * “unknown type”
 
-对于 PHP 4，你应该使用 function_exists() 和 method_exists() 取代先前将 gettype() 作用于函数的用法。
+对于 PHP 4，你应该使用 function\_exists() 和 method\_exists() 取代先前将 gettype() 作用于函数的用法。
 
-参见 settype()、is_array()、is_bool()、is_float()、is_integer()、is_null()、is_numeric()、is_object()、is_resource()、is_scalar() 和 is_string()。
+参见 settype()、is\_array()、is\_bool()、is\_float()、is\_integer()、is\_null()、is\_numeric()、is\_object()、is\_resource()、is\_scalar() 和 is\_string()。
