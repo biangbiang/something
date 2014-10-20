@@ -9,6 +9,6 @@
 
 ---
 
-### [生活骇客](lifehacker/index)
+### [生活达人](lifehacker/index)
 
 ---
