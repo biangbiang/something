@@ -8,3 +8,7 @@ photoshop
 ### [切图杂谈](map-cut)
 
 ---
+
+### [PhotoShop教程：切图那点事儿](something-about-map)
+
+---
