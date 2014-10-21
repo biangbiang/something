@@ -30,3 +30,17 @@ window.location 对象用于获得当前页面的地址 (URL)，并把浏览器�
 ### 死链接
 
 javascript:void(0) 
+
+### json
+
+JSON.stringify：把对象类型转化成字符串类型
+
+JSON.parse：把字符串转化成json对象
+
+### 变量
+
+在javascript中，没有使用var声明的变量都被当成全局变量来处理了
+
+### buckaroo
+
+buckaroo里面特殊封装runtime.js Date.format('Y-m-d H:i:s')
