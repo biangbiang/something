@@ -9,6 +9,10 @@ javascript
 
 ---
 
+### [SlidesJS插件的使用](slidesjs)
+
+---
+
 ### [ECMAScript 迭代语句](statements-iterative)
 
 ---
