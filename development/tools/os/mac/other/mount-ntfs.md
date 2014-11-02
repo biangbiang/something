@@ -22,3 +22,7 @@ Mac 挂载NTFS移动硬盘进行读写操作 （Read-only file system）
 4. 将NTFS硬盘 挂载 mount 到mac
 
 		sudo mount_ntfs -o rw,nobrowse /dev/disk1s1 /Volumes/MYHD/
+
+5. 操作结束，卸载
+
+		sudo umount
