@@ -25,6 +25,10 @@ php
 
 ---
 
+### [PHP中的魔术方法和魔术常量简介和使用](magic-method)
+
+---
+
 ### [php5 mysqli教程](mysqli)
 
 ---
