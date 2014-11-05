@@ -25,6 +25,10 @@ php
 
 ---
 
+### [Laravel](laravel)
+
+---
+
 ### [PHP中的魔术方法和魔术常量简介和使用](magic-method)
 
 ---
