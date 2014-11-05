@@ -20,3 +20,7 @@ vim
 ### [vim学习笔记](note)
 
 ---
+
+### [vim练级指南](upgrade-guide)
+
+---
