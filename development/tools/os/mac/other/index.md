@@ -45,6 +45,10 @@ other
 
 ---
 
+### [mac删除pkg](uninstall-pkg)
+
+---
+
 ### [XQuartz](XQuartz)
 
 ---
