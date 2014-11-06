@@ -5,7 +5,7 @@
 
 ---
 
-### [food](food/index)
+### [饕餮美味](food/index)
 
 ---
 
