@@ -9,6 +9,10 @@ photoshop
 
 ---
 
+### [PS无水印快捷键大全](shortcut-note)
+
+---
+
 ### [PhotoShop教程：切图那点事儿](something-about-map)
 
 ---
