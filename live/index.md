@@ -1,6 +1,10 @@
 平凡的村民
 ==========
 
+### [数码宝贝](digimon/index)
+
+---
+
 ### [economy](economy/index)
 
 ---
