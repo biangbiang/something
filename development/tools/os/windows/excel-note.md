@@ -26,3 +26,25 @@ excel2007
   ![](http://biangbiangpic.b0.upaiyun.com/blog/49ad719a691c7dc1817b8a76923cdf21.jpg)
 
 5. 这时会发现，在右上角依然会出现黄色的标识符，这时我们只需要根据上面的方法操作就可以了。
+
+---
+
+## Excel公式大全，高手进阶必备
+
+![](http://biangbiangpic.b0.upaiyun.com/blog/127b9d75cf305cde24b43a8a2ed1086a.jpg)
+
+![](http://biangbiangpic.b0.upaiyun.com/blog/51e0eb9f9e0d2449d40305190a658451.jpg)
+
+![](http://biangbiangpic.b0.upaiyun.com/blog/0d84510f95595bce1359794a022cb816.jpg)
+
+![](http://biangbiangpic.b0.upaiyun.com/blog/ea06850e8ddd16adb540a87b61d1bd2c.jpg)
+
+![](http://biangbiangpic.b0.upaiyun.com/blog/5fcab922ae6da0c3f35c95483b0ed8c7.jpg)
+
+![](http://biangbiangpic.b0.upaiyun.com/blog/ea1809cbc9e17cb6bbdca0a4797f8784.jpg)
+
+![](http://biangbiangpic.b0.upaiyun.com/blog/4b2bc461fecfcb2c0ac7d5f68ceda5e5.jpg)
+
+![](http://biangbiangpic.b0.upaiyun.com/blog/28c332eed4caee09a237967ecd3a3d70.jpg)
+
+![](http://biangbiangpic.b0.upaiyun.com/blog/4b80705bd6a0e3e023e84c8b3e911bb8.jpg)
