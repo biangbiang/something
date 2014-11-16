@@ -1,6 +1,10 @@
 windows
 =======
 
+### [让Chrome使用Socks5代理](chrome-socks5)
+
+---
+
 ### [excel笔记](excel-note)
 
 ---
