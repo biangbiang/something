@@ -5,7 +5,7 @@
 
 ---
 
-### [economy](economy/index)
+### [理财高手](economy/index)
 
 ---
 
