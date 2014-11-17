@@ -1,6 +1,10 @@
 生活达人
 =======
 
+### [安卓机的一些小常识](android-mobile-note)
+
+---
+
 ### [视力模糊](blurred-vision)
 
 ---
