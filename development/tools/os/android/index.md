@@ -8,3 +8,7 @@ android
 ### [在mac上搭建Android开发环境](mac-install-android)
 
 ---
+
+### [安卓开发笔记](note)
+
+---
