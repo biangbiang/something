@@ -54,3 +54,31 @@ did I miss something?
 You don't have the other SDKs.
 
 To download them, open the SDK manager from Android Studio, and download Android 4.4.2 (API 19).
+
+---
+
+### Download interrupted: Connection to https://dl-ssl.google.com refused  
+
+这个可能是网络问题，国内连google服务器经常连不上。
+
+尝试用下面办法试下：
+
+1. 上图SDK Manager 的 Tools ->Options打开SDK Manager的Settings，选中“Force https://… sources to be fetched using http://…”，强制使用http协议。
+
+  ![](http://biangbiangpic.b0.upaiyun.com/blog/167f6f108c6ad3d1e6dbfe0225d2ff05.jpg)
+
+  ![](http://biangbiangpic.b0.upaiyun.com/blog/8acef821487d293f1f05a727e70137d5.jpg)
+
+2. 改hosts文件。
+
+  Windows在C:\WINDOWS\system32\drivers\etc目录下，
+
+  Linux用户打开/etc/hosts文件，   
+
+  打开文件后添加以下内容：
+
+        #android更新
+
+        203.208.46.146 dl.google.com
+
+        203.208.46.146 dl-ssl.google.com
