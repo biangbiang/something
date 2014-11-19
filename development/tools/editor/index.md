@@ -5,6 +5,10 @@
 
 ---
 
+### [eclipse](eclipse/index)
+
+---
+
 ### [nano](nano/index)
 
 ---
