@@ -5,6 +5,10 @@ android
 
 ---
 
+### [Android 软件开发之如何使用Eclipse Debug调试程序详解](eclipse-debug)
+
+---
+
 ### [在mac上搭建Android开发环境](mac-install-android)
 
 ---
