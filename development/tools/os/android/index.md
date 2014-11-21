@@ -1,6 +1,10 @@
 android
 =======
 
+### [Log图文详解(Log.v,Log.d,Log.i,Log.w,Log.e)](android-log)
+
+---
+
 ### [Android兼容性测试的一些坑](compatible-hole)
 
 ---
