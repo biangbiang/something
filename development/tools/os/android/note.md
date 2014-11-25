@@ -82,3 +82,33 @@ To download them, open the SDK manager from Android Studio, and download Android
         203.208.46.146 dl.google.com
 
         203.208.46.146 dl-ssl.google.com
+
+---
+
+### 如何在 Mac 下搭建 Android Build 环境？
+
+官方文档：http://source.android.com/source/initializing.html#setting-up-a-mac-os-x-build-environment
+
+1. Mac的默认文件格式是不区分大小写的，所以要创建一个区分大小写的分区。
+
+  也就是文中的：
+
+  hdiutil create -type SPARSE -fs 'Case-sensitive Journaled HFS+' -size 40g ~/android.dmg
+
+  大小为40G，位置是用户目录，名字为android.dmg.
+
+2. 加载分区，记得我当时是双击解决。文中的方式是在~/.bash_profile 中加入以下代码：
+
+  function mountAndroid { hdiutil attach ~/android.dmg -mountpoint /Volumes/android; }
+
+  然后在终端执行mountAndroid
+
+3. 接下来不同的源码版本编译环境不同，我建议你直接编译Master.
+
+  要求环境是： MacOS 10.8 (Mountain Lion), along with Xcode 4.5.2 and Command Line Tools(不过我当时环境的确是这个) JDK7.
+
+4. Installing required packages这个按说的做就行了。
+
+5. 下载源码，也有文档
+
+6. 编译。
