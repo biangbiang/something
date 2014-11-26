@@ -13,6 +13,10 @@
 
 ---
 
+### [历史尘埃](history/index)
+
+---
+
 ### [生活达人](lifehacker/index)
 
 ---
