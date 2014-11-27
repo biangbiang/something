@@ -20,3 +20,7 @@ android
 ### [安卓开发笔记](note)
 
 ---
+
+### [关于android内核从linux内核分支上除名](remove-android-from-linux)
+
+---
