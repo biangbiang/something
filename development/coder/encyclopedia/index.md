@@ -9,6 +9,10 @@
 
 ---
 
+### [域名record type 怎么设置](domain-record-type)
+
+---
+
 ### [垃圾回收](garbage-collection)
 
 ---
