@@ -1,14 +1,6 @@
 码农秘宝
 ========
 
-### [Chrome隐身模式有什么用](chrome-incognito)
-
----
-
-### [chrome笔记](chrome)
-
----
-
 ### [挑战最强大脑——来自全球的14个编码社区](coding-challenges)
 
 ---
