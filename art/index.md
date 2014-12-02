@@ -25,6 +25,6 @@
 
 ---
 
-### [vehicle](vehicle/index)
+### [骑士战车](vehicle/index)
 
 ---
