@@ -13,7 +13,7 @@
 
 ---
 
-### [二次元](quadratic-element/index)
+### [二维空间](quadratic-element/index)
 
 ---
 
