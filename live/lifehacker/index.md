@@ -17,6 +17,10 @@
 
 ---
 
+### [厨房的清洁小技巧](kitchen-clear)
+
+---
+
 ### [听诊器效应](stethoscope-effect)
 
 ---
