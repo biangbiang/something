@@ -20,3 +20,7 @@
 ### [生活达人](lifehacker/index)
 
 ---
+
+### [购物狂魔](shopping/index)
+
+---
