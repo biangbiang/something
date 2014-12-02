@@ -17,11 +17,11 @@
 
 ---
 
-### [tea](tea/index)
+### [品茶之道](tea/index)
 
 ---
 
-### [trip](trip/index)
+### [环游之梦](trip/index)
 
 ---
 
