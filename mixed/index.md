@@ -61,18 +61,6 @@
 
 ---
 
-### [ACFUN](acfun)
-
----
-
-### [bilibili](bilibili)
-
----
-
-### [UP主](up)
-
----
-
 ### [马桶堵了怎么办？（疏通马桶的十大绝招）](flush-toilet)
 
 ---

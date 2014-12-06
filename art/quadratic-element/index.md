@@ -5,6 +5,10 @@
 
 ---
 
+### [二次元常识](common/index)
+
+---
+
 ### [海贼王](one-piece/index)
 
 ---
