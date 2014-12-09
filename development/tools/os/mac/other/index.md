@@ -1,6 +1,10 @@
 other
 =====
 
+### [Mac技巧之苹果电脑 Mac OS X 系统下支持密码加密和 RAR 格式的压缩/解压缩免费软件推荐：Keka](keka)
+
+---
+
 ### [OS X 键盘快捷键](keyboard)
 
 ---
