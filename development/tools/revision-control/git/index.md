@@ -5,6 +5,10 @@ git
 
 ---
 
+### [git查看某个文件的修改历史](git-log-show)
+
+---
+
 ### [基于git的源代码管理模型——git flow](gitflow)
 
 ---
