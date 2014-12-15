@@ -56,3 +56,8 @@ other
 ### [XQuartz](XQuartz)
 
 ---
+
+### [系统升级到Yosemite之后的各种问题](Yosemite-bug)
+
+---
+
