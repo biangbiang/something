@@ -57,6 +57,10 @@ linux
 
 ---
 
+### [Linux关机命令详解](poweroff)
+
+---
+
 ### [ubuntu学习笔记](ubuntu)
 
 ---
