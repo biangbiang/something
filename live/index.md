@@ -13,6 +13,10 @@
 
 ---
 
+### [饭后谈资](gossip/index)
+
+---
+
 ### [历史尘埃](history/index)
 
 ---
