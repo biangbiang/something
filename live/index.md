@@ -28,3 +28,7 @@
 ### [购物狂魔](shopping/index)
 
 ---
+
+### [奇人奇事](wonders/index)
+
+---
