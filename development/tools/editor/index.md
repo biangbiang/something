@@ -13,6 +13,10 @@
 
 ---
 
+### [sublime](sublime/index)
+
+---
+
 ### [vim](vim/index)
 
 ---
