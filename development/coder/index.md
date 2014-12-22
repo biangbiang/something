@@ -5,6 +5,10 @@
 
 ---
 
+### [邮件](email/index)
+
+---
+
 ### [码农秘宝](encyclopedia/index)
 
 ---
