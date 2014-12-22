@@ -5,7 +5,7 @@
 
 ---
 
-### [邮件](email/index)
+### [电子邮件](email/index)
 
 ---
 
