@@ -49,6 +49,10 @@ php
 
 ---
 
+### [php中的urlencode()、urldecode() 的使用方法](php-urlencode-urldecode)
+
+---
+
 ### [php $_POST 与 php://input的区别分析](post-input)
 
 ---
