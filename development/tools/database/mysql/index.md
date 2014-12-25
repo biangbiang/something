@@ -13,6 +13,10 @@ mysql
 
 ---
 
+### [MySQL数据类型-decimal详解](mysql-decimal)
+
+---
+
 ### [MySQL UPDATE操作的一个注意事项](mysql-update)
 
 ---
