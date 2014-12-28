@@ -36,3 +36,7 @@ mysql
 ### [关于phpmyadmin中添加外键的做法](phpmyadmin-fk)
 
 ---
+
+### [数据库为什么要分库分表](sub-table-reason)
+
+---
