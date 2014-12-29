@@ -61,6 +61,10 @@ php
 
 ---
 
+### [soap](soap)
+
+---
+
 ### [php字符串](string)
 
 ---
