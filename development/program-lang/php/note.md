@@ -36,3 +36,9 @@ empty返回值:
 * 若变量不存在则返回 TRUE
 * 若变量存在且其值为""、0、"0"、NULL、FALSE、array()、var $var; 以及没有任何属性的对象，则返回 TURE
 * 若变量存在且值不为""、0、"0"、NULL、FALSE、array()、var $var; 以及没有任何属性的对象，则返回 FALSE
+
+### curl post
+
+CURLOPT\_POSTFIELDS
+
+全部数据使用HTTP协议中的"POST"操作来发送。要发送文件，在文件名前面加上@前缀并使用完整路径。这个参数可以通过urlencoded后的字符串类似'para1=val1&para2=val2&...'或使用一个以字段名为键值，字段数据为值的数组。如果value是一个数组，Content-Type头将会被设置成multipart/form-data。
