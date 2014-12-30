@@ -17,6 +17,10 @@ php
 
 ---
 
+### [PHP中include()与require()的区别说明](diff-include-require)
+
+---
+
 ### [gd库](gd)
 
 ---
