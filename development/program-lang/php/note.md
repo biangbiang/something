@@ -42,3 +42,15 @@ empty返回值:
 CURLOPT\_POSTFIELDS
 
 全部数据使用HTTP协议中的"POST"操作来发送。要发送文件，在文件名前面加上@前缀并使用完整路径。这个参数可以通过urlencoded后的字符串类似'para1=val1&para2=val2&...'或使用一个以字段名为键值，字段数据为值的数组。如果value是一个数组，Content-Type头将会被设置成multipart/form-data。
+
+### PHP 大小写转换的函数
+
+几个常用的PHP大小写转换方法，记录一下：
+
+1    strtolower()       //将字符串转换为小写形式
+
+2    strtoupper()     //将字符串转换为大写形式
+
+3    ucfirst()           //将字符串的第一个字符转换为大写形式
+
+4    ucwords()       //将字符串中每一个单词的首字母转换为大写形式
