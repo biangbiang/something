@@ -33,6 +33,10 @@ php
 
 ---
 
+### [PHP 输出中文 JSON 字符串](input-chinese-in-json)
+
+---
+
 ### [php环境搭建](install)
 
 ---
