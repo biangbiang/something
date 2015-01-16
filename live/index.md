@@ -25,6 +25,10 @@
 
 ---
 
+### [妙手回春](medicine/index)
+
+---
+
 ### [购物狂魔](shopping/index)
 
 ---
