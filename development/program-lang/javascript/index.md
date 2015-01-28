@@ -1,6 +1,10 @@
 javascript
 ==========
 
+### [angularjs学习](angularjs-study)
+
+---
+
 ### [Gulp vs Grunt](gulp-vs-grunt)
 
 ---
