@@ -29,6 +29,14 @@ excel2007
 
 ---
 
+### excel如何换行
+
+1、alt+enter
+
+2、设置单元格格式——对齐——文本控制——自动换行
+
+---
+
 ## Excel公式大全，高手进阶必备
 
 ![](http://biangbiangpic.b0.upaiyun.com/blog/127b9d75cf305cde24b43a8a2ed1086a.jpg)
