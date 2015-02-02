@@ -5,6 +5,6 @@
 
 ---
 
-### [遗落宝库](other/index)
+### [玩物丧志](other/index)
 
 ---
