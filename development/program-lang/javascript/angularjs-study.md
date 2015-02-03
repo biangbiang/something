@@ -7,6 +7,8 @@ AngularJS 是以一个 JavaScript 文件形式发布的，可通过 script 标�
 
     <script src="angular.js"></script>
 
+AngularJS官方文档: [https://docs.angularjs.org/guide](https://docs.angularjs.org/guide)
+
 ---
 
 ### 什么是 AngularJS？
