@@ -30,3 +30,11 @@
 ![](http://biangbiangpic.b0.upaiyun.com/blog/e7e97ea60c072d857def887e785ec2a2.png)
 
 图-微信内网页支付时序图
+
+商户系统和微信支付系统主要交互：
+
+1. 商户server调用统一下单接口请求订单，api参见公共api【统一下单】
+
+2. 商户server接收支付通知，api参见公共api【通用通知api】
+
+3. 商户server查询支付结果，api参见公共api【查询订单api】

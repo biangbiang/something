@@ -8,3 +8,7 @@ nodejs
 ### [hexo搭建博客](hexo)
 
 ---
+
+### [nodejs学习笔记](node-notes)
+
+---
