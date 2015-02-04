@@ -24,3 +24,9 @@
 例如，原始URL为：http://weixin.qq.com,显示安全支付标题的URL为：http://weixin.qq.com?showwxpaytitle=1。
 
 当用户在微信里打开http://weixin.qq.com不会直接出现微信安全支付的标题，而打开http://weixin.qq.com?showwxpaytitle=1后将出现微信安全支付标题。
+
+### 业务流程时序图
+
+![](http://biangbiangpic.b0.upaiyun.com/blog/e7e97ea60c072d857def887e785ec2a2.png)
+
+图-微信内网页支付时序图
