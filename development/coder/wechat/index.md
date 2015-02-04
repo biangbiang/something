@@ -16,3 +16,7 @@
 ### [接收信息](receive-message)
 
 ---
+
+### [微信支付](wechat-payment)
+
+---
