@@ -17,7 +17,7 @@
 
 ![](http://biangbiangpic.b0.upaiyun.com/blog/2b0a3a03805dd6acd3f689e6864715be.png)
 
-图7.10微信安全支付标题
+图-微信安全支付标题
 
 显示支付安全标题，需将原始链接添加上"showwxpaytitle=1"的尾串。通过这种方式，商户的页面将出现微信安全支付的标识。
 
