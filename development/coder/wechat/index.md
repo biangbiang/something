@@ -13,6 +13,10 @@
 
 ---
 
+### [微信公众号支付接口PHP版](php-sdk-readme)
+
+---
+
 ### [接收事件推送](receive-event)
 
 ---
