@@ -9,6 +9,10 @@
 
 ---
 
+### [天文地理](knowledge/index)
+
+---
+
 ### [二维空间](quadratic-element/index)
 
 ---
