@@ -9,6 +9,10 @@
 
 ---
 
+### [代公众号使用JS SDK说明](JS-SDK-DOC)
+
+---
+
 ### [名词解释](noun-explanation)
 
 ---
