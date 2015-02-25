@@ -5,6 +5,10 @@
 
 ---
 
+### [有钱人就是任性！世界排名前十位的高端信用卡！](credit-cards-rank)
+
+---
+
 ### [中国福利彩票双色球](double-chromosphere)
 
 ---
