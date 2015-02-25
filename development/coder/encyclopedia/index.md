@@ -1,6 +1,10 @@
 码农秘宝
 ========
 
+### [字符编码笔记：ASCII，Unicode和UTF-8](character-encoding-notes)
+
+---
+
 ### [字符编码](character-encoding)
 
 ---
