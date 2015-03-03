@@ -83,11 +83,11 @@ Javascript 中的函数属于词法作用域，也就是说函数在它被定义
 
 在 setTimeout(fn, delay) 的时候，我们不能给 fn 这个函数句柄传参数，但可以通过闭包的方法把需要的参数绑定到 fn 内部。
 
-for(var i=0,delay=1000; i< 5; i++, delay +=1000) {
-    setTimeout(function() {
-        console.log('i:' + i + " delay:" + delay);
-    }, delay);
-}
+    for(var i=0,delay=1000; i< 5; i++, delay +=1000) {
+        setTimeout(function() {
+            console.log('i:' + i + " delay:" + delay);
+        }, delay);
+    }
 
 这样，打印出来的值都是
 
