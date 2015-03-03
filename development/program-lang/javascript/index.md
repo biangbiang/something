@@ -13,6 +13,10 @@ javascript
 
 ---
 
+### [js词法作用域、调用对象与闭包](js-scope-callObject-closuer)
+
+---
+
 ### [javascript笔记](note)
 
 ---
