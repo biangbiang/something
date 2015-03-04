@@ -17,6 +17,10 @@ javascript
 
 ---
 
+### [kangax 的javascript谜题](kangax-javascript-examination)
+
+---
+
 ### [javascript笔记](note)
 
 ---
