@@ -21,3 +21,10 @@ chrome笔记
     Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0 
     Pragma: no-cache 
     Content-Encoding: gzip
+
+---
+
+### 常用快捷键
+
+* ctrl+shift+b : 隐藏书签栏
+* ctrl+shift+n : 隐身模式
