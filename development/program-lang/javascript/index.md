@@ -21,6 +21,10 @@ javascript
 
 ---
 
+### [容易造成JavaScript内存泄露几个方面](may-cause-memory-leak-reason)
+
+---
+
 ### [javascript笔记](note)
 
 ---
