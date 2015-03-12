@@ -1,9 +1,9 @@
 php $_POST 与 php://input的区别分析
 ==================================
 
-$_POST 与 php教程://input可以取到值，$HTTP_RAW_POST_DATA 为空
+$\_POST 与 php://input可以取到值，$HTTP\_RAW\_POST\_DATA 为空
 
-$_POST 以关联数组方式组织提交的数据，并对此进行编码处理，如urldecode，甚至编码转换
+$\_POST 以关联数组方式组织提交的数据，并对此进行编码处理，如urldecode，甚至编码转换
 
 php://input 也可以实现此这个功能可以获得POST的原始数据。
 
@@ -23,7 +23,7 @@ php://input 也可以实现此这个功能可以获得POST的原始数据。
  
 	<? echo file_get_contents("php://input");?>
 
-php://input 允许读取 POST 的原始数据。和 $HTTP_RAW_POST_DATA 比起来，它给内存带来的压力较小，并且不需要任何特殊的 php.ini 设置。php://input 不能用于 enctype="multipart/form-data"。
+php://input 允许读取 POST 的原始数据。和 $HTTP\_RAW\_POST\_DATA 比起来，它给内存带来的压力较小，并且不需要任何特殊的 php.ini 设置。php://input 不能用于 enctype="multipart/form-data"。
 
 **php $_POST**
 
