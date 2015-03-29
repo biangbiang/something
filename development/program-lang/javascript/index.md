@@ -1,6 +1,10 @@
 javascript
 ==========
 
+### [AngularJS select详细用法](angularjs-select)
+
+---
+
 ### [angularjs学习](angularjs-study)
 
 ---
