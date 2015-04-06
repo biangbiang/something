@@ -57,6 +57,10 @@ linux
 
 ---
 
+### [linux打补丁的命令-patch](patch)
+
+---
+
 ### [Linux关机命令详解](poweroff)
 
 ---
