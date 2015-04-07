@@ -45,6 +45,10 @@ php
 
 ---
 
+### [linux下nginx多版本php共存](linux-multi-version-php)
+
+---
+
 ### [PHP中的魔术方法和魔术常量简介和使用](magic-method)
 
 ---
