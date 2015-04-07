@@ -37,6 +37,10 @@ php
 
 ---
 
+### [install php5.2.17 with php-fpm](install-php5217-with-phpfpm)
+
+---
+
 ### [php环境搭建](install)
 
 ---
