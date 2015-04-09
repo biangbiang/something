@@ -65,6 +65,10 @@ linux
 
 ---
 
+### [关于tar、tar.gz、tar.bz2的区别与用法](something-about-tar-targz-tarbz2)
+
+---
+
 ### [ubuntu学习笔记](ubuntu)
 
 ---

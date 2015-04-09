@@ -65,6 +65,10 @@ php
 
 ---
 
+### [PHP – node.lo compiler errors when building on OS X 10.9](php-node-lo-compiler-errors-when-building-on-os-x-10-9)
+
+---
+
 ### [php中的urlencode()、urldecode() 的使用方法](php-urlencode-urldecode)
 
 ---
