@@ -13,6 +13,10 @@ linux
 
 ---
 
+### [diff 命令](diff)
+
+---
+
 ### [dpkg-reconfigure命令](dpkg-reconfigure)
 
 ---
