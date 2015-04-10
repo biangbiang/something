@@ -84,3 +84,11 @@ CURLOPT\_POSTFIELDS
     $http_response_header — HTTP 响应头
     $argc — 传递给脚本的参数数目
     $argv — 传递给脚本的参数数组
+
+### php\_sapi\_name
+
+php\_sapi\_name — 返回 web 服务器和 PHP 之间的接口类型
+
+返回接口类型的小写字符串。
+
+尽管不够全面，可能返回的值包括了 aolserver、apache、 apache2filter、apache2handler、 caudium、cgi （直到 PHP 5.3）, cgi-fcgi、cli、 cli-server、 continuity、embed、fpm-fcgi、 isapi、litespeed、 milter、nsapi、 phttpd、pi3web、roxen、 thttpd、tux 和 webjames。
