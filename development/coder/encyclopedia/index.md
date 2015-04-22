@@ -1,6 +1,10 @@
 码农秘宝
 ========
 
+### [CS架构和BS架构的区别](bs-cs-diff)
+
+---
+
 ### [字符编码笔记：ASCII，Unicode和UTF-8](character-encoding-notes)
 
 ---
