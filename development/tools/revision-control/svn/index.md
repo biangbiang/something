@@ -5,6 +5,10 @@ svn
 
 ---
 
+### [svn学习笔记](svn-notes)
+
+---
+
 ### [svn 命令行下常用的几个命令](svn-used-commands)
 
 ---
