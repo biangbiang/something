@@ -5,6 +5,10 @@ Web Service
 
 ---
 
+### [RMI/XML-RPC/JSON-RPC/SOAP概念比较](RMI-XML-RPC-JSON-RPC-SOAP-diff)
+
+---
+
 ### [web service与远程调用（RPC）的区别](web-service-rpc-diff)
 
 ---
