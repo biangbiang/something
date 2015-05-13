@@ -1,13 +1,13 @@
 Mac 挂载NTFS移动硬盘进行读写操作 （Read-only file system）
 =========================================================
 
-1. diskutil info /Volumes/YOUR_NTFS_DISK_NAME 
+1. diskutil info /Volumes/YOUR\_NTFS\_DISK\_NAME 
 
   找到 Device Node
   
   Device Node:              /dev/disk1s1
 
-2. hdiutil eject /Volumes/YOUR_NTFS_DISK_NAME
+2. hdiutil eject /Volumes/YOUR\_NTFS\_DISK\_NAME
 
   "disk1" unmounted.
   
