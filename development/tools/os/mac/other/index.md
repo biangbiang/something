@@ -57,6 +57,10 @@ other
 
 ---
 
+### [VMware Fusion](VMware-Fusion)
+
+---
+
 ### [XQuartz](XQuartz)
 
 ---
