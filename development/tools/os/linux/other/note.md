@@ -86,3 +86,8 @@ uniq 命令删除文件中的重复行。 uniq 命令读取由 InFile 参数指�
     search               localdomain
     nameserver 172.16.0.250
 
+### 修改密码
+
+你是普通用户的话，修改自己的密码，用：passwd，就可以了，会让你先输入自己的旧密码，再输入两遍新密码。
+
+你是root的话，用：passwd username，就可以修改username的密码了，直接输入两遍新密码就可以了，不用输入旧密码。
