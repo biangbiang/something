@@ -61,6 +61,10 @@ php
 
 ---
 
+### [nginx下支持PATH_INFO详解](nginx-pathinfo)
+
+---
+
 ### [php学习笔记](note)
 
 ---
