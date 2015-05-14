@@ -20,3 +20,7 @@ linux
 ### [ssh](ssh/index)
 
 ---
+
+### [ubuntu](ubuntu/index)
+
+---
