@@ -1,5 +1,5 @@
 ubuntu学习笔记
-============
+==============
 
 ### apt-cache查找可用软件包
 
@@ -12,3 +12,30 @@ ubuntu学习笔记
 另外apt-get install package时以Depends或是Recommends开头的行中的包都将被安装，而以Suggests开头的行中的包不会被安装。
 
 ---
+
+### Ubuntu 修改源
+
+打开Ubuntu的终端,输入
+
+    sudo gedit /etc/apt/sources.list
+
+删掉里边所有旧的内容，把新的源列表内容贴进去
+
+再执行:
+
+    sudo apt-get update
+
+就可以生效。
+
+ubuntu镜像源列表参考
+
+    deb http://mirrors.163.com/ubuntu/ intrepid main restricted universe multiverse
+    deb http://mirrors.163.com/ubuntu/ intrepid-security main restricted universe multiverse
+    deb http://mirrors.163.com/ubuntu/ intrepid-updates main restricted universe multiverse
+    deb http://mirrors.163.com/ubuntu/ intrepid-proposed main restricted universe multiverse
+    deb http://mirrors.163.com/ubuntu/ intrepid-backports main restricted universe multiverse
+    deb-src http://mirrors.163.com/ubuntu/ intrepid main restricted universe multiverse
+    deb-src http://mirrors.163.com/ubuntu/ intrepid-security main restricted universe multiverse
+    deb-src http://mirrors.163.com/ubuntu/ intrepid-updates main restricted universe multiverse
+    deb-src http://mirrors.163.com/ubuntu/ intrepid-proposed main restricted universe multiverse
+    deb-src http://mirrors.163.com/ubuntu/ intrepid-backports main restricted universe multiverse
