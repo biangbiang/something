@@ -9,6 +9,10 @@ linux
 
 ---
 
+### [linux关于bashrc与profile的区别](bashrc-profile-diff)
+
+---
+
 ### [CDE](cde)
 
 ---
