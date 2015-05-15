@@ -1,6 +1,10 @@
 mysql
 =====
 
+### [ERROR 2003 (HY000): Can't connect to MySQL server](can-not-connect)
+
+---
+
 ### [索引的利弊与如何判定，是否需要索引](dbi)
 
 ---
