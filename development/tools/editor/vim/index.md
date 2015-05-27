@@ -24,3 +24,7 @@ vim
 ### [vim练级指南](upgrade-guide)
 
 ---
+
+### [Vim “No Identifier Under Cursor” Arrow Keys Problem](vim-no-identifier-under-cursor-arrow-keys-problem)
+
+---
