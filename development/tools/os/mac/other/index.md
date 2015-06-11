@@ -49,6 +49,10 @@ other
 
 ---
 
+### [在 Mac OS X 下如何完全关闭 Finder ?](quit-finder)
+
+---
+
 ### [Apple新闻之五国变六国：Mac OS X Mountain Lion 系统后苹果电脑死机有中文提示了](system-halted)
 
 ---
