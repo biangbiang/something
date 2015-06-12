@@ -8,3 +8,7 @@ ruby
 ### [rvm介绍](rvm-guide)
 
 ---
+
+### [微型Web框架(Ruby) Sinatra](sinatra)
+
+---
