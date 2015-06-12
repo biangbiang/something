@@ -127,3 +127,17 @@ rvm还可以自动加载gemset.
 当我第一次安装完成了，就惊呼，这也太爽了吧。
 
 ps:rvm是个好东西，做的很智能，（大部分）操作失败后会告诉你原因，然后告诉你需要安装哪些Lib等等，非常适合新手老手使用,简直是居家旅行必备良药。
+
+
+---
+
+### 请问，这个rvm的警告怎么消除
+
+    Warning! PATH is not properly set up, '/home/ly/.rvm/gems/ruby-2.0.0-p598/bin' is not at first place,
+    usually this is caused by shell initialization files - check them for 'PATH=...' entries,
+    it might also help to re-add RVM to your dotfiles: 'rvm get stable --auto-dotfiles',
+    to fix temporarily in this shell session run: 'rvm use ruby-2.0.0-p598'.
+
+处理方案：
+
+    rvm reset
