@@ -1,4 +1,4 @@
-mac
+osx
 ===
 
 ### [homebrew](homebrew/index)

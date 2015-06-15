@@ -5,11 +5,15 @@
 
 ---
 
+### [ios](ios/index)
+
+---
+
 ### [linux](linux/index)
 
 ---
 
-### [mac](mac/index)
+### [osx](osx/index)
 
 ---
 
