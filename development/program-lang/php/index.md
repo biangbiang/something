@@ -100,3 +100,7 @@ php
 ### [PHP 中的use关键字](use)
 
 ---
+
+### [License File Location](zend-guard-license-file-location)
+
+---
