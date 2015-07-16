@@ -9,6 +9,10 @@ svn
 
 ---
 
+### [svn生成patch和打（导入）patch文件的方法](svn-patch)
+
+---
+
 ### [svn 命令行下常用的几个命令](svn-used-commands)
 
 ---
