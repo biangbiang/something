@@ -44,3 +44,7 @@ mysql
 ### [数据库为什么要分库分表](sub-table-reason)
 
 ---
+
+### [Ubuntu下重置MySQL的root密码](ubuntu-reset-password)
+
+---
