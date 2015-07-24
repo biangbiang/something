@@ -73,6 +73,10 @@ php
 
 ---
 
+### [关于 PHP 中 Session 的几个问题](php-session)
+
+---
+
 ### [php中的urlencode()、urldecode() 的使用方法](php-urlencode-urldecode)
 
 ---
