@@ -29,6 +29,10 @@ other
 
 ---
 
+### [Mac下MySQL卸载方法](mysql-uninstall)
+
+---
+
 ### [mac学习笔记](note)
 
 ---
