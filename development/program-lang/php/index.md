@@ -69,6 +69,10 @@ php
 
 ---
 
+### [PHP mkdir()无写权限的问题解决方法](php-mkdir)
+
+---
+
 ### [PHP – node.lo compiler errors when building on OS X 10.9](php-node-lo-compiler-errors-when-building-on-os-x-10-9)
 
 ---
