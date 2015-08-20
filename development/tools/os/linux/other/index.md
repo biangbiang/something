@@ -73,6 +73,10 @@ linux
 
 ---
 
+### [linux 技巧：使用 screen 管理你的远程会话](screen)
+
+---
+
 ### [关于tar、tar.gz、tar.bz2的区别与用法](something-about-tar-targz-tarbz2)
 
 ---
