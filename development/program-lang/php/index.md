@@ -61,7 +61,7 @@ php
 
 ---
 
-### [nginx下支持PATH_INFO详解](nginx-pathinfo)
+### [nginx下支持PATH\_INFO详解](nginx-pathinfo)
 
 ---
 
@@ -77,6 +77,10 @@ php
 
 ---
 
+### [解析PHP中ob\_start()函数的用法](php-ob\_start)
+
+---
+
 ### [关于 PHP 中 Session 的几个问题](php-session)
 
 ---
@@ -85,7 +89,7 @@ php
 
 ---
 
-### [php $_POST 与 php://input的区别分析](post-input)
+### [php $\_POST 与 php://input的区别分析](post-input)
 
 ---
 
