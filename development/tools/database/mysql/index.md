@@ -21,6 +21,10 @@ mysql
 
 ---
 
+### [设置mysql允许外网访问](mysql-external-access)
+
+---
+
 ### [MySQL UPDATE操作的一个注意事项](mysql-update)
 
 ---
