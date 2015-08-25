@@ -8,3 +8,7 @@ ubuntu
 ### [ubuntu学习笔记](note)
 
 ---
+
+### [ubuntu开启SSH服务](ubuntu-ssh)
+
+---
