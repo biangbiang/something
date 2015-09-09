@@ -45,6 +45,10 @@ mysql
 
 ---
 
+### [linux mysql 报错：MYSQL:The server quit without updating PID file](quit-without-updating-pid-file)
+
+---
+
 ### [数据库为什么要分库分表](sub-table-reason)
 
 ---
