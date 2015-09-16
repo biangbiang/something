@@ -25,6 +25,10 @@ mysql
 
 ---
 
+### [mysql group by 用法解析](mysql-group-by)
+
+---
+
 ### [MySQL UPDATE操作的一个注意事项](mysql-update)
 
 ---
