@@ -29,6 +29,10 @@ javascript
 
 ---
 
+### [mootools里选择器$,$$,$E,$ES等的区别](mootools-selector-diff)
+
+---
+
 ### [javascript笔记](note)
 
 ---
