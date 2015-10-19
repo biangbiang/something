@@ -21,6 +21,10 @@
 
 ---
 
+### [iPhone6触屏没反应，iPhone6屏幕没反应怎么办](iphone6-touch-no-response)
+
+---
+
 ### [厨房的清洁小技巧](kitchen-clear)
 
 ---
