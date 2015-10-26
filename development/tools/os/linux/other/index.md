@@ -33,6 +33,10 @@ linux
 
 ---
 
+### [linux 如何显示一个文件的某几行(中间几行)](get-appointed-line-from-a-file)
+
+---
+
 ### [grub](grub)
 
 ---
