@@ -69,6 +69,10 @@ php
 
 ---
 
+### [php-fpm 启动参数及重要配置详解](php-fpm-config)
+
+---
+
 ### [PHP mkdir()无写权限的问题解决方法](php-mkdir)
 
 ---
