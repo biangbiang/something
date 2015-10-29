@@ -9,6 +9,10 @@ windows
 
 ---
 
+### [Thumbs.db](thumbs.db)
+
+---
+
 ### [win8笔记](win8-note)
 
 ---
