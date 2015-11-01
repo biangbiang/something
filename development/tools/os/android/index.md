@@ -1,6 +1,10 @@
 android
 =======
 
+### [安卓刷机笔记](android-flash-notes)
+
+---
+
 ### [Log图文详解(Log.v,Log.d,Log.i,Log.w,Log.e)](android-log)
 
 ---
