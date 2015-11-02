@@ -69,6 +69,10 @@ linux
 
 ---
 
+### [Linux日志分析常用命令](log-analysis-commands)
+
+---
+
 ### [linux学习笔记](note)
 
 ---
