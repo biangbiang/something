@@ -17,6 +17,10 @@ linux
 
 ---
 
+### [sed](sed/index)
+
+---
+
 ### [ssh](ssh/index)
 
 ---
