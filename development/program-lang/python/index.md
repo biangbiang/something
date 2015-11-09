@@ -25,6 +25,10 @@ python
 
 ---
 
+### [使用 Python 创建 UNIX 命令行工具](python-create-unix-cli-tools)
+
+---
+
 ### [Python中的random模块](random)
 
 ---
