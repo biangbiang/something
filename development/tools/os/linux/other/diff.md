@@ -367,3 +367,19 @@ diff 的normal 显示格式有三种提示:
     -r  When comparing directories, recursively compare
         any subdirectories found.
     -u  Use the unified output format.
+
+---
+
+### LINUX下diff比较文件时出现错误：Binary files file1.txt and file2.txt differ解决
+
+在LINUX下使用diff命令来比较文件：
+ 
+    diff file1.txt file2.txt  
+ 
+如果两个文件都是文本文件，则可以正常比对，如果其中有一个是二进制文件，那么就会出现以下错误：
+ 
+    Binary files file1.txt and file2.txt differ  
+ 
+解决的办法是：将所有的比对文件都当作文本文件处理，diff命令后面加上参数 -a，比如
+ 
+    diff –a file1.txt file2.txt  
