@@ -1,6 +1,10 @@
 php学习笔记
 =========
 
+### 官方文档
+
+文档地址：http://php.net/manual/en/index.php
+
 ### array_values()
 
 返回一个包含给定数组中所有键值的数组，但不保留键名
