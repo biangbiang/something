@@ -21,6 +21,10 @@ other
 
 ---
 
+### [在mac中查看和转换txt文件编码](mac-change-txt-encode)
+
+---
+
 ### [在Mac OSX系统下使用iTunes来制作的铃声](make-ring)
 
 ---
