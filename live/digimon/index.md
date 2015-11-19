@@ -24,3 +24,7 @@
 ### [睿频](turbo-boost)
 
 ---
+
+### [Xbox One那些事](xbox-one)
+
+---
