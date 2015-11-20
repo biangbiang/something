@@ -25,6 +25,10 @@ python
 
 ---
 
+### [解决pip无法使用http的源](pip-can-not-use-http-source)
+
+---
+
 ### [使用 Python 创建 UNIX 命令行工具](python-create-unix-cli-tools)
 
 ---
