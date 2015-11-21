@@ -89,10 +89,14 @@ linux
 
 ---
 
-### [使用/usr/bin/env的好处](usr-bin-env-advantage)
+### [关于tar、tar.gz、tar.bz2的区别与用法](something-about-tar-targz-tarbz2)
 
 ---
 
-### [关于tar、tar.gz、tar.bz2的区别与用法](something-about-tar-targz-tarbz2)
+### [sudo](sudo)
+
+---
+
+### [使用/usr/bin/env的好处](usr-bin-env-advantage)
 
 ---
