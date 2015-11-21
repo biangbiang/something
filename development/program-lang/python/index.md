@@ -52,3 +52,7 @@ python
 ### [Python:urllib 和urllib2之间的区别](urllib-urllib2)
 
 ---
+
+### [使用VitrualEnvWrapper隔离python项目的库依赖](VirtualEnvWrapper-isolate-python-lib-dependency)
+
+---
