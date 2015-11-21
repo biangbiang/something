@@ -13,6 +13,10 @@ python
 
 ---
 
+### [easy_install与pip](easy-install-and-pip)
+
+---
+
 ### [Python引用（import）文件夹下的py文件的方法](import-folder)
 
 ---
