@@ -61,6 +61,10 @@ linux
 
 ---
 
+### [linux禁止用户远程登录的方法](linux-deny-ssh-login)
+
+---
+
 ### [LANG,LC_ALL,locale详解](locale-detail)
 
 ---
