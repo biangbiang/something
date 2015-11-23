@@ -97,6 +97,10 @@ linux
 
 ---
 
+### [useradd 与adduser的区别](useradd-and-adduser)
+
+---
+
 ### [使用/usr/bin/env的好处](usr-bin-env-advantage)
 
 ---
