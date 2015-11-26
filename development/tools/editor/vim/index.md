@@ -5,6 +5,10 @@ vim
 
 ---
 
+### [vim 查找替换](find-and-replace)
+
+---
+
 ### [vim折叠设置](fold)
 
 ---
