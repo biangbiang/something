@@ -29,6 +29,10 @@ php
 
 ---
 
+### [压缩存储长字符串 gzcompress 和 gzuncompress 的使用](gzcompress-and-gzuncompress)
+
+---
+
 ### [通过http post发送json数据](http-post-json)
 
 ---
