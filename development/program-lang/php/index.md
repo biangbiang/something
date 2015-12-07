@@ -41,6 +41,10 @@ php
 
 ---
 
+### [不重新编译PHP为PHP安装zlib扩展](install-php-zlib-extension-without-all-start-again)
+
+---
+
 ### [install php5.2.17 with php-fpm](install-php5217-with-phpfpm)
 
 ---
