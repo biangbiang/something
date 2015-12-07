@@ -105,6 +105,10 @@
 
 ---
 
+### [什么是网页GZIP压缩](website-gzip-compress)
+
+---
+
 ### [编写高质量的代码——从命名入手](variablename)
 
 ---
