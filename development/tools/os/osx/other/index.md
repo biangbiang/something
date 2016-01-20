@@ -65,6 +65,10 @@ other
 
 ---
 
+### [在MAC终端下打开Finder](terminal-open-finder)
+
+---
+
 ### [mac删除pkg](uninstall-pkg)
 
 ---
