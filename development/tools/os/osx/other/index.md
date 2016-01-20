@@ -41,6 +41,10 @@ other
 
 ---
 
+### [8个不可不知的Mac OS X专用命令行工具](osx-terminal-tools)
+
+---
+
 ### [Parallels Desktop](parallels-desktop)
 
 ---
