@@ -8,3 +8,7 @@ PostgreSQL
 ### [PostgreSQL新手入门](getting-started)
 
 ---
+
+### [PostgreSQL主键](primary-key)
+
+---
