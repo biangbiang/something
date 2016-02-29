@@ -25,6 +25,10 @@ other
 
 ---
 
+### [mac上制作linux系统U盘安装盘](make-linux-setup-disk-with-U-disk)
+
+---
+
 ### [在Mac OSX系统下使用iTunes来制作的铃声](make-ring)
 
 ---
