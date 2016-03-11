@@ -33,6 +33,10 @@ python
 
 ---
 
+### [Python BeautifulSoup 简单笔记](python-bs-simple-note)
+
+---
+
 ### [使用 Python 创建 UNIX 命令行工具](python-create-unix-cli-tools)
 
 ---
