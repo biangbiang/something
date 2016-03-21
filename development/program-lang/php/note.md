@@ -105,3 +105,69 @@ php\_sapi\_name — 返回 web 服务器和 PHP 之间的接口类型
 * `clearstatcache()`：清除文件状态缓存
 * `parse_url()`：解析 URL，返回其组成部分
 
+---
+
+### 引用传递、引用返回和取消引用以及unset
+
+引用传递
+
+    function foo ( &$var )
+    {$var++;}
+    foo ($a);  // 注意在函数调用时没有引用符号 － 只有函数定义中有。光是函数定义就足够使参数通过引用来正确传递了
+
+引用返回
+
+    function &init_users()
+    { ... return $cls;}
+
+使用引用返回，必须在两个地方都用&符号
+
+    $user = & init_users();
+    function &init_users()
+    { ...return $cls;}
+
+取消引用
+
+当 unset 一个引用，只是断开了变量名和变量内容之间的绑定。这并不意味着变量内容被销毁了。
+
+    $a="hihaha";
+    $b= &$a;
+    unset($b);
+    echo$a;// shows "hihaha"
+
+PHP unset全局变量在用户函数中只能销毁局部变量，并不能销毁全局变量。（从PHP4开始unset已经不再是一个函数了，而是一个语句）。如果需要销毁全局变量的应该如何做呢？也很简单，用$GLOBALS数组来实现。
+
+    < ?PHP 
+    function foo() { 
+    unset($GLOBALS['bar']);  // 而不是unset($bar)
+    } 
+    $bar = “something”; 
+    foo(); 
+    var_dump($bar); 
+    ?>
+
+对于unset：
+
+1. 该函数只有在变量值所占空间超过256字节长的时候才会释放内存
+
+2. 只有当指向该值的所有变量（比如有引用变量指向该值）都被销毁后，地址才会被释放（也要执行1的判断）
+
+也就是检查有无其他变量绑定，有的话就不会释放了。就像这个例子：
+
+    $a="hihaha";
+    $b= &$a;
+    unset($b);
+    echo$a;// shows "hihaha"
+
+所以建议大家用 $变量=null 的方法来释放其内存。
+
+给一个测试当前php脚本内存使用情况的函数：
+
+    <?php
+    echo memory_get_usage()."\n";
+    $a = str_repeat("A", 1000);
+    echo memory_get_usage()."\n";
+    $b=&$a;  //下面的内存大小不会变，unset只是解除$a的绑定
+    unset($a);
+    echo memory_get_usage()."\n";
+    ?>
