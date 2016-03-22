@@ -21,6 +21,10 @@ php
 
 ---
 
+### [PHP中exit,exit(0),exit(1),exit('0'),exit('1'),die,return的区别](exit-die-return)
+
+---
+
 ### [gd库](gd)
 
 ---
