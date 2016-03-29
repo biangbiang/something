@@ -137,6 +137,10 @@ php
 
 ---
 
+### [我们什么时候应该使用异常?](when-use-exception)
+
+---
+
 ### [License File Location](zend-guard-license-file-location)
 
 ---
