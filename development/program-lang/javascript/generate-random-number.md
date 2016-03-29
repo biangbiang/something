@@ -47,7 +47,7 @@ Math.random()
     alert(Math.floor(randomNum)); // 2
     alert(Math.ceil(randomNum)); // 3
 
-由测试的代码我们可以看到，parseInt()和Math.floor()的效果是一样的，都是向下取整数部分。所以parseInt(Math.random()*5,10)和Math.floor(Math.random()*5)都是生成的0-4之间的随机数，Math.ceil(Math.random()*5)则是生成的1-5之间的随机数。
+由测试的代码我们可以看到，parseInt()和Math.floor()的效果是一样的，都是向下取整数部分。所以`parseInt(Math.random()*5,10)`和`Math.floor(Math.random()*5)`都是生成的0-4之间的随机数，`Math.ceil(Math.random()*5)`则是生成的1-5之间的随机数。
 
 ### 生成指定范围数值随机数
 
