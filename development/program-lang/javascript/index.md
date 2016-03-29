@@ -9,6 +9,10 @@ javascript
 
 ---
 
+### [js中Math.random()生成指定范围数值的随机数](generate-random-number)
+
+---
+
 ### [Gulp vs Grunt](gulp-vs-grunt)
 
 ---
