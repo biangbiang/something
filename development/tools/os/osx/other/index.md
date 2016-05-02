@@ -1,6 +1,10 @@
 other
 =====
 
+### [在Mac OS X上安装dnsmasq来支持hosts泛解析](dnsmasq-in-osx)
+
+---
+
 ### [比较Fink, macports 和 homebrew](fink-macports-homebrew)
 
 ---
