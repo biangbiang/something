@@ -28,3 +28,9 @@ chrome笔记
 
 * ctrl+shift+b : 隐藏书签栏
 * ctrl+shift+n : 隐身模式
+
+---
+
+### 清理dns缓存
+
+Chrome用户还可以在`Chrome://net-internals/#dns`清理缓存。
