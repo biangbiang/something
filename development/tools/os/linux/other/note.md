@@ -91,3 +91,13 @@ uniq 命令删除文件中的重复行。 uniq 命令读取由 InFile 参数指�
 你是普通用户的话，修改自己的密码，用：passwd，就可以了，会让你先输入自己的旧密码，再输入两遍新密码。
 
 你是root的话，用：passwd username，就可以修改username的密码了，直接输入两遍新密码就可以了，不用输入旧密码。
+
+---
+
+### ln -s 软链接产生Too many levels of symbolic links错误
+
+今天在linux下编译了一下boost，其中include文件和lib文件都安装在个人目录，为了编译时不必添加额外的-I参数，所以采用`ln -s boost /usr/include/boost`。
+
+编译一个boost测试源文件发现如下的错误：Too many levels of symbolic links。
+
+查找一番发现建立软链接时采用的是相对路径，所以才会产生这样的错误，解决方式是采用绝对路径建立软链接：`ln -s /home/XX/include/boost /usr/include/boost`即可
