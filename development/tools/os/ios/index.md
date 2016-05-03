@@ -5,6 +5,10 @@ ios
 
 ---
 
+### [关于Certificate、Provisioning Profile、App ID的介绍及其之间的关系](intro-for-ios-dev)
+
+---
+
 ### [ios相关笔记](note)
 
 ---
