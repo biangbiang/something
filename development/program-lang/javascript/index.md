@@ -49,6 +49,10 @@ javascript
 
 ---
 
+### [JS移动客户端--触屏滑动事件](touch-event)
+
+---
+
 ### [UglifyJS](UglifyJS)
 
 ---
