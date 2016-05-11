@@ -65,6 +65,10 @@ mysql
 
 ---
 
+### [使用mysqlbinlog提取二进制日志](use-mysqlbinlog-get-binlog)
+
+---
+
 ### [MySQL报 Waiting for table level lock”错误](waiting-for-table-level-lock)
 
 ---
