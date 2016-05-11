@@ -1,6 +1,10 @@
 mysql
 =====
 
+### [MySQL 二进制日志(Binary Log)](binary-log)
+
+---
+
 ### [ERROR 2003 (HY000): Can't connect to MySQL server](can-not-connect)
 
 ---
