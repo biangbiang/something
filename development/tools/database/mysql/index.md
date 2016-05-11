@@ -60,3 +60,7 @@ mysql
 ### [Ubuntu下重置MySQL的root密码](ubuntu-reset-password)
 
 ---
+
+### [MySQL报 Waiting for table level lock”错误](waiting-for-table-level-lock)
+
+---
