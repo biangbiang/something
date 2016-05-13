@@ -57,6 +57,10 @@ mysql
 
 ---
 
+### [mysql的行锁与表锁](row-lock-and-table-lock)
+
+---
+
 ### [数据库为什么要分库分表](sub-table-reason)
 
 ---
