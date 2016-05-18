@@ -17,6 +17,10 @@ javascript
 
 ---
 
+### [如何将 npm 作为构建工具使用](how-use-npm-as-build-tool)
+
+---
+
 ### [jquery笔记](jquery-note)
 
 ---
