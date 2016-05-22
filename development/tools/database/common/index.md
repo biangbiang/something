@@ -5,6 +5,10 @@
 
 ---
 
+### [大数据量下高并发同步的讲解（不看，保证你后悔）](high-concurrency-synchronization-under-large-data)
+
+---
+
 ### [索引](key)
 
 ---

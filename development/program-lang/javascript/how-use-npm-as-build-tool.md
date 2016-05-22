@@ -22,7 +22,7 @@ npm 是一个很好的工具，提供了一些奇特的功能，也是 NodeJS �
       }
     }
 
-如果运行 npm run lint，npm 将在终端中执行 jshint **.js，如果运行 npm run test，npm 将在终端中执行 mocha test/。执行 npm run xxx 时会将 node_modules/.bin 加入终端的 PATH 环境变量中，这样你就可以直接运行那些作为依赖安装的二进制模块，也就是说你不需要 "./node_modules/.bin/jshint **.js" 或 "$(npm bin)/jshint **.js" 这样来指定命令的路径。如果执行不带参数的 npm run 命令，它将列举出目前可执行的命令：
+如果运行 npm run lint，npm 将在终端中执行 `jshint **.js`，如果运行 npm run test，npm 将在终端中执行 mocha test/。执行 npm run xxx 时会将 `node_modules/.bin` 加入终端的 PATH 环境变量中，这样你就可以直接运行那些作为依赖安装的二进制模块，也就是说你不需要 `"./node_modules/.bin/jshint **.js"` 或 `"$(npm bin)/jshint **.js"` 这样来指定命令的路径。如果执行不带参数的 npm run 命令，它将列举出目前可执行的命令：
 
     Available scripts in the user-service package:  
       lint
@@ -115,7 +115,7 @@ npm 2.0.0 之后可以为命令传递参数，请看下面例子：
 
 ### 多文件处理
 
-在上一篇文章的评论中有几个人提到：构建工具的一个优势是可以使用 *.js， *.min.css或 assets/*/* 这样的 globs 语法来进行多文件处理。事实上这个特性的灵感来源于 Bash 中的 glob 命令。 Shell 会将命令参数（如 *.js）中的星号解析为通配符，使用连续两个星号表示跨目录递归查询。如果你正在使用 Mac 或 Linux，你可以在终端中玩一下，比如 ls *.js。
+在上一篇文章的评论中有几个人提到：构建工具的一个优势是可以使用 `*.js`， `*.min.css`或 `assets/*/*` 这样的 globs 语法来进行多文件处理。事实上这个特性的灵感来源于 Bash 中的 glob 命令。 Shell 会将命令参数（如 `*.js`）中的星号解析为通配符，使用连续两个星号表示跨目录递归查询。如果你正在使用 Mac 或 Linux，你可以在终端中玩一下，比如 `ls *.js`。
 
 现在的问题是，Windows 的命令行并不支持该特性。新运的是，Windows 会将参数（如 *.js）逐字完整地传递给命令，这样就可以为 Windows 安装对应的兼容库就可以实现 glob 语法。在 npm 中有两个最流行的 glob 包 minimatch 和 glob，已经被 1500 多个项目依赖，包括 JSHint，JSCS，Mocha，Jade，Stylus，Node-Sass…等等，而且这个数量还在增长。
 
