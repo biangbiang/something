@@ -127,21 +127,21 @@ Hibernate 的加锁模式有：
 
 表的基本结构如下:
 
-![]()
+![](http://biangbiangpic.b0.upaiyun.com/blog/f0c6c8597a80656d2c89af2b6bc8338a.png)
 
 表中内容如下:
 
-![]()
+![](http://biangbiangpic.b0.upaiyun.com/blog/8c33cb72fb301a64babd3870c1716102.png)
 
 开启两个测试窗口，在其中一个窗口执行select * from ta for update0
 
 然后在另外一个窗口执行update操作如下图:
 
-![]()
+![](http://biangbiangpic.b0.upaiyun.com/blog/e44f3bab774d72c6b2ec1e7e2df61552.png)
 
 等到一个窗口commit后的图片如下:
 
-![]()
+![](http://biangbiangpic.b0.upaiyun.com/blog/ac4f582e08bc34c9b898d9ddd16f2a78.png)
 
 到这里，悲观锁机制你应该了解一些了吧~
 
