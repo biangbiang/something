@@ -60,3 +60,9 @@ n是指从第m+1条开始，取n条。
     select * from tablename limit 2,4
 
 即取出第3条至第6条，4条记录
+
+### BLOB/TEXT column 'name' used in key specification without a key length
+
+BLOB/TEXT column 'name' used in key specification without a key length原因：
+
+今天在写mysql建表语句的时候，发生了这样的错误：BLOB/TEXT column 'name' used in key specification without a key length。查阅资料后才知道，原来Mysql数据库对于BLOB/TEXT这样类型的数据结构只能索引前N个字符。所以这样的数据类型不能作为主键，也不能是UNIQUE的。所以要换成VARCH,但是VARCHAR类型的大小也不能大于255，当VARCHAR类型的字段大小如果大于255的时候也会转换成小的TEXT来处理。所以也同样有问题。
