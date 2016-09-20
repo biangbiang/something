@@ -45,6 +45,10 @@ javascript
 
 ---
 
+### [javascript:;与javascript:void(0)使用介绍](no-jump-href)
+
+---
+
 ### [javascript笔记](note)
 
 ---
