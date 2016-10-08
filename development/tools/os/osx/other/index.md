@@ -29,6 +29,10 @@ other
 
 ---
 
+### [Mac 下 Zip 压缩包解压后文件名出现乱码，怎么解决？](Mac-Zip-package-after-decompression-file-name-appear-garbled-how-to-solve)
+
+---
+
 ### [mac上制作linux系统U盘安装盘](make-linux-setup-disk-with-U-disk)
 
 ---
