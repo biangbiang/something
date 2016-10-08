@@ -1,6 +1,10 @@
 码农秘宝
 ========
 
+### [阿里巴巴几种简历状态介绍,待回绝,待同意发offer,待跟进offer](Alibaba-state-is-introduced-several-kinds-of-resume-to-be-rebuffed-agree-to-receive-an-offer-to-follow-up-the-offer)
+
+---
+
 ### [CS架构和BS架构的区别](bs-cs-diff)
 
 ---
