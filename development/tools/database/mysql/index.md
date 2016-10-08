@@ -33,6 +33,10 @@ mysql
 
 ---
 
+### [MySQL索引和查询优化](MySQL-indexing-and-query-optimization)
+
+---
+
 ### [MySQL UPDATE操作的一个注意事项](mysql-update)
 
 ---
