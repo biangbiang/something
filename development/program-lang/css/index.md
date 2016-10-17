@@ -9,7 +9,11 @@ css
 
 ---
 
-### [CSS 的优先级机制[总结]](css-priority)
+### [CSS 的优先级机制总结](css-priority)
+
+---
+
+### [切勿用数字开头来命名css伪类名](Do-not-use-Numbers-beginning-named-CSS-pseudo-classes)
 
 ---
 
