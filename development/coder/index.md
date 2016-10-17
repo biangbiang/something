@@ -29,6 +29,10 @@
 
 ---
 
+### [直播](live/index)
+
+---
+
 ### [photoshop](photoshop/index)
 
 ---
