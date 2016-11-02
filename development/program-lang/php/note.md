@@ -171,3 +171,24 @@ PHP unset全局变量在用户函数中只能销毁局部变量，并不能销�
     unset($a);
     echo memory_get_usage()."\n";
     ?>
+
+### htmlspecialchars\_decode
+
+htmlspecialchars\_decode — 将特殊的 HTML 实体转换回普通字符
+
+flags
+
+用下列标记中的一个或多个作为一个位掩码，来指定如何处理引号和使用哪种文档类型。默认为 `ENT_COMPAT | ENT_HTML401`。
+
+有效的 flags 常量
+
+    常量名	说明
+    ENT_COMPAT	转换双引号，不转换单引号。
+    ENT_QUOTES	单引号和双引号都转换。
+    ENT_NOQUOTES	单引号和双引号都不转换。
+    ENT_HTML401	作为HTML 4.01编码处理。
+    ENT_XML1	作为XML 1编码处理。
+    ENT_XHTML	作为XHTML编码处理。
+    ENT_HTML5	作为HTML 5编码处理。
+
+实际工作中，必须了解flag的设置，默认值往往不能达到期望的效果。
