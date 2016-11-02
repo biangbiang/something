@@ -192,3 +192,14 @@ flags
     ENT_HTML5	作为HTML 5编码处理。
 
 实际工作中，必须了解flag的设置，默认值往往不能达到期望的效果。
+
+### htmlspecialchars
+
+Performed translations
+
+    Character	Replacement
+    & (ampersand)	&amp;
+    " (double quote)	&quot;, unless ENT_NOQUOTES is set
+    ' (single quote)	&#039; (for ENT_HTML401) or &apos; (for ENT_XML1, ENT_XHTML or ENT_HTML5), but only when ENT_QUOTES is set
+    < (less than)	&lt;
+    > (greater than)	&gt;
