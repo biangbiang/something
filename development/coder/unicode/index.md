@@ -11,3 +11,7 @@
 ### [unicode学习笔记](note)
 
 ---
+
+### [PHP实现Unicode和Utf-8编码的互相转换](PHP-implementation-Unicode-utf-8-and-transform-each-other)
+
+---
