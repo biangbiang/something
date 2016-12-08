@@ -1,6 +1,10 @@
 php
 ===
 
+### [关于PHP中strtotime方法返回负数时间戳的一个坑](about-the-strtotime-in-php-method-returns-a-negative-number-time-poke-a-hole)
+
+---
+
 ### [php数组](array)
 
 ---
