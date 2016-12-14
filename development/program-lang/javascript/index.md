@@ -29,6 +29,10 @@ javascript
 
 ---
 
+### [js字符串转换为Json对象的三种写法](js-string-is-converted-to-a-json-object-of-three-types-of-writing)
+
+---
+
 ### [kangax 的javascript谜题](kangax-javascript-examination)
 
 ---
