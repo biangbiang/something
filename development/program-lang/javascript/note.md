@@ -73,6 +73,32 @@ stringify()用于从一个对象解析出字符串，如
 
 在javascript中，没有使用var声明的变量都被当成全局变量来处理了
 
-### buckaroo
+### 为什么JavaScript里面typeof(null)的值是"object"？
 
-buckaroo里面特殊封装runtime.js Date.format('Y-m-d H:i:s')
+#### 回答一
+
+1. null不是一个空引用, 而是一个原始值, 参考ECMAScript5.1中文版 4.3.11节; 它只是期望此处将引用一个对象, 注意是"期望", 参考 null - JavaScript.
+
+2. typeof null结果是object, 这是个历史遗留bug, 参考 typeof - JavaScript
+
+3. 在ECMA6中, 曾经有提案为历史平凡, 将type null的值纠正为null, 但最后提案被拒了. 理由是历史遗留代码太多, 不想得罪人, 不如继续将错就错当和事老, 参考 harmony:typeof_null [ES Wiki]
+
+#### 回答二
+
+1. 娘胎里带出来的.
+
+  JS类型值是存在32 BIT 单元里,32位有1-3位表示TYPE TAG,其它位表示真实值
+  
+  而表示object的标记位正好是低三位都是0
+  
+  000: object. The data is a reference to an object.
+  
+  而js 里的Null 是机器码NULL空指针, (0x00 is most platforms).所以空指针引用 加上 对象标记还是0,最终体现的类型还是object..
+  
+  这也就是为什么Number(null)===0吧...
+  
+  The history of “typeof null”
+
+2. 曾经有提案 typeof null === 'null'.但提案被拒绝
+
+  harmony:typeof_null [ES Wiki]
