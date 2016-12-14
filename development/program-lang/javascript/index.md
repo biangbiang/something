@@ -9,6 +9,10 @@ javascript
 
 ---
 
+### [ECMAScript5 Object的新属性方法](ecmascript5-object-method-of-new-properties)
+
+---
+
 ### [js中Math.random()生成指定范围数值的随机数](generate-random-number)
 
 ---
