@@ -41,6 +41,10 @@ mysql
 
 ---
 
+### [mysql中tinyint(1)与tinyint(2)的区别](mysql-tinyint-1-with-tinyint-2-the-difference)
+
+---
+
 ### [MySQL UPDATE操作的一个注意事项](mysql-update)
 
 ---
