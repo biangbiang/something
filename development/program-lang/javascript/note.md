@@ -17,9 +17,13 @@ javascript笔记
 
 在当前页面打开：window.open(url, '_self')
 
+---
+
 ### window.location()
 
 window.location 对象用于获得当前页面的地址 (URL)，并把浏览器重定向到新的页面。
+
+---
 
 ### history
 
@@ -27,9 +31,13 @@ window.location 对象用于获得当前页面的地址 (URL)，并把浏览器�
 2. forward()：加载 history 列表中的下一个 URL
 3. go()：加载 history 列表中的某个具体页面
 
+---
+
 ### 死链接
 
 javascript:void(0) 
+
+---
 
 ### json
 
@@ -44,34 +52,29 @@ parse用于从一个字符串中解析出json对象,如
 结果：
 
 	JSON.parse(str)
-
-
-
 	Object
-
 	age: "23"
 	name: "huangxiaojian"
 	__proto__: Object
 
 注意：单引号写在{}外，每个属性名都必须用双引号，否则会抛出异常。
 
-
-
 stringify()用于从一个对象解析出字符串，如
-
 
 	var a = {a:1,b:2}
 
 结果：
 
 	JSON.stringify(a)
-
-
 	"{"a":1,"b":2}"
+
+---
 
 ### 变量
 
 在javascript中，没有使用var声明的变量都被当成全局变量来处理了
+
+---
 
 ### 为什么JavaScript里面typeof(null)的值是"object"？
 
@@ -102,3 +105,20 @@ stringify()用于从一个对象解析出字符串，如
 2. 曾经有提案 typeof null === 'null'.但提案被拒绝
 
   harmony:typeof_null [ES Wiki]
+
+---
+
+### js如何判断一个对象是不是Array
+
+本来判断一个对象类型用typeof是最好的，不过对于Array类型是不适用的
+
+可以使用 instanceof操作符
+
+    var arrayStr=new Array("1","2","3","4","5");    
+    alert(arrayStr instanceof Array);    
+
+当然以上在一个简单的页面布局里面是没有问题的，如果是复杂页面情况，入获取的是frame内部的Array对象，可以用这个函数判断：
+
+    function isArray(obj) {      
+          return Object.prototype.toString.call(obj) === '[object Array]';       
+    }
