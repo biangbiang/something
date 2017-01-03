@@ -81,6 +81,10 @@ linux
 
 ---
 
+### [修改Linux的时间](modify-the-linux)
+
+---
+
 ### [linux学习笔记](note)
 
 ---
@@ -102,6 +106,10 @@ linux
 ---
 
 ### [sudo](sudo)
+
+---
+
+### [系统时钟和硬件时钟以及date和hwclock命令](the-system-clock-and-hardware-clock-as-well-as-the-date-and-hwclock-command)
 
 ---
 
