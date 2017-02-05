@@ -1,6 +1,10 @@
 vim
 ===
 
+### [初学者简易 .vimrc 编写指南](beginners-simple-vimrc-writing-guide)
+
+---
+
 ### [ VIM大小写的变换](caps-lock)
 
 ---
