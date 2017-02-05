@@ -13,3 +13,5 @@ Mac OS X系统中Delete删除键的5种用法
 第四种：按 command+delete 键，删除光标之前整行内容；
 
 第五种：选中文件后按 command+delete，删除掉该文件。
+
+第六种：按住command shift delete清空垃圾桶
