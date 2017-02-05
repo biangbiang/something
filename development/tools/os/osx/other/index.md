@@ -1,6 +1,10 @@
 other
 =====
 
+### [Mac OS X系统中Delete删除键的5种用法](delete-the-delete-key-in-mac-os-x-5-kinds-of-usage)
+
+---
+
 ### [在Mac OS X上安装dnsmasq来支持hosts泛解析](dnsmasq-in-osx)
 
 ---
