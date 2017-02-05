@@ -57,6 +57,10 @@
 
 ---
 
+### [灯泡的种类](the-types-of-light-bulbs)
+
+---
+
 ### [USB音箱插电脑有吱吱吱的电流声怎么去掉](usb-sound-box)
 
 ---
