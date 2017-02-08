@@ -25,6 +25,10 @@ mysql
 
 ---
 
+### [MySQL case when then else end 用法](mysql-case-when-then-the-else-end-usage)
+
+---
+
 ### [mysql 从一个表中查数据，插入另一个表](Mysql-check-data-from-a-table-and-insert-it-into-another-table)
 
 ---
