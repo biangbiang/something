@@ -33,3 +33,11 @@ display:inline is very limited and doesn't allow any block-level styling to adde
 textarea 用于支持多行文本，因此它的内容不适合以 DOM 的 value 属性来放置默认值。
 
 不过，赋值的方式却是一样的，获取或设置 textarea 的 value 属性可以改变它的值。
+
+### textarea到底是使用value还是innerhtml还是innerText来获取输入的内容的？
+
+问：如题，就是看有的地方使用value，有的地方是innerHTML，还有的地方是用innerText，到底那种是对的，如果同时设置了多了，冲突了怎么办？
+
+答1：应该用 value 属性。
+
+答2：form 里的Dom元素(input select checkbox textarea radio)都是value
