@@ -92,3 +92,7 @@ mysql
 ### [MySQL报 Waiting for table level lock”错误](waiting-for-table-level-lock)
 
 ---
+
+### [关于 MySQL LEFT JOIN 你可能需要了解的三点](you-may-need-to-know-about-mysql-left-join-at-3-o-clock)
+
+---
