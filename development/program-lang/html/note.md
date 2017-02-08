@@ -27,3 +27,9 @@ html学习笔记
 ### display:inline
 
 display:inline is very limited and doesn't allow any block-level styling to added to it. You're better off using display:inline-block or using float:left. Keep in mind that if you use floats then you need to set the overflow of the parent element to overflow:auto (use visible for IE < 8) and this should work. Use inline-block first.
+
+### HTML input元素的value可以直接写在元素里面，而textarea元素的value却必须写在开始标签和结束标签之间，这是为什么？
+
+textarea 用于支持多行文本，因此它的内容不适合以 DOM 的 value 属性来放置默认值。
+
+不过，赋值的方式却是一样的，获取或设置 textarea 的 value 属性可以改变它的值。
