@@ -113,6 +113,10 @@ linux
 
 ---
 
+### [linux的nohup命令的用法](the-use-of-the-linux-nohup-command)
+
+---
+
 ### [useradd 与adduser的区别](useradd-and-adduser)
 
 ---
