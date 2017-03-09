@@ -25,6 +25,10 @@ javascript
 
 ---
 
+### [JavaScript调试技巧之console.log()详解](javascript-debugging-technique-of-the-console-the-log-rounding)
+
+---
+
 ### [jquery笔记](jquery-note)
 
 ---
