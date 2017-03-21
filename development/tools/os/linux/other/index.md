@@ -97,6 +97,10 @@ linux
 
 ---
 
+### [ps aux指令詳解](ps-aux)
+
+---
+
 ### [linux 技巧：使用 screen 管理你的远程会话](screen)
 
 ---
