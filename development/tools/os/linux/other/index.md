@@ -9,6 +9,10 @@ linux
 
 ---
 
+### [Linux根据/proc/stat计算cpu的使用率 ](based-on-the-linuxprocstat-cpu-usage)
+
+---
+
 ### [linux关于bashrc与profile的区别](bashrc-profile-diff)
 
 ---
