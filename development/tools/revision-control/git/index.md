@@ -37,6 +37,10 @@ git
 
 ---
 
+### [搭建Git服务器](set-up-git-server)
+
+---
+
 ### [Git Submodule 的認識與正確使用](submod)
 
 ---
