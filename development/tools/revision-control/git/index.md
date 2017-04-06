@@ -13,6 +13,10 @@ git
 
 ---
 
+### [git 如何回滚远程仓库版本](git-how-to-roll-back-the-remote-warehouse-version)
+
+---
+
 ### [git查看某个文件的修改历史](git-log-show)
 
 ---
