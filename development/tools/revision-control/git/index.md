@@ -48,3 +48,7 @@ git
 ### [Git Submodule 的認識與正確使用](submod)
 
 ---
+
+### [团队开发里频繁使用 git rebase 来保持树的整洁好吗](team-development-in-frequent-use-git-rebase-to-maintain-the-cleanliness-of-the-tree)
+
+---
