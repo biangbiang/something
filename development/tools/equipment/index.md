@@ -1,5 +1,9 @@
 # 码农套装
 
+### [清洗HHKB](cleaning-hhkb)
+
+---
+
 ### [HHKB：神器那点事儿](hhkb-artifact-that-something)
 
 ---
