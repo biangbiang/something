@@ -12,3 +12,7 @@ ssh
 ### [ssh学习笔记](note)
 
 ---
+
+### [OpenSSH 7.0 disables ssh-dss keys by default](openssh-70ssh-dss)
+
+---
