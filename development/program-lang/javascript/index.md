@@ -33,6 +33,10 @@ javascript
 
 ---
 
+### [JS获取当前时间戳的方法](js-method-obtains-a-handle-to-the-current-timestamp)
+
+---
+
 ### [js词法作用域、调用对象与闭包](js-scope-callObject-closuer)
 
 ---
