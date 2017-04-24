@@ -21,6 +21,10 @@ nodejs
 
 ---
 
+### [nodejs + redis/mysql 连接池问题](nodejs-redismysql-connection-pool-issue)
+
+---
+
 ### [node.js 的定时器 setTimeout 和 setInterval](settimeout-and-setinterval)
 
 ---
