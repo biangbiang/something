@@ -101,6 +101,10 @@ mysql
 
 ---
 
+### [varchar和text说不清的那些事](varchar-and-text-cannot-tell-those-things)
+
+---
+
 ### [MySQL报 Waiting for table level lock”错误](waiting-for-table-level-lock)
 
 ---
