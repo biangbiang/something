@@ -29,6 +29,10 @@ mysql
 
 ---
 
+### [MySQL中char、varchar和text的区别](mysql-char-varchar-and-the-difference-between-the-text)
+
+---
+
 ### [mysql 从一个表中查数据，插入另一个表](Mysql-check-data-from-a-table-and-insert-it-into-another-table)
 
 ---
