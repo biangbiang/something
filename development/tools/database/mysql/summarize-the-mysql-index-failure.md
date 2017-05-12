@@ -8,7 +8,11 @@
 
 4) 索引本身失效
 
-5) 查询条件使用函数在索引列上，或者对索引列进行运算，运算包括(+，-，*，/，! 等) 错误的例子：select * from test where id-1=9; 正确的例子：select * from test where id=10; 
+5) 查询条件使用函数在索引列上，或者对索引列进行运算，运算包括(+，-，*，/，! 等) 
+
+错误的例子：
+
+    select * from test where id-1=9; 正确的例子：select * from test where id=10; 
 
 6) 对小表查询 
 
