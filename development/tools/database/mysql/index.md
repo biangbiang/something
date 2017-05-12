@@ -97,6 +97,10 @@ mysql
 
 ---
 
+### [MYSQL索引失效的各种情形总结](summarize-the-mysql-index-failure)
+
+---
+
 ### [NULL与MySQL空字符串的区别](the-difference-between-the-null-and-mysql-empty-string)
 
 ---
