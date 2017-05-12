@@ -97,6 +97,10 @@ mysql
 
 ---
 
+### [NULL与MySQL空字符串的区别](the-difference-between-the-null-and-mysql-empty-string)
+
+---
+
 ### [Ubuntu下重置MySQL的root密码](ubuntu-reset-password)
 
 ---
