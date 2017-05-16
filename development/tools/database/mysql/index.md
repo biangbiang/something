@@ -57,6 +57,10 @@ mysql
 
 ---
 
+### [mysql int(x) 显示宽度](mysql-int-x-display-width)
+
+---
+
 ### [mysql text类型不允许有默认值](mysql-text-types-are-not-allowed-to-have-default-values)
 
 ---
