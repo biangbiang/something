@@ -57,6 +57,10 @@ mysql
 
 ---
 
+### [mysql text类型不允许有默认值](mysql-text-types-are-not-allowed-to-have-default-values)
+
+---
+
 ### [mysql中tinyint(1)与tinyint(2)的区别](mysql-tinyint-1-with-tinyint-2-the-difference)
 
 ---
