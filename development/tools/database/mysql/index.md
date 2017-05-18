@@ -25,6 +25,10 @@ mysql
 
 ---
 
+### [MySQL内置函数获取几天前的日期](mysql-built-in-functions-for-a-few-days-before-the-date)
+
+---
+
 ### [MySQL case when then else end 用法](mysql-case-when-then-the-else-end-usage)
 
 ---
