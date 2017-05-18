@@ -85,6 +85,10 @@ php
 
 ---
 
+### [PHP 判断类属于是否存在 property_exists](php-class-belongs-to-the-presence-of-propertyexists)
+
+---
+
 ### [PHP CURL获取cookies模拟登录的方法](php-curl-to-get-the-cookies-simulated-logging-method)
 
 ---
