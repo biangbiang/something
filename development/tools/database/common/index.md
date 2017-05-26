@@ -20,3 +20,7 @@
 ### [开发人员使数据库面临风险的十大方面](risk-of-developing-the-databases)
 
 ---
+
+### [数据库索引的创建原则](the-creation-principle-of-database-index)
+
+---
