@@ -121,6 +121,10 @@ mysql
 
 ---
 
+### [mysql 联合索引的意义](the-meaning-of-mysql-joint-index)
+
+---
+
 ### [Ubuntu下重置MySQL的root密码](ubuntu-reset-password)
 
 ---
