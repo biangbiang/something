@@ -53,6 +53,10 @@ mysql
 
 ---
 
+### [MYSQL escape用法](mysql-escape-usage)
+
+---
+
 ### [设置mysql允许外网访问](mysql-external-access)
 
 ---
