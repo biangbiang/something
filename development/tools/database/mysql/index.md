@@ -81,6 +81,10 @@ mysql
 
 ---
 
+### [mysql explain用法](mysql-to-explain-the-usage)
+
+---
+
 ### [MySQL UPDATE操作的一个注意事项](mysql-update)
 
 ---
