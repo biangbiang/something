@@ -1,5 +1,4 @@
-git
-===
+# git
 
 ### [git 自动补全](bash-completion)
 
@@ -50,6 +49,10 @@ git
 ---
 
 ### [团队开发里频繁使用 git rebase 来保持树的整洁好吗](team-development-in-frequent-use-git-rebase-to-maintain-the-cleanliness-of-the-tree)
+
+---
+
+### [Git push与pull的默认行为](the-default-behavior-of-the-git-push-and-pull)
 
 ---
 
