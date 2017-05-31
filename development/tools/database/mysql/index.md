@@ -45,6 +45,10 @@ mysql
 
 ---
 
+### [mySQL数据库Sql语句执行效率检查--Explain命令](mysql-database-sql-statement-execution-efficiency-check-explain-command)
+
+---
+
 ### [MySQL数据类型-decimal详解](mysql-decimal)
 
 ---
