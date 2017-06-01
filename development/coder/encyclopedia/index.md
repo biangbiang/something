@@ -29,6 +29,10 @@
 
 ---
 
+### [设计基于HTML5的APP登录功能及安全调用接口的方式（原理篇）](design-based-on-html-5-app-login-function-and-safety-call-interface-way-principle)
+
+---
+
 ### [数字签名](digital-signature)
 
 ---
