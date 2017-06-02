@@ -9,6 +9,10 @@ javascript
 
 ---
 
+### [js自执行函数的几种不同写法的比较](comparison-of-several-different-writing-js-since-the-executive-function)
+
+---
+
 ### [ECMAScript5 Object的新属性方法](ecmascript5-object-method-of-new-properties)
 
 ---
