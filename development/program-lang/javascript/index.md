@@ -85,6 +85,10 @@ javascript
 
 ---
 
+### [对匿名函数的深入理解（彻底版）](the-in-depth-understanding-of-anonymous-functions-complete-version)
+
+---
+
 ### [JS移动客户端--触屏滑动事件](touch-event)
 
 ---
