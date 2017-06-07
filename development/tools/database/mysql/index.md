@@ -141,6 +141,10 @@ mysql
 
 ---
 
+### [mysql当中update select结果集](update-the-select-of-mysql-result-set)
+
+---
+
 ### [使用mysqlbinlog提取二进制日志](use-mysqlbinlog-get-binlog)
 
 ---
