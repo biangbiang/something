@@ -65,6 +65,10 @@ linux
 
 ---
 
+### [linux 显示所在项目当前分支及git状态](linux-according-to-the-current-branch-and-git-state-in-each-respective-project)
+
+---
+
 ### [linux禁止用户远程登录的方法](linux-deny-ssh-login)
 
 ---
