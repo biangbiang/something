@@ -1,13 +1,9 @@
 # 休闲玩家
 
-### [CS:GO](csgo/index)
+### [电子游戏](electronic-games/index)
 
 ---
 
-### [英雄联盟](LOL/index)
-
----
-
-### [玩物丧志](other/index)
+### [非电子游戏](non-electronic-games/index)
 
 ---
