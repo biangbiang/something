@@ -33,6 +33,10 @@ vim
 
 ---
 
+### [vim高亮代码中的变量](the-variables-in-the-vim-highlighting-code)
+
+---
+
 ### [vim练级指南](upgrade-guide)
 
 ---
