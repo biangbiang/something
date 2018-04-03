@@ -147,3 +147,31 @@ ok，现在就可以找出izip pkg到底装了哪些文件：
 哈哈，有的人要讲究效率，不喜欢折腾半天，就会问能不能一键搞定啊？
 
 真别说，还真有http://www.corecode.at/uninstallpkg/，偶然发现这个东西，貌似不错，试用了一下，好像真成功卸载了。（就是不知道有没有卸载干净...）
+
+---
+
+# Mac下删除安装的pkg
+
+Mac下的安装和删除都比windows更加简单清晰，这点在dmg方式下非常明显，但很多时候我们会使用pkg来进行安装，这样的安装想删除就有点麻烦了。
+
+比如，我安装了Golang这个pkg用于go语言的编译，安装后确实可以使用，但安装的是一个工具链，并不是一个应用软件。所以在Application目录下是没有内容的，你可以查到安装在/usr/local/go这个目录下，但是否所有的内容都安装在这个目录下呢？我删除这个pkg的目的是为了用源码直接编译出工具链来应用，如果还有其他一些配置文件遗漏，可能会导致后续配置的问题。
+
+经过一些搜索和学习，觉得有两个方法：
+
+### 1. 使用pkgutil命令
+
+首先运行pkgutil --pkgs | grep -i go，这样会列出含有go字样的pkg
+
+![](http://biangbiangpic.b0.upaiyun.com/blog/0607f96ee33d417237770c7648ca235d.jpg)
+
+这里我们可以看到，运行命令后列出了所有名字中含有"go"的pkg，其中com.googlecode.go就是我们golang的pkg，也就是我们要删除的pkg。
+
+然后运行pkgutil --files com.googlecode.go这个命令，这个命令会列出pkg的所有安装的文件，根据这个列表就可以保证删除干净了，再也没有后患。
+
+![](http://biangbiangpic.b0.upaiyun.com/blog/e33f447519ba4ec32417342986d2571b.jpg)
+
+比如对于golang的pkg，虽然有长长的一个列表，我们还是可以总结出来，除/usr/local/go之外，还有etc/paths.d/go这个文件需要删除。
+
+### 2. 直接使用工具，这样可以傻瓜化的一键搞定，下载地址：http://www.corecode.at/uninstallpkg/
+
+除了这两个方法之外，还有其他的方法，不过我觉得这两个方法比较清晰简单。第一个方法主要是手动删除，适用于熟练的资深工程师；第二个方法一键完成，适用于一切玩家。
