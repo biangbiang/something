@@ -171,7 +171,7 @@ Gulp vs Grunt
 
   ![](http://biang.io/biangpic/blog/08bd3daa0562f916bac7e345edf3a059.jpg)
 
-  ![](http://biangbiang.b0.upaiyun.com/blog/a786ceb94c5ae8183e5daff43a0e1f5a.svg)
+  ![](http://biang.io/biangpic/blog/a786ceb94c5ae8183e5daff43a0e1f5a.svg)
 
   ![](http://biang.io/biangpic/blog/c7df71716a6d6c04544c355f113a1974.png)
 
