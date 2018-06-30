@@ -23,7 +23,7 @@
 
 另一个拒掉明道和 Yammer 的共同理由是：我们认为在团队协作中加入大量的社交元素，甚至是以社交为中心向外扩展是本末倒置的，我们需要一个纯粹的项目管理，社交功能（比如说社交带来的非任务的提醒）会影响该工具的使用效率。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/d18c0ab980d01f3dafc6da9dae06b9cc.jpg)
+![](http://biang.io/biangpic/blog/d18c0ab980d01f3dafc6da9dae06b9cc.jpg)
 
 就算是你给了好几屏的用户引导我也记不住好么？
 
@@ -39,7 +39,7 @@
 
 我们先说说 Teambition 淘汰的原因：首先，Teambition 的项目 Dashboard 中也是按模块展示而不是直接以任务流展示，直观的有效空间变少了。我们希望的是在这里展示的四个模块的顺序应当是可以自行排列的，或者甚至可以X掉。因为并不是所有的项目都会需要到分享和文件，这样就浪费了屏幕，分散了焦点。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/a09b98992fc1f6b53b215538e4aedfd1.png)
+![](http://biang.io/biangpic/blog/a09b98992fc1f6b53b215538e4aedfd1.png)
 
 我们需要去掉或隐藏至少应该可以排序的两块
 
@@ -51,7 +51,7 @@
 
 首先，Asana 的层次是清晰且完整的，在 Asana 中可以建立一个 Workspace，我们称这个为团队。在建立 Workspace 之后可以建立数个 Project 即项目，项目之下可以直接建立 Task 也可以将多个 Task 合并为一个 Section（我们称之为任务列表），在同一个任务之下，可以建立多个 Subtask（子任务）。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/61b847df9d38f313168a3a5361dc6145.png)
+![](http://biang.io/biangpic/blog/61b847df9d38f313168a3a5361dc6145.png)
 
 每个任务下面可以再分为多个子任务，可以指派给不同的人
 
@@ -61,7 +61,7 @@ Project 层级以下的项目均可以 Asign（指派）给某个人，这个功
 
 这样细分到具体执行细节的方式的好处是，在 Asana 的个人 Calendar 中，我们可以清楚的看到“我”在团队中要做什么，在我的 To-Do List 中直接陈列处理的是“我要写一篇文章”或是“写某篇专稿的某一个部分”而不是展示“我要参与这次的专题”这样一个模糊的不可执行概念。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/55180cbc3e54ddc11ac345240be9873d.png)
+![](http://biang.io/biangpic/blog/55180cbc3e54ddc11ac345240be9873d.png)
 
 我的日历上的每一件事都是确实我要做的，而不是待分解的模糊任务
 
@@ -71,7 +71,7 @@ Asana 的另外一个优势在之前和 Teambition 进行对比的时候也提�
 
   2. 在团队中建立无从属任务，这个方式可以更加方便处理那些有可能转化为团队任务的事情。它只有 Task 和 Subtask 两个层级。我们的建议是所有工作上的事情都以这种方式建立，一旦需要的时候，随时可以将这个 Task 转移进团队的某个 Project 或 Section 中。
 
-  ![](http://biangbiangpic.b0.upaiyun.com/blog/0c5ba6830b452ccbedd46f01a12a909c.png)
+  ![](http://biang.io/biangpic/blog/0c5ba6830b452ccbedd46f01a12a909c.png)
 
 另外，在整个 Asana 中基本做到了有列表的地方就有日历，日历的层级也异常清晰，我们可以看到整个 Workspace（团队）的日历，也可以看到 Project 的日历，还可以看到个人的日历。个人的日历上呈现的就一定是“我”要做的事情，无论这个任务是隶属于团队、某个 Project 还是某个 Task 下面的 Subtask。具体的区别如下：
 

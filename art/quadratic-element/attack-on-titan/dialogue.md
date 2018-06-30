@@ -19,7 +19,7 @@
 
 三笠：勝てなきゃ、死ぬ。勝てば生きる。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/dd801d3224a254532a9a1ef5a0a860b6.jpg)
+![](http://biang.io/biangpic/blog/dd801d3224a254532a9a1ef5a0a860b6.jpg)
 
 4、
 
@@ -40,7 +40,7 @@
 
 俺（おれ）たちは皆（みんな）、生（う）まれた时（とき）から自由（じゆう）だ。それを拒（こば）む者（もの）がどれだけ强（つよ）くでも関系（かんけい）ない。炎（ほのお）の水（みず）でも、氷（こおり）の大地（だいち）でも、なんでもいい！それを见（み）た者（もの）は、この世界（せかい）で一番（いちばん）の自由（じゆう）を手（て）に入（い）れた者（もの）だ！
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/fa232d7b81f4e2fbaa4eff98196a9202.jpg)
+![](http://biang.io/biangpic/blog/fa232d7b81f4e2fbaa4eff98196a9202.jpg)
 
 7、
 
@@ -60,7 +60,7 @@
 
 心臓をささげよう！
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/26cad585ed77ef13284d2dd99a150a13.jpg)
+![](http://biang.io/biangpic/blog/26cad585ed77ef13284d2dd99a150a13.jpg)
 
 10、
 

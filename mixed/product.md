@@ -3,7 +3,7 @@
 
 记录一下近期的想法，更多是策略上的东西。下半年团队要在一些特定的产品上发力，考虑到过去犯过不少错误，或许未来也还会继续犯，先做个备忘吧。
 
-![What the customer really needed.](http://biangbiangpic.b0.upaiyun.com/blog/cfaca89c6ef7e4d0ced57cd8e5953cd8.jpg)
+![What the customer really needed.](http://biang.io/biangpic/blog/cfaca89c6ef7e4d0ced57cd8e5953cd8.jpg)
 
 ### 1. 尽早发布
 

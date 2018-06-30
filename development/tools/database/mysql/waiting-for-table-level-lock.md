@@ -3,11 +3,11 @@ MySQL报 Waiting for table level lock”错误
 
 Why I have so many queries when I using ‘show processlist ‘
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/813c4f871febfbf160071da9550609e8.jpg)
+![](http://biang.io/biangpic/blog/813c4f871febfbf160071da9550609e8.jpg)
 
 And my CPU is 600+% used
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/1d5846740595a2e770106b38606ab878.jpg)
+![](http://biang.io/biangpic/blog/1d5846740595a2e770106b38606ab878.jpg)
 
 Is there anything i can do to improve mysql performance? Thanks
 

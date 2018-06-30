@@ -10,7 +10,7 @@
 
 东河肉饼，由上下两层饼粘连，中间夹肥肉与青葱，饼薄如宣纸，色如琥珀，油而不腻。 
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/dcbc5870ff879b5a1b50759c4a3278bd.jpg)
+![](http://biang.io/biangpic/blog/dcbc5870ff879b5a1b50759c4a3278bd.jpg)
 
 ### 2、吴店馒头(wu nia me dou) 
 
@@ -28,7 +28,7 @@
 
 大米水浸泡到一定程度后磨成粉，蒸至半熟捣成韧面，装于特制的有筛孔的器具内，施加压力把面变成细缕，加热后置于凉开水内，用酱拌食。 
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/a417455d0e223b8b45ee9066721ec27a.jpg)
+![](http://biang.io/biangpic/blog/a417455d0e223b8b45ee9066721ec27a.jpg)
 
 ### 6、苋菜馄饨 
 

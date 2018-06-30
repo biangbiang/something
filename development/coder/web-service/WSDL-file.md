@@ -9,7 +9,7 @@ WebServices Description Language (WSDL Web服务语言)是一个用于精确描�
 
 WSDL非常适合于用作代码生成器，它能够读取WSDL文档，并且可以为访问Web服务生成一个程序化的接口，大多数软件供应商和主要的标准机构（包括 W3C、WS-I和OASIS）都支持WSDL。例如：JAX-RPC provider（例如：BEA Weblogic）通过API用WSDL生成相应的占位程序；IBM WebSphere、Microsoft.NET以及Apache Axis都有自己的工具生成相关的代码。下图是一个例子：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/7b2f7821f64680f7d45e351e4edc69e7.jpg)
+![](http://biang.io/biangpic/blog/7b2f7821f64680f7d45e351e4edc69e7.jpg)
 
 上面的例子JAX-RPC通过读取WSDL文档，创建JAX-RPC RMI接口（endpoint接口）和实现此接口的网络占位程序（stub）。客户端程序通过RMI接口，Stub和Web Service服务端交换SAOP消息。
 

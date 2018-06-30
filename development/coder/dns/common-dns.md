@@ -3,7 +3,7 @@
 
 DNS是把方便用户记忆的域名转换成网络可辨别使用的IP地址，全称Domain Name System，即域名解析系统。在网络已经相当普及的今天，DNS劫持和污染也成为国内电信运营商干扰用户正常上网的手段，使得用户不得不忍受广告弹窗，并且一些常用的国外服务也无法正常访问。今天就介绍一些国内外常用的DNS服务器地址，供大家选择使用，尽早脱离DNS挟持和污染。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/e99cec17dde06bfd88e7eec35dcc2026.jpg)
+![](http://biang.io/biangpic/blog/e99cec17dde06bfd88e7eec35dcc2026.jpg)
 
 先介绍一些国内的，毕竟离得近，解析上有着天然的优势。
 
@@ -117,7 +117,7 @@ C – 安全+色情+非家庭
 
 OpenNIC是一个由热心的志愿者运行的非营利组织，主张DNS中立，为用户免费提供DNS服务，保障用户的DNS服务不被审查的自由。访问官网，会自动向你推荐最适合你所在区域的DNS。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/42921648328474e0fe2858aee62ddded.jpg)
+![](http://biang.io/biangpic/blog/42921648328474e0fe2858aee62ddded.jpg)
 
 十二、V2EX DNS（http://dns.v2ex.com/）
 

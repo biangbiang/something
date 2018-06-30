@@ -7,7 +7,7 @@ Python的import包含文件功能就跟PHP的include类似，但更确切的说�
 
 目录结构：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/5e509f045dc62ff5a946ba6a83f40216.jpg)
+![](http://biang.io/biangpic/blog/5e509f045dc62ff5a946ba6a83f40216.jpg)
 
 a.py 要 import dir目录下的 b.py 文件。a.py代码如下：
 
@@ -21,12 +21,12 @@ a.py 要 import dir目录下的 b.py 文件。a.py代码如下：
 
 执行 a.py 报错
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/9b3c9de4edc837b83f7878509c32fc0a.jpg)
+![](http://biang.io/biangpic/blog/9b3c9de4edc837b83f7878509c32fc0a.jpg)
 
 提示找不到这个模块的名字 dir.b 。通过查找官方文档，发现要包含目录下的文件时需要在目录下声明一个__init__.py文件，即使这个文件是空的也可以。当然这个文件也可以初始一些数据。
 
 于是在 dir 下新建 __init__.py文件，目录结构如下：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/8e85ee02c168b818d4db19d7c9869704.jpg)
+![](http://biang.io/biangpic/blog/8e85ee02c168b818d4db19d7c9869704.jpg)
 
 重新执行a.py，一切OK！

@@ -17,7 +17,7 @@
 
   如图，如果“支持的网络承载”一栏为“是”，那么你的网卡使用“软AP”功能。
 
-  ![](http://biangbiangpic.b0.upaiyun.com/blog/00e9ad89f47d08be77efbdc4cda9e9b7.png)
+  ![](http://biang.io/biangpic/blog/00e9ad89f47d08be77efbdc4cda9e9b7.png)
 
 2. 输入如下命令，启用并设定“虚拟Wifi网卡”模式：
 
@@ -34,13 +34,13 @@
   
   以上三个参数其实可以单独使用，例如只使用 mode=disallow 可以直接禁用虚拟Wifi网卡。
   
-  ![](http://biangbiangpic.b0.upaiyun.com/blog/8821c7f40982aead4a92eba856666277.png)
+  ![](http://biang.io/biangpic/blog/8821c7f40982aead4a92eba856666277.png)
 
 3. 启用“Internet连接共享（ICS）”
 
   为了与其他计算机或设备共享已连接的互联网，我们需要启用“Internet连接共享”功能。打开“网络和网络共享中心”窗口——“更改适配器设置”，右键单击已连接到Internet的网络连接，选择“属性”，切换到“共享”选项卡，选中其中的复选框，并选择允许其共享Internet的网络连接在这里即我们的虚拟Wifi网卡：
 
-  ![](http://biangbiangpic.b0.upaiyun.com/blog/36a9ba466223c5d23fff3ec426516f2b.png)
+  ![](http://biang.io/biangpic/blog/36a9ba466223c5d23fff3ec426516f2b.png)
 
 4. 开启无线网络
 
@@ -50,4 +50,4 @@
 
   即可开启我们之前设置好的无线网络（相当于打开路由器的无线功能。同理，将start改为stop即可关闭该无线网）。
 
-  ![](http://biangbiangpic.b0.upaiyun.com/blog/fde6a34a2eda38e9b9d802455d485001.png)
+  ![](http://biang.io/biangpic/blog/fde6a34a2eda38e9b9d802455d485001.png)

@@ -52,7 +52,7 @@ A鸡适合于市场上一些厌恶风险的资金，A鸡年收益率6点几完�
 
 本波行情里证券板块最牛，证券B也是B鸡最牛，从4毛涨到1.2元！
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/ca2acc0de43bc239205533ffeec1e390.jpg)
+![](http://biang.io/biangpic/blog/ca2acc0de43bc239205533ffeec1e390.jpg)
 
 但是，如果全年母鸡净值没赚还亏损了，那么A鸡不管这些，照样拿走1.062，B鸡呢？必须得割自己的肉喂A鸡。上面的证券B，在年初大盘低迷时，最低2毛3分8。。。
 
@@ -70,7 +70,7 @@ A鸡适合于市场上一些厌恶风险的资金，A鸡年收益率6点几完�
 
 于是B鸡经常出现一字涨停，买不到。如下图的前几天。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/f7f8ad736fb83c748bb24f1b2acd7920.jpg)
+![](http://biang.io/biangpic/blog/f7f8ad736fb83c748bb24f1b2acd7920.jpg)
 
 如果股市天天暴涨，这样的确可以赚钱的，但是股市绝不会天天暴涨。
 
@@ -90,7 +90,7 @@ A鸡适合于市场上一些厌恶风险的资金，A鸡年收益率6点几完�
 
 看下面的800医药B，其实12月初的风根本没有吹到医药上，医药指数就没咋涨。但股市炒的就是预期，结果它从1.15元两周涨到2.1元，溢价极多。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/e56cd52a13a7128cc23ad3f347ccccc2.jpg)
+![](http://biang.io/biangpic/blog/e56cd52a13a7128cc23ad3f347ccccc2.jpg)
 
 随后套利者疯狂进入，只用5天就从2.1元跌到1.3元！最高点买B鸡的人，快跳楼了吧！
 

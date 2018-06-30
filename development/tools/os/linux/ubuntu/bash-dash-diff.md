@@ -15,7 +15,7 @@ POSIX 1003.2 and 1003.2a specifications for the shell.
 
 先用命令ls -l /bin/sh 看看
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/689c0d41501001ecd317bccd22348c3a.png)
+![](http://biang.io/biangpic/blog/689c0d41501001ecd317bccd22348c3a.png)
 
 我们会发现Ubuntu默认采用的是 dash
 
@@ -25,8 +25,8 @@ POSIX 1003.2 and 1003.2a specifications for the shell.
 
 然后选择【否】
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/785c2770d923ed57716fc696fe3a8e42.png)
+![](http://biang.io/biangpic/blog/785c2770d923ed57716fc696fe3a8e42.png)
 
 成功后再执行ls -l /bin/sh 看看
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/f44a8972df4e2c4fc8bf3f96e54e1f2b.png)
+![](http://biang.io/biangpic/blog/f44a8972df4e2c4fc8bf3f96e54e1f2b.png)

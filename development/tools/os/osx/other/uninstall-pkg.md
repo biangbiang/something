@@ -162,13 +162,13 @@ Mac下的安装和删除都比windows更加简单清晰，这点在dmg方式下�
 
 首先运行pkgutil --pkgs | grep -i go，这样会列出含有go字样的pkg
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/0607f96ee33d417237770c7648ca235d.jpg)
+![](http://biang.io/biangpic/blog/0607f96ee33d417237770c7648ca235d.jpg)
 
 这里我们可以看到，运行命令后列出了所有名字中含有"go"的pkg，其中com.googlecode.go就是我们golang的pkg，也就是我们要删除的pkg。
 
 然后运行pkgutil --files com.googlecode.go这个命令，这个命令会列出pkg的所有安装的文件，根据这个列表就可以保证删除干净了，再也没有后患。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/e33f447519ba4ec32417342986d2571b.jpg)
+![](http://biang.io/biangpic/blog/e33f447519ba4ec32417342986d2571b.jpg)
 
 比如对于golang的pkg，虽然有长长的一个列表，我们还是可以总结出来，除/usr/local/go之外，还有etc/paths.d/go这个文件需要删除。
 

@@ -29,7 +29,7 @@ node.js 是运行的google V8环境下的服务器端javascript 脚本,当然V8�
 
 结果:
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/157b007b280bc93bf08fb9de7c68040b.png)
+![](http://biang.io/biangpic/blog/157b007b280bc93bf08fb9de7c68040b.png)
 
 有人会问,为啥设置2000毫秒杀出好汉,结果2002毫秒才杀出来?
 

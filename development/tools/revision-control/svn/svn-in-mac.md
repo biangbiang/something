@@ -15,7 +15,7 @@ Mac环境下svn的使用
 
 指令执行成功后，会发现硬盘上多了个/Users/apple/svn/mycode目录，目录结构如下：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/1cfb100ccd79a6a2345bd6992ea1aec8.png)
+![](http://biang.io/biangpic/blog/1cfb100ccd79a6a2345bd6992ea1aec8.png)
 
 ### 配置svn的用户权限
 
@@ -83,7 +83,7 @@ anon-access = read代表匿名访问的时候是只读的，若改为anon-access
 
 如果你想要关闭svn服务器，最有效的办法是打开实用工具里面的“活动监视器”
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/16d76c7f4ce53ebd0a752588b5430523.png)
+![](http://biang.io/biangpic/blog/16d76c7f4ce53ebd0a752588b5430523.png)
 
 综合上述，我们就可以轻松搭建svn服务器环境了
  
@@ -127,6 +127,6 @@ anon-access = read代表匿名访问的时候是只读的，若改为anon-access
  
 5.至于svn的其他用法，可以在终端输入：svn help
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/aefad5493d091cca023d13a10ea16a55.png)
+![](http://biang.io/biangpic/blog/aefad5493d091cca023d13a10ea16a55.png)
 
 这里列出一大堆svn指令，后面括号中的内容的一般代表着指令的简称，比如我们可以用svn ci代替svn commit，用svn co代替svn checkout

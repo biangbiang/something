@@ -7,7 +7,7 @@
 
 如果你拥有一个开发者账户的话，在iOS Dev Center打开Certificates, Indentifiers & Profiles，你就可以看到如下的列表：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/f1ad7db3c767e0c7b6a11729ed50aee0.png)
+![](http://biang.io/biangpic/blog/f1ad7db3c767e0c7b6a11729ed50aee0.png)
 
 Profile Portal改版有一段时间了，改版之后的结构比以前更清晰明了，易于理解和管理。
 
@@ -19,7 +19,7 @@ Profile Portal改版有一段时间了，改版之后的结构比以前更清晰
 
 众所周知，我们申请一个Certificate之前，需要先申请一个Certificate Signing Request (CSR) 文件，而这个过程中实际上是生成了一对公钥和私钥，保存在你Mac的Keychain中。代码签名正是使用这种基于非对称秘钥的加密方式，用私钥进行签名，用公钥进行验证。如下图所示，在你Mac的keychain的login中存储着相关的公钥和私钥，而证书中包含了公钥。你只能用私钥来进行签名，所以如果没有了私钥，就意味着你不能进行签名了，所以就无法使用这个证书了，此时你只能revoke之前的证书再申请一个。因此在申请完证书时，最好导出并保存好你的私钥。当你想与其他人或其他设备共享证书时，把私钥传给它就可以了。私钥保存在你的Mac中，而苹果生成的Certificate中包含了公钥。当你用自己的私钥对代码签名后，苹果就可以用证书中的公钥来进行验证，确保是你对代码进行了签名，而不是别人冒充你，同时也确保代码的完整性等。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/b8366852c8b2fc9b9dc47b17197ebefc.png)
+![](http://biang.io/biangpic/blog/b8366852c8b2fc9b9dc47b17197ebefc.png)
 
 证书主要分为两类：Development和Production，Development证书用来开发和调试应用程序，Production主要用来分发应用程序（根据证书种类有不同作用），下面是证书的分类信息：（括号内为证书有效期）
 
@@ -50,7 +50,7 @@ App ID用于标识一个或者一组App，App ID应该是和Xcode中的Bundle ID
 
 每创建一个App ID，我们都可以设置该App ID所使用的APP Services，也就是其所使用的额外服务。每种额外服务都有着不同的要求，例如，如果要使用Apple Push Notification Services，则必须是一个explicit App ID，以便能唯一标识一个应用程序。下面是目前所有可选的服务和相应的配置要求。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/8aef6a7368b43335136498d62f268027.png)
+![](http://biang.io/biangpic/blog/8aef6a7368b43335136498d62f268027.png)
 
 如果你的App使用上述的任何一种service，就要按照要求去配置。
 
@@ -68,11 +68,11 @@ Device最简单了，就是iOS设备。Devices中包含了该账户中所有可�
 
 例如，如下图所示，一个用于Development的Provisioning Profile中包含了该Provisioning Profile对应的App ID，可使用的证书和设备。这意味着使用这个Provisioning Profile打包程序必须拥有相应的证书，并且是将App ID对应的程序运行到Devices中包含的设备上去。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/cbff4cd496170ecc5d490a0bef9dfdf9.png)
+![](http://biang.io/biangpic/blog/cbff4cd496170ecc5d490a0bef9dfdf9.png)
 
 如上所述，在一台设备上运行应用程序的过程如下：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/59d6dd99e6b7167d961a45ce36a9e7ff.png)
+![](http://biang.io/biangpic/blog/59d6dd99e6b7167d961a45ce36a9e7ff.png)
 
 与证书一样，Provisioning Profile也分为Development和Distribution两种：
 
@@ -105,7 +105,7 @@ In House 与Ad Hoc的不同之处在于：In House没有设备数量限制，而
 
 iOS Team Provisioning Profile是第一次使用Xcode添加设备时，Xcode自动生成的，它包含了Xcode生成的一个Wildcard App ID（*，匹配所有应用程序），账户里面所有的Devices和所有Development Certificates，如下图所示。因此，team中的所有成员都可以使用这个iOS Team Provisioning Profile在team中的所有设备上调试所有的应用程序。并且当有新设备添加进来时，Xcode会更新这个文件。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/e9afe6f2148b406aa305c6403eec30c1.png)
+![](http://biang.io/biangpic/blog/e9afe6f2148b406aa305c6403eec30c1.png)
 
 #### 发布流程
 

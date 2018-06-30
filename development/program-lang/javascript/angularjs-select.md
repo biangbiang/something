@@ -42,7 +42,7 @@ usage: label for value in array
 
 效果:
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/1517526dd33e0db82551af16245322ae.png)
+![](http://biang.io/biangpic/blog/1517526dd33e0db82551af16245322ae.png)
 
 说明
 
@@ -61,7 +61,7 @@ usage: label for value in array
 
 效果
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/eca944e5f7b22a442a2540f5e3172bb7.png)
+![](http://biang.io/biangpic/blog/eca944e5f7b22a442a2540f5e3172bb7.png)
 
 说明
 
@@ -78,7 +78,7 @@ usage: label group by group for value in array
 
 效果
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/869dbe766f4b7acd7bfb9347599044b2.png)
+![](http://biang.io/biangpic/blog/869dbe766f4b7acd7bfb9347599044b2.png)
 
 说明
 
@@ -94,7 +94,7 @@ usage: select as label for value in array
 
 效果
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/b5d96037c388dac7f4d65c8642856a98.png)
+![](http://biang.io/biangpic/blog/b5d96037c388dac7f4d65c8642856a98.png)
 
 说明
 

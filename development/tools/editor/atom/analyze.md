@@ -13,17 +13,17 @@ Atom是github内部的编辑软件，据说已经使用了6年之久。按照ato
 
 编辑器环境：
 
-![1](http://biangbiangpic.b0.upaiyun.com/blog/ed815a8faf3c070993ea5b275e4c8075.jpg)
+![1](http://biang.io/biangpic/blog/ed815a8faf3c070993ea5b275e4c8075.jpg)
 
 可以看到，atom和sublime text长得非常相似，几乎是一个模子里出来的。
 
-![2](http://biangbiangpic.b0.upaiyun.com/blog/1854d10df7cc77b8b174e6bffaa700fa.jpg)
+![2](http://biang.io/biangpic/blog/1854d10df7cc77b8b174e6bffaa700fa.jpg)
 
 在atom里，command+shift+P和command+t就是你初期所需掌握的一切。通过第一个快捷键，你可以调出一个命令行窗口，运行各种和菜单对应的功能；通过第二个快捷键，你可以方便地调出某个文件。
 
 和sublime text一样，atom也提供了package和plugin。atom提供了随处可查的帮助方便程序员对其扩展，比如说，要写theme，你可以先看看atom的style guide：
 
-![3](http://biangbiangpic.b0.upaiyun.com/blog/d56af8e8bc98a938490d8d967f192e3c.jpg)
+![3](http://biang.io/biangpic/blog/d56af8e8bc98a938490d8d967f192e3c.jpg)
 
 只要你用过任何一款文本编辑环境，如sublime text, ultra edit等，那么上手atom很快，几乎不用任何学习。不过你也许会有疑惑：atom有什么好处？
 
@@ -31,11 +31,11 @@ Atom是github内部的编辑软件，据说已经使用了6年之久。按照ato
 
 github在http://github.com/atom下开源了很多atom的package。我们随便看一个和排序相关的package —— 它能够排序选择的文本。使用起来是这个样子：
 
-![4](http://biangbiangpic.b0.upaiyun.com/blog/f6bbdf032eea0b2991b238587e36c600.jpg)
+![4](http://biang.io/biangpic/blog/f6bbdf032eea0b2991b238587e36c600.jpg)
 
 这个功能极其简单，对于一个程序员来说，只要告诉他用户选择的是什么，最迟不超过半小时就能编码完成排序。我们看看 atom sort 的主代码：
 
-![5](http://biangbiangpic.b0.upaiyun.com/blog/8755d974391819cccc084a3d5d5db0f9.jpg)
+![5](http://biang.io/biangpic/blog/8755d974391819cccc084a3d5d5db0f9.jpg)
 
 非常简单直观的coffeescript代码。相信做过前端开发的工程师，atom选择试用coffeescript是个福音（atom的配置文件也是cson格式的）。
 
@@ -49,7 +49,7 @@ atom选择coffeescript有几个很重要的考量（我猜的）：
 
 拿到atom后，我一直在怀疑它是个运行在浏览器中的web app。看看这个界面，是不是很有chrome的赶脚？？
 
-![6](http://biangbiangpic.b0.upaiyun.com/blog/b37b7085ab498b0bd519281bcbe9d408.jpg)
+![6](http://biang.io/biangpic/blog/b37b7085ab498b0bd519281bcbe9d408.jpg)
 
 这就是Atom最大的亮点！web native。在此之下，less style，coffeescript plugin，nodejs integration都水到渠成。看上去atom的源代码来自chrome —— 我觉得atom很可能是一款以某种方式运行本地web app的浏览器。chrome的源代码base在webkit上（貌似是bsd），所以atom可以任意修改。很可能chrome上面的沙箱环境（不允许web app访问本地资源，如文件系统）被移除，然后nodejs以某种方式被集成进来（这样javascript可以访问文件系统等本地资源）。
 

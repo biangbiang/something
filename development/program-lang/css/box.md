@@ -13,11 +13,11 @@ DIV+CSS两种盒子模型
 
 先来看看我们熟悉的标准盒子模型：
 
-![标准盒子模型](http://biangbiangpic.b0.upaiyun.com/blog/685f79ed1376671b5e5ed80d980fee50.jpg)
+![标准盒子模型](http://biang.io/biangpic/blog/685f79ed1376671b5e5ed80d980fee50.jpg)
 
 从上图可以看到标准 W3C 盒子模型的范围包括 margin、border、padding、content，并且 content 部分不包含其他部分。　
 
-![IE盒子模型](http://biangbiangpic.b0.upaiyun.com/blog/675ea88adc86a7d6244e232c9e6cdc2e.jpg)
+![IE盒子模型](http://biang.io/biangpic/blog/675ea88adc86a7d6244e232c9e6cdc2e.jpg)
 
 从上图可以看到 IE 盒子模型的范围也包括 margin、border、padding、content，和标准 W3C 盒子模型不同的是：IE 盒子模型的 content 部分包含了 border 和 pading。
 

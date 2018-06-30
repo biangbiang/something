@@ -5,7 +5,7 @@ Android 软件开发之如何使用Eclipse Debug调试程序详解
 
 如果所示：在Eclipse中添加了一个程序断点 
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/ae172d5be3d715f082578535c2cfe875.jpg)
+![](http://biang.io/biangpic/blog/ae172d5be3d715f082578535c2cfe875.jpg)
 
 在Eclipse中一共有三种添加断点的方法
 
@@ -13,11 +13,11 @@ Android 软件开发之如何使用Eclipse Debug调试程序详解
 
 第二种： 在红框区域双击鼠标左键将会在你双击代码的哪一行添加一个程序断点 (同样的操作方可取消程序断点) 
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/eee31c2fe970296897a4c3e66cff9102.jpg)
+![](http://biang.io/biangpic/blog/eee31c2fe970296897a4c3e66cff9102.jpg)
 
 第三种 ：在光标停留的地方使用快捷键 Ctrl + Shift + B 将会在光标停留的这一行添加一个程序断点 (同样的操作方可取消程序断点)
  
-![](http://biangbiangpic.b0.upaiyun.com/blog/b6178e34456b2f888226f08a3ac272df.jpg)
+![](http://biang.io/biangpic/blog/b6178e34456b2f888226f08a3ac272df.jpg)
 
 ## 2.运行Debug 调试 让程序停留在添加的断点上 
 
@@ -27,11 +27,11 @@ Android 软件开发之如何使用Eclipse Debug调试程序详解
 
 Debug调试 快捷键为单击F11 
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/b061c7ecb21eccd9a0f4ff01096543ad.jpg)
+![](http://biang.io/biangpic/blog/b061c7ecb21eccd9a0f4ff01096543ad.jpg)
 
 分析一下如何科学的添加程序断点， 上图中我为了加断点查看生成出来随机数的值我一共添加了6个程序断点，绿框表示最为科学的断点位置 ，红框表示不科学的位置。 我们分析一下为什么， 如果switch case 中的代码片段过长 或者 case 的数量过多 如果采用红框的方式来添加程序断点，程序员须要添加很多程序断点万一有疏漏 所以会很难快速定位代码执行到了那里 ，如果使用绿框的方式添加程序断点，程序员只须要在断点出按 F6 单步跳过这一行代码就会走进正确的case中方便继续调试。 
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/2f5a514670dfba03cc858c2d21de0277.jpg)
+![](http://biang.io/biangpic/blog/2f5a514670dfba03cc858c2d21de0277.jpg)
 
 Debug调试运行后，程序停在了红框处，按F6单步跳过 发现随机数为4 程序停留在了绿框中，程序员可以迅速定位random的值为4
 
@@ -45,7 +45,7 @@ Debug调试运行后，程序停在了红框处，按F6单步跳过 发现随机
 
 BreakPoints 中会记录程序中添加过多少程序断点。 
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/4ad96b688a886a49c14ffc23bf348464.jpg)
+![](http://biang.io/biangpic/blog/4ad96b688a886a49c14ffc23bf348464.jpg)
 
 ## 4.分享一些Eclipse中Debug的一些小技巧
 
@@ -59,11 +59,11 @@ watch 过的变量 和我们自己加的程序断点不会被Eclipse 自动删�
 
 第三步 驱动安装成功后会在Device中看到真机(红框中) 绿框中为android电脑模拟器
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/dc20ba1e9569a3fd99d78384acaafafb.jpg)
+![](http://biang.io/biangpic/blog/dc20ba1e9569a3fd99d78384acaafafb.jpg)
 
 运行项目后弹出设备选择窗口 第一个为模拟器 第二个红框内的为我连接电脑的真机 MOTO的里程碑，选择完后点击OK 就可以通过真机来调试程序了，简单吧？是不是很给力呢呵呵。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/6afec3b8944972daeeb9e6d016acd9f5.jpg)
+![](http://biang.io/biangpic/blog/6afec3b8944972daeeb9e6d016acd9f5.jpg)
 
 ## 6.Android 开发中Log信息的打印
 
@@ -112,7 +112,7 @@ watch 过的变量 和我们自己加的程序断点不会被Eclipse 自动删�
 
 打开LogCat页面发现系统打印了很多Log信息 我们不好定位出刚才自己打的Log，如图所示点击红框内的“+”符号弹出下方窗口后在Filter Name : 和 by Log Tag: (蓝框内)填写我们刚才打的LOG tag "random"注意这两项都必需填写 然后单击OK后 方可在绿框中看到我们刚才打的random的Log 。怎么样还是很简单的吧 呵呵。 
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/756278b0f1d3066e87c04419cb371999.jpg)
+![](http://biang.io/biangpic/blog/756278b0f1d3066e87c04419cb371999.jpg)
 
 ## 最后附上Eclipse 在开发中使用到的快捷键很实用噢(转载)
  

@@ -89,7 +89,7 @@ screen还有更高级的功能。你可以不中断screen窗口中程序的运�
 
 暂时中断会话
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/0236a4a984c69b55b6a8ad4c07f225d0.jpg)
+![](http://biang.io/biangpic/blog/0236a4a984c69b55b6a8ad4c07f225d0.jpg)
 
 半个小时之后回来了，找到该screen会话：
 
@@ -126,7 +126,7 @@ screen还有更高级的功能。你可以不中断screen窗口中程序的运�
 
 Screen 常用选项
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/501541999b8b88d534f371ab3bb20749.jpg)
+![](http://biang.io/biangpic/blog/501541999b8b88d534f371ab3bb20749.jpg)
 
 因为screen把C-a看作是screen命令的开始，所以如果你想要screen窗口接收到C-a字符，就要输入C-a a。Screen也允许你使用-e选项设置自己的命令字符和转义字符，其格式为：
 
@@ -138,7 +138,7 @@ Screen 常用选项
 
 自定义命令字符和转义字符
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/3a287d39a613493b4c0d3f17fafa1cd1.jpg)
+![](http://biang.io/biangpic/blog/3a287d39a613493b4c0d3f17fafa1cd1.jpg)
 
 其他常用的命令选项有：
 
@@ -208,7 +208,7 @@ SSH登录到系统，在命令行键入screen。
 
 管理你的远程会话
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/24310c294884e5b9c24e54d170478887.jpg)
+![](http://biang.io/biangpic/blog/24310c294884e5b9c24e54d170478887.jpg)
 
 然后。。退出SSH登录？随你怎样，只要别杀掉screen会话。
 
@@ -218,13 +218,13 @@ SSH登录到系统，在命令行键入screen。
 
 putty
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/ba0e59dfafa8348975da0c487d5c7667.jpg)
+![](http://biang.io/biangpic/blog/ba0e59dfafa8348975da0c487d5c7667.jpg)
 
 使用telnet：
 
 telnet
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/7daa2f020e0726a88a47c262b3b8e11f.jpg)
+![](http://biang.io/biangpic/blog/7daa2f020e0726a88a47c262b3b8e11f.jpg)
 
 #### 更多Screen功能
 

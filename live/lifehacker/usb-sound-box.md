@@ -5,7 +5,7 @@ USB插到主机上面就会有“吱吱吱”的电流声，很燥人。静音�
 
 刚配了一台主机，装USB小音箱，USB插到主机上面就会有“吱吱吱”的电流声，很燥人。静音了也有!一拔掉就没了。“吱吱”声随着音箱音量的变化而变化。用另一电源给USB音箱供电时，音频线连接笔记本就没有这种情况!
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/2ccae482c9467d00bd589b2eb581638a.jpg)
+![](http://biang.io/biangpic/blog/2ccae482c9467d00bd589b2eb581638a.jpg)
 
 USB音箱，其输入端有三条线，左右声道各一条，公共线一条，这条公共线与电源的负极接在一起，称为地线。
 
@@ -13,12 +13,12 @@ USB音箱，其输入端有三条线，左右声道各一条，公共线一条�
 
 为了得到纯净的声音信号，因此需要把干扰信号滤除掉，在信号线与地之间并接电阻和电容，就是起这样的作用。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/e14185a07f389cc291fb3d0b6dcde314.jpg)
+![](http://biang.io/biangpic/blog/e14185a07f389cc291fb3d0b6dcde314.jpg)
 
 有个简单的方法，音箱的USB接口不用机箱供电，就是把音箱USB插口查到充电头上，一步到位。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/20c3c8ba5f8b9622c990510d11b607c4.jpg)
+![](http://biang.io/biangpic/blog/20c3c8ba5f8b9622c990510d11b607c4.jpg)
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/853cce4de5a44028def5fbed55aa74cf.jpg)
+![](http://biang.io/biangpic/blog/853cce4de5a44028def5fbed55aa74cf.jpg)
 
 还有个更简单方法就是，买个带消磁的USB音箱插口，这个就是得花点小钱 ~

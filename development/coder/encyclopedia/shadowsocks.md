@@ -23,19 +23,19 @@ PS：此程序开源，感谢作者@clowwindy。
 
   2.运行解压后文件夹中的“shadowsocks.exe”，如下图，设置好shadowsocks的账号信息，点save；
   
-    ![](http://biangbiangpic.b0.upaiyun.com/blog/bc3d832a88e5366e1c1ab20bc4ebd3b9.png)
+    ![](http://biang.io/biangpic/blog/bc3d832a88e5366e1c1ab20bc4ebd3b9.png)
   
   3.下载安装chrome的浏览器插件Proxy SwitchySharp（或者百度网盘下载，下载后打开chrome，输入chrome://extensions，把下载的crx文件拖进去即可安装），下载完成后启用之，可以在chrome右上方看到程序的图标，点选项，如下图设置保存；
 
-    ![](http://biangbiangpic.b0.upaiyun.com/blog/60ce21dfc1512abf7982f7089b95e66c.png)
+    ![](http://biang.io/biangpic/blog/60ce21dfc1512abf7982f7089b95e66c.png)
   
   4.此时，可以切换至shadowsocks；
 
-    ![](http://biangbiangpic.b0.upaiyun.com/blog/19f7bce9ede79063e2997c449d4ed2a1.png)
+    ![](http://biang.io/biangpic/blog/19f7bce9ede79063e2997c449d4ed2a1.png)
   
   5.接下来，可以在chrome中直接打开youtube试试，测试OK，没问题。
 
-    ![](http://biangbiangpic.b0.upaiyun.com/blog/8317b1dbf8402f17c28469c15a6084f2.png)
+    ![](http://biang.io/biangpic/blog/8317b1dbf8402f17c28469c15a6084f2.png)
   
   如果不需要shadowsocks的网络，选择“使用系统代理设置”即可还原。
 
@@ -47,7 +47,7 @@ PS：此程序开源，感谢作者@clowwindy。
 
   直接在appstore搜索下载shadowsocks（safari直接进入下载），app打开后就是一个浏览器，内置了公共服务器，可以直接输入网址打开youtube了。当然，有时候公共服务器会出现不稳定的情况，这时可以设置自己的服务器使用，设置方法和windows一样。
 
-    ![](http://biangbiangpic.b0.upaiyun.com/blog/be8d291666545861efc7802e60653cbc.png)
+    ![](http://biang.io/biangpic/blog/be8d291666545861efc7802e60653cbc.png)
   
 Android平台
 安卓下的软件名称为“影梭”（GooglePlay下载），可以在googleplay中搜索下载，其功能和IOS的基本一样，没有内置浏览器，打开设置好服务器以后，再打开浏览器即可。

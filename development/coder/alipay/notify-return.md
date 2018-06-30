@@ -5,7 +5,7 @@
 
 即：商户系统请求/支付宝响应交互模式
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/c4c1c19b537267715c7a81dce61f3274.jpg)
+![](http://biang.io/biangpic/blog/c4c1c19b537267715c7a81dce61f3274.jpg)
 
 #### 1、 构造请求数据
 
@@ -33,7 +33,7 @@
 
 即：支付宝主动通知交互模式（支付宝反馈数据）
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/1ac5d3b27e0a68ea262dfafe6d456a39.jpg)
+![](http://biang.io/biangpic/blog/1ac5d3b27e0a68ea262dfafe6d456a39.jpg)
 
 **前提**：若要支付宝能主动通知，需商户在请求时设定好通知的页面路径（参数notify_url），且该页面文件完全空白，无任何字符。
 

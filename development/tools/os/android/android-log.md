@@ -19,9 +19,9 @@ Step 1:准备工作(打开LogCat视窗)．
 
 启动Eclipse,在Window->Show View会出来一个对话框，当我们点击Ok按钮时，会在控制台窗口出现LogCat视窗.如下图：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/ad9c980d76f631511cc1e4452676e6d5.jpg)
+![](http://biang.io/biangpic/blog/ad9c980d76f631511cc1e4452676e6d5.jpg)
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/1fd4a3ef632cd53911e0489299a6e929.jpg)
+![](http://biang.io/biangpic/blog/1fd4a3ef632cd53911e0489299a6e929.jpg)
 
 Step 2:新建一个Android工程，命名为LogDemo.
 
@@ -88,8 +88,8 @@ Step 4:设计主类LogDemo.java,代码如下:
 
 Step 5:运行LogDemo工程，效果如下:
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/788905290ee95ee3d8291806b284d68d.jpg)
+![](http://biang.io/biangpic/blog/788905290ee95ee3d8291806b284d68d.jpg)
 
 当我们点击按钮时，会触发事件，在Logcat视窗下有如下效果:
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/99f5502b506107ceed670400302af6ba.jpg)
+![](http://biang.io/biangpic/blog/99f5502b506107ceed670400302af6ba.jpg)

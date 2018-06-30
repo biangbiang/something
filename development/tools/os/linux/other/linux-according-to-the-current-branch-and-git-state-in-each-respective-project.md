@@ -30,4 +30,4 @@
 
 各种状态一目了然 
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/838a2193c61dc8afac0fea01ba8d2534.jpg)
+![](http://biang.io/biangpic/blog/838a2193c61dc8afac0fea01ba8d2534.jpg)

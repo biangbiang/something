@@ -46,7 +46,7 @@
 
 对于商户具有支付权限且需要调用微信支付的页面，为了让用户增加购买信心，确认交易环境安全，微信强烈建议商户使用“微信安全支付”标题。安全支付标题的如下图:
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/2b0a3a03805dd6acd3f689e6864715be.png)
+![](http://biang.io/biangpic/blog/2b0a3a03805dd6acd3f689e6864715be.png)
 
 图-微信安全支付标题
 
@@ -58,7 +58,7 @@
 
 ### 业务流程时序图
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/e7e97ea60c072d857def887e785ec2a2.png)
+![](http://biang.io/biangpic/blog/e7e97ea60c072d857def887e785ec2a2.png)
 
 图-微信内网页支付时序图
 

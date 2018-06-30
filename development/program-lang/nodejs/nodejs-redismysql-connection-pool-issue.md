@@ -10,7 +10,7 @@ redis服务器也是运行在单线程上的。俩都是单线程，看起来更
 
 从详细的图像来看看nodejs 连接 redis用连接池有没有意义。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/baf9754e45406dd780e1329b50f5f002.png)
+![](http://biang.io/biangpic/blog/baf9754e45406dd780e1329b50f5f002.png)
 
 上图中，nodejs共有俩连接，分别发送查询请求到redis服务器上。因为redis是单线程作业，不管两个查询任务是由一个连接发来还是多个连接发来，也不管任务是串行一前一后先后发送到服务器，还是并行的同时发送到服务器上，redis都将他们一个个按顺序执行，并通过当前连接返回给客户端(这里是nodejs)。nodejs接受到redis的返回后，也管不了并行不并行，都得等他nodejs的主线程空闲的时候才能来一个个处理服务器返回的数据。
  
@@ -20,7 +20,7 @@ redis服务器也是运行在单线程上的。俩都是单线程，看起来更
  
 不同的是mysql不是单线程服务的，也就是它可以并行处理多个查询请求。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/e5b5d1b3d714ab93ae4bc0e773f9fae6.png)
+![](http://biang.io/biangpic/blog/e5b5d1b3d714ab93ae4bc0e773f9fae6.png)
 
 如上图所示，mysql会为每个连接创建一个单独的线程来查询。不同于redis数据基本都在内存中，因为mysql会有大量的读取磁盘的IO操作，所以多个线程一起工作会比一个个查询要快。
  
@@ -32,7 +32,7 @@ redis服务器也是运行在单线程上的。俩都是单线程，看起来更
 
 因此如果用nodejs + mysql只用单个连接的话那么就利用不到mysql能同时服务多个查询的优势了。应该使用类似下图的运作方式，nodejs 使用多个连接来连接mysql。多连接是需要连接池的，有连接池就避免了每次连接都要去创建销毁的消耗了。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/8255f8b54a03af886bf9d466622cce67.png)
+![](http://biang.io/biangpic/blog/8255f8b54a03af886bf9d466622cce67.png)
 
 所以我们第一步的感觉认为Nodejs是单线程而不是需要连接池是错误的，使用不使用连接池，不光看客户端，还要看数据库服务器等。要全盘理解整个系统的运作模式才能下结论。了解服务器的运作模式，有没有阻塞操作，是否是多线程等。我想redis设计成单线程主要原因在于它的数据基本都在内存中，查询数据过程总不会产生阻塞过程，cpu也不会处于空闲状态。
  

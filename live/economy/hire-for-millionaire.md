@@ -1,7 +1,7 @@
 什么样的创业公司，能够让我在供职四年内成为百万富翁?
 ===================================================
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/eb3062549b0b9e7bb5dc81943eac82c4.jpg)
+![](http://biang.io/biangpic/blog/eb3062549b0b9e7bb5dc81943eac82c4.jpg)
 
 ... 有人在 Quora 问了这个问题： [What startup could make me a millionaire in four years if I got hired as an emplyee today？](http://www.quora.com/What-startup-could-make-me-a-millionaire-in-four-years-if-I-got-hired-as-an-employee-today)
 

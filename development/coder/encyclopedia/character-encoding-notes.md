@@ -81,7 +81,7 @@ UTF-8的编码规则很简单，只有二条：
 
 在Windows平台下，有一个最简单的转化方法，就是使用内置的记事本小程序Notepad.exe。打开文件后，点击"文件"菜单中的"另存为"命令，会跳出一个对话框，在最底部有一个"编码"的下拉条。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/1b44bbcf586901e5872713ada6806c46.jpg)
+![](http://biang.io/biangpic/blog/1b44bbcf586901e5872713ada6806c46.jpg)
 
 里面有四个选项：ANSI，Unicode，Unicode big endian 和 UTF-8。
 

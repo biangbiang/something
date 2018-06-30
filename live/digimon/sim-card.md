@@ -7,7 +7,7 @@ SIM卡是(Subscriber Identity Module 客户识别模块)的缩写，也称为用
 
 ### SIM卡类型介绍：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/a0dc26f8757af6d0b3ec3508cb41493d.jpg)
+![](http://biang.io/biangpic/blog/a0dc26f8757af6d0b3ec3508cb41493d.jpg)
 
 从图片可以看出SIM卡的四种类型，分别为：Standard SIM(原卡)、Mini SIM(也就是咱们常说的标准卡)、Micro SIM(常说的小卡)、Nano SIM(iphone 5开始使用，目前只有苹果手机在用)。
 

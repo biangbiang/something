@@ -71,13 +71,13 @@
 
 #### 类之间的关系与UML表示
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/7c0b46716c799f085156f4c57e51ef6a.png)
+![](http://biang.io/biangpic/blog/7c0b46716c799f085156f4c57e51ef6a.png)
 
 ## II. 常见的模式
 
 ### 1. MVC 与 MVP
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/82fb83d604e892aa4f75ab2939805bc4.gif)
+![](http://biang.io/biangpic/blog/82fb83d604e892aa4f75ab2939805bc4.gif)
 
 From http://msdn.microsoft.com/en-us/library/ff647859.aspx
 
@@ -88,7 +88,7 @@ MVP(Model-View\_Presenter)是MVC(Model-View\_Controller)的一个子集。
 
 ### 2. MVVM
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/b49721d350f8a9fb5f698ce292922a43.png)
+![](http://biang.io/biangpic/blog/b49721d350f8a9fb5f698ce292922a43.png)
 
     MVVM(View<->ViewModel->Model)
 
@@ -100,7 +100,7 @@ MVP(Model-View\_Presenter)是MVC(Model-View\_Controller)的一个子集。
 
 ### 3. MVVM-C
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/ef62c6c7bb75964a945b52d29aed122e.png)
+![](http://biang.io/biangpic/blog/ef62c6c7bb75964a945b52d29aed122e.png)
 
     MVVM-C(View-ViewModel-Callback-Model)
 
@@ -113,7 +113,7 @@ MVP(Model-View\_Presenter)是MVC(Model-View\_Controller)的一个子集。
 
 ### 1. 工厂方法模式
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/1c0810f0713454924568146dae74bb06.png)
+![](http://biang.io/biangpic/blog/1c0810f0713454924568146dae74bb06.png)
 
 ### 2. 单例模式
 
@@ -137,7 +137,7 @@ Wiki
 
 与工厂模式区别是: 工厂模式关注构建单个类型类型；建造者模式关注构建符合类型对象。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/dcc4fc52557e1deeeb17939a26652b13.png)
+![](http://biang.io/biangpic/blog/dcc4fc52557e1deeeb17939a26652b13.png)
 
 ### 4. 原型模式
 
@@ -166,40 +166,40 @@ Wiki
 
 ### 5. 适配器模式
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/15b25f620e2b5fe53ed28d70a3fff64a.png)
+![](http://biang.io/biangpic/blog/15b25f620e2b5fe53ed28d70a3fff64a.png)
 
 ### 6. 装饰模式
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/3e30dca1ca0fce19bf7da32b92190928.png)
+![](http://biang.io/biangpic/blog/3e30dca1ca0fce19bf7da32b92190928.png)
 
 ### 7. 代理模式
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/ccd56e23e889bed8b7bbabf05df42000.png)
+![](http://biang.io/biangpic/blog/ccd56e23e889bed8b7bbabf05df42000.png)
 
 ### 8. 外观模式
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/2be7e57401bc29c2d401abd4c64cbf27.png)
+![](http://biang.io/biangpic/blog/2be7e57401bc29c2d401abd4c64cbf27.png)
 
 ### 9. 桥接模式
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/7d75d8587f1358c35890ec418d56f7f1.png)
+![](http://biang.io/biangpic/blog/7d75d8587f1358c35890ec418d56f7f1.png)
 
 ### 10. 组合模式
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/13eff50a5105c9029de8e8f213c0943a.png)
+![](http://biang.io/biangpic/blog/13eff50a5105c9029de8e8f213c0943a.png)
 
 ### 11. 享元模式
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/0b8cd914170d8b592e229b230af0a109.png)
+![](http://biang.io/biangpic/blog/0b8cd914170d8b592e229b230af0a109.png)
 
 ### 12. 策略模式
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/8752da3352961847a0ae5f589b87d873.png)
+![](http://biang.io/biangpic/blog/8752da3352961847a0ae5f589b87d873.png)
 
 ### 13. 模板方法模式
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/7c828a4cc0e45e2f5ccac19b18860ab8.png)
+![](http://biang.io/biangpic/blog/7c828a4cc0e45e2f5ccac19b18860ab8.png)
 
 ### 14. 观察者模式
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/34d7c76b4f64b3501c476e7fd4820e56.png)
+![](http://biang.io/biangpic/blog/34d7c76b4f64b3501c476e7fd4820e56.png)

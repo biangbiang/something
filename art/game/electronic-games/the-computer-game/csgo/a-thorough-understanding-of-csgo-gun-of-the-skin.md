@@ -32,7 +32,7 @@
 
 真相图如下：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/cd2630b78a3bbebb527c5ac46a7df387.jpg)
+![](http://biang.io/biangpic/blog/cd2630b78a3bbebb527c5ac46a7df387.jpg)
 
 从上图大家可以清晰的了解 这个分类的等级，我个人认为，这才是真正的品质分类，也是从稀有程度上确定的品质。没有第7类，因为第7类就是特殊罕见的物品了，一般来说就是刀。白色，浅蓝，深蓝，紫色，这四种，都可以在游戏中掉落获取，从第五类粉紫开始，都是箱子货了。
 
@@ -52,7 +52,7 @@
 
 真相图如下：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/d15f020d2d583769252812b5ea2e9328.jpg)
+![](http://biang.io/biangpic/blog/d15f020d2d583769252812b5ea2e9328.jpg)
 
 这就是 大家常常挂在嘴边的 略磨、 久经 、新厂，更准确点说的话，应该是 “外观品质”，同一把枪的同一个皮肤，也会有这么5种不同的外观，大多新手刚接触CSGO，会把这个当成 “装备磨损” 来看待，以为会像其他游戏的装备一样，用着用着会掉磨损，其实，这个仅仅就是个外观而已，不会因为你的使用而“掉漆”的。
 
@@ -64,7 +64,7 @@
 
 我们打开交换合同：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/75f0aae8b673e00f495d4abb040333a9.jpg)
+![](http://biang.io/biangpic/blog/75f0aae8b673e00f495d4abb040333a9.jpg)
 
 交换：来自相同收藏品 ，这一条就是我们要说的，第三大类的分类方式，这种分类方式 是按照V社已经划定的收藏种类 来分类，V社已经划分了10几种的收藏类型，下面我会列举一些，
 
@@ -78,7 +78,7 @@
 
 下面我们来看看 V社给我们划定的收藏种类吧：(十多种呢，可能不全，欢迎补充)
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/98f49a6d7522e7cbe12568810951bec7.jpg)
+![](http://biang.io/biangpic/blog/98f49a6d7522e7cbe12568810951bec7.jpg)
 
 1)The Assault Collection
 

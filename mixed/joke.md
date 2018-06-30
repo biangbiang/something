@@ -23,27 +23,27 @@
 
 6. 某乎上那些稳准狠的一句话问答，个个看完都是无言以对！
 
-  ![](http://biangbiangpic.b0.upaiyun.com/blog/8573249d80e5f2e0af07d40b46b94024.jpg)
+  ![](http://biang.io/biangpic/blog/8573249d80e5f2e0af07d40b46b94024.jpg)
   
-  ![](http://biangbiangpic.b0.upaiyun.com/blog/d1933e2ccb3e6f9ef3fdc0822735e6e6.jpg)
+  ![](http://biang.io/biangpic/blog/d1933e2ccb3e6f9ef3fdc0822735e6e6.jpg)
   
-  ![](http://biangbiangpic.b0.upaiyun.com/blog/0c0968f3e71a516cc21017da2a6e2d32.jpg)
+  ![](http://biang.io/biangpic/blog/0c0968f3e71a516cc21017da2a6e2d32.jpg)
   
-  ![](http://biangbiangpic.b0.upaiyun.com/blog/bd91f2fa4213b974013e69a5c8c06419.jpg)
+  ![](http://biang.io/biangpic/blog/bd91f2fa4213b974013e69a5c8c06419.jpg)
   
-  ![](http://biangbiangpic.b0.upaiyun.com/blog/daaf4bd12d892b68b07eb477364e3a55.jpg)
+  ![](http://biang.io/biangpic/blog/daaf4bd12d892b68b07eb477364e3a55.jpg)
   
-  ![](http://biangbiangpic.b0.upaiyun.com/blog/a1fe707fe0819efa3c0d3c1a2c4b9b67.jpg)
+  ![](http://biang.io/biangpic/blog/a1fe707fe0819efa3c0d3c1a2c4b9b67.jpg)
   
-  ![](http://biangbiangpic.b0.upaiyun.com/blog/38e7093229a0e1f5bdfc914952daf824.jpg)
+  ![](http://biang.io/biangpic/blog/38e7093229a0e1f5bdfc914952daf824.jpg)
   
-  ![](http://biangbiangpic.b0.upaiyun.com/blog/13b3fee02a3804db94b645d3f2dedbfa.jpg)
+  ![](http://biang.io/biangpic/blog/13b3fee02a3804db94b645d3f2dedbfa.jpg)
   
-  ![](http://biangbiangpic.b0.upaiyun.com/blog/26edb47c8501d4be096118ae4612b3ef.jpg)
+  ![](http://biang.io/biangpic/blog/26edb47c8501d4be096118ae4612b3ef.jpg)
 
 7. 愿你能遇见未知的自己，愿你被这个世界温柔相待。
 
-  ![](http://biangbiangpic.b0.upaiyun.com/blog/effc546ed6549a60d03809348d0ddeb0.jpg)
+  ![](http://biang.io/biangpic/blog/effc546ed6549a60d03809348d0ddeb0.jpg)
 
 8. 程序员的10大常用语
 

@@ -15,11 +15,11 @@ alert弹出框需要点击确认比较麻烦，而console.log()仅在控制台�
 
 下面分享两张打印出来的信息图片：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/6a590eae184a9925fdd82ef2b1ea7384.png)
+![](http://biang.io/biangpic/blog/6a590eae184a9925fdd82ef2b1ea7384.png)
 
 php上传多文件console.log打印日志
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/68cc6d32ad5584f67b8a0aa1d5d7ddd4.png)
+![](http://biang.io/biangpic/blog/68cc6d32ad5584f67b8a0aa1d5d7ddd4.png)
 
 console.log 原先是 Firefox 的"专利"，严格说是安装了 Firebugs 之后的 Firefox 所独有的调试"绝招"。
 

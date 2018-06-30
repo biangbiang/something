@@ -76,7 +76,7 @@
 
 下面用图示的方式来表示
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/24ffcac065491bf9944a029ba261e0e6.jpg)
+![](http://biang.io/biangpic/blog/24ffcac065491bf9944a029ba261e0e6.jpg)
 
 ### 三 注意
 

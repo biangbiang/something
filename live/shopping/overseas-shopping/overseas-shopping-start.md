@@ -11,7 +11,7 @@
 
 ## 海淘攻略四部曲：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/7bbfe6c6e27c01798a73ed24701a86f5.jpg)
+![](http://biang.io/biangpic/blog/7bbfe6c6e27c01798a73ed24701a86f5.jpg)
 
 ## 快速导航： 
 

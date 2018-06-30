@@ -2,7 +2,7 @@
 
 今天为大家介绍最受极客朋友们喜爱的一款豪礼：HHKB 电容键盘！这也是上月票选好礼荣登榜首，实至名归的程序猿最爱礼物！
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/0088b903fab4c712ef7518a8ed4ea81f.jpg)
+![](http://biang.io/biangpic/blog/0088b903fab4c712ef7518a8ed4ea81f.jpg)
 
 HHKB Pro2 电容键盘
 
@@ -14,7 +14,7 @@ HHKB 全称 Happy Hacking Keyboard ，于 1996 年 12 月 20 日诞生于日本�
 
 HHKB 由和田英一和株式会社 PFU 共同开发。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/eb98722db5d494178b3a8cb339e07262.jpg)
+![](http://biang.io/biangpic/blog/eb98722db5d494178b3a8cb339e07262.jpg)
 
 和田英一是日本计算机先驱，东京大学名誉教授，IIJ 技术研究所研究顾问。他参与了计算机科学领域的巨著 The Art of Computer Programming 、 Structure and Interpretation of Computer Programs 等的翻译。和田英一也被称为日本第一位黑客。他最为人知的贡献就是发明了 HHKB 。
 
@@ -22,7 +22,7 @@ HHKB 由和田英一和株式会社 PFU 共同开发。
 
     在电脑生产厂商看来，键盘是配件，而他们需要压缩生产成本。这种想法其实并不对。我们把“马鞍”这个词用在 HHKB 的宣传语中。在牛仔的旅途中，马一旦死掉，他们会把马留下。尽管他们深陷沙漠，他们也会带上马鞍。对于他们而言，马是消耗品，而马鞍则是自己熟悉的伙伴。从这个角度看，电脑不过是消耗品，键盘才最重要。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/61a00ff72bc249248110167e9d64b5ce.jpg)
+![](http://biang.io/biangpic/blog/61a00ff72bc249248110167e9d64b5ce.jpg)
 
 株式会社PFU 是富士通的子公司，三个字母分别代表：优质的产品( Product )，可靠的制造（ Factory ）以及客户的便利（ Utility ）。
 
@@ -60,17 +60,17 @@ DIP 开关。提供 6 个 DIP 开关，通过这些开关的组合，可以交�
 
 * Linux 基金会的那只企鹅
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/9ea0d99545ff24952286dc1f98fc01b1.jpg)
+![](http://biang.io/biangpic/blog/9ea0d99545ff24952286dc1f98fc01b1.jpg)
 
 * GNU 之父 Richard Stallman ，他的大胡子被 Geek 们戏称为 UNIX beard 。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/d76aba24b9565ef057fce23184b291e9.jpg)
+![](http://biang.io/biangpic/blog/d76aba24b9565ef057fce23184b291e9.jpg)
 
 100 美元的 OLPC 配上 250 美元的 HHKB Pro 2，简直酷炫。
 
 * C++ 之父 Bjarne Stroustrup
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/668cff92bb69341e3707ae0922d13b49.jpg)
+![](http://biang.io/biangpic/blog/668cff92bb69341e3707ae0922d13b49.jpg)
 
 ### HHKB 的使用诀窍有吗？
 
@@ -105,7 +105,7 @@ DIP 开关。提供 6 个 DIP 开关，通过这些开关的组合，可以交�
 
 有！没有方向键的 HHKB 怎么能让 Pac Man 的粉丝如我愉快地玩耍！
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/4b345a8fc08db2f215bbf342b99cc288.jpg)
+![](http://biang.io/biangpic/blog/4b345a8fc08db2f215bbf342b99cc288.jpg)
 
 ### 那我还要不要买 HHKB ？
 
@@ -113,26 +113,26 @@ DIP 开关。提供 6 个 DIP 开关，通过这些开关的组合，可以交�
 
 最后，让我们来欣赏一下那些貌美的不要不要的 HHKB 们吧。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/f982d4771c36635a50a389f889dd8aba.jpg)
+![](http://biang.io/biangpic/blog/f982d4771c36635a50a389f889dd8aba.jpg)
 
 土豪，让我们做朋友吧
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/262f89564871c015d08d52bb17125958.jpg)
+![](http://biang.io/biangpic/blog/262f89564871c015d08d52bb17125958.jpg)
 
 啊，少女心！
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/950f5e789a196bed5617386d3e7313bd.jpg)
+![](http://biang.io/biangpic/blog/950f5e789a196bed5617386d3e7313bd.jpg)
 
 Pride!
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/18f2e6c8400951d0e0564063543f9231.jpg)
+![](http://biang.io/biangpic/blog/18f2e6c8400951d0e0564063543f9231.jpg)
 
 简单即是美
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/fbcd77b97651d08b46cfccf24d4fca88.jpg)
+![](http://biang.io/biangpic/blog/fbcd77b97651d08b46cfccf24d4fca88.jpg)
 
 爱她就把她印在键盘上
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/c25835e517118285a9cbfecd0baed844.jpg)
+![](http://biang.io/biangpic/blog/c25835e517118285a9cbfecd0baed844.jpg)
 
 高端黑

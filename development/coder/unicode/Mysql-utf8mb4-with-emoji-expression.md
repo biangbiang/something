@@ -32,7 +32,7 @@ IOS 5用户可直接从通用中添加emoji 键盘，无需再安装emoji free
 
 <此段摘自百度百科 http://baike.baidu.com/view/2631589.htm>
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/60c67512ea7200da2530e4f31a62afd9.png)
+![](http://biang.io/biangpic/blog/60c67512ea7200da2530e4f31a62afd9.png)
 
 ### 二 Emoji表情符号问题 
 
@@ -62,7 +62,7 @@ iOS 4 采用SoftBank Unicode， 一种非官方的, 采用私有Unicode 区域�
 
 4 举例: 
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/9b49b0ad0416e0e05505ebf5d3c7325b.png)one emoji symbol "tiger", it is "\U0001f42f" in iOS5, but "\ue050" in earlier iOS version 
+![](http://biang.io/biangpic/blog/9b49b0ad0416e0e05505ebf5d3c7325b.png)one emoji symbol "tiger", it is "\U0001f42f" in iOS5, but "\ue050" in earlier iOS version 
 
 虎脸Emoji符号在iOS5 为Unicode：\U0001f42f；而在IOS4.x 为：\ue050 (SoftBank 编码) 
 

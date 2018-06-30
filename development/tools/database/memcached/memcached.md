@@ -7,7 +7,7 @@
 
 许多Web 应用程序都将数据保存到RDBMS中，应用服务器从中读取数据并在浏览器中显示。但随着数据量的增大，访问的集中，就会出现REBMS的负担加重，数据库响应恶化，网站显示延迟等重大影响。Memcached是高性能的分布式内存缓存服务器。一般的使用目的是通过缓存数据库查询结果，减少数据库的访问次数，以提高动态Web 应用的速度、提高扩展性。如图：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/b3989025fa2c1c6aed8df0af9b5a3649.jpg)
+![](http://biang.io/biangpic/blog/b3989025fa2c1c6aed8df0af9b5a3649.jpg)
 
 ### Memcached作为高速运行的分布式缓存服务器具有以下特点。
 
@@ -22,7 +22,7 @@
 
 Slab Allocator的基本原理是按照预先规定的大小，将分配的内存分割成特定长度的块，已完全解决内存碎片问题。Slab Allocation  的原理相当简单。将分配的内存分割成各种尺寸的块（chucnk），并把尺寸相同的块分成组（chucnk的集合）如图：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/195cb1d67905a9a04a51ca1ff4156554.jpg)
+![](http://biang.io/biangpic/blog/195cb1d67905a9a04a51ca1ff4156554.jpg)
 
 而且slab allocator 还有重复使用已分配内存的目的。也就是说，分配到的内存不会释放，而是重复利用。
 
@@ -36,7 +36,7 @@ Slab Allocation 的主要术语
 
 Memcached根据收到的数据的大小，选择最合适数据大小的Slab (图2) memcached中保存着slab内空闲chunk的列表，根据该列表选择chunk,然后将数据缓存于其中。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/3fe47ceb314043fac488d0b2dcda6858.jpg)
+![](http://biang.io/biangpic/blog/3fe47ceb314043fac488d0b2dcda6858.jpg)
 
 ### Memcached在数据删除方面有效里利用资源
    
@@ -62,7 +62,7 @@ Memcached虽然称为“分布式“缓存服务器，但服务器端并没有�
 
 接下来获取保存的数据。获取时也要将要获取的键“tokyo”传递给函数库。函数库通过与数据保存时相同的算法，根据“键”选择服务器。使用的算法相同，就能选中与保存时相同的服务器，然后发送get命令。只要数据没有因为某些原因被删除，就能获得保存的值。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/d4b1afd2f626345b7c6d745c73301f27.jpg)
+![](http://biang.io/biangpic/blog/d4b1afd2f626345b7c6d745c73301f27.jpg)
 
 这样，将不同的键保存到不同的服务器上，就实现了memcached的分布式。 memcached服务器增多后，键就会分散，即使一台memcached服务器发生故障无法连接，也不会影响其他的缓存，系统依然能继续运行。
 
@@ -72,11 +72,11 @@ Memcached的缓存分布策略：http://blog.csdn.net/bintime/article/details/62
 
 Consistent Hashing如下所示：首先求出memcached服务器（节点）的哈希值， 并将其配置到0～232的圆（continuum）上。 然后用同样的方法求出存储数据的键的哈希值，并映射到圆上。 然后从数据映射到的位置开始顺时针查找，将数据保存到找到的第一个服务器上。 如果超过232仍然找不到服务器，就会保存到第一台memcached服务器上。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/fe4c3f5b3e5cc7dcf31a916c08b9ba70.jpg)
+![](http://biang.io/biangpic/blog/fe4c3f5b3e5cc7dcf31a916c08b9ba70.jpg)
 
 从上图的状态中添加一台memcached服务器。余数分布式算法由于保存键的服务器会发生巨大变化 而影响缓存的命中率，但Consistent Hashing中，只有在continuum上增加服务器的地点逆时针方向的 第一台服务器上的键会受到影响。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/fe4c3f5b3e5cc7dcf31a916c08b9ba70.jpg)
+![](http://biang.io/biangpic/blog/fe4c3f5b3e5cc7dcf31a916c08b9ba70.jpg)
 
 因此，Consistent Hashing最大限度地抑制了键的重新分布。 而且，有的Consistent Hashing的实现方法还采用了虚拟节点的思想。 使用一般的hash函数的话，服务器的映射地点的分布非常不均匀。 因此，使用虚拟节点的思想，为每个物理节点（服务器） 在continuum上分配100～200个点。这样就能抑制分布不均匀， 最大限度地减小服务器增减时的缓存重新分布。
 

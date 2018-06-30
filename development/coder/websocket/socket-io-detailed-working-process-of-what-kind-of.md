@@ -20,7 +20,7 @@ sid 是本次 EIO Socket 的会话 ID，因为一次 EIO Socket 包含了多个�
 
 EIO Socket 生命周期内，会间隔一段时间 ping - pong 一次，用来测试网络是否正常。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/0ebd7ff26896a27e15386d4bc07bfe3d.png)
+![](http://biang.io/biangpic/blog/0ebd7ff26896a27e15386d4bc07bfe3d.png)
 
 这是 WebSocket 帧的结构，绿色是发送，白色是接收。前面的数字是数据包类型，2 是 ping, 3 是 pong, 4 是 message.
 

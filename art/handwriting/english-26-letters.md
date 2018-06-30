@@ -81,10 +81,10 @@
 
   字母 “F”象旗子。讲解：“要把F这面旗子插牢，得先把旗杆写正，先写一竖。”
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/478068b021f5f460fdc05f9c9cac928f.jpg)
+![](http://biang.io/biangpic/blog/478068b021f5f460fdc05f9c9cac928f.jpg)
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/741b7b32ed70e051fa47407971ca0fbd.jpg)
+![](http://biang.io/biangpic/blog/741b7b32ed70e051fa47407971ca0fbd.jpg)
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/78ef5ede46f1e13fe8f7eb8ad8c956cb.jpg)
+![](http://biang.io/biangpic/blog/78ef5ede46f1e13fe8f7eb8ad8c956cb.jpg)
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/554355d134faefb068917e2708b106d2.jpg)
+![](http://biang.io/biangpic/blog/554355d134faefb068917e2708b106d2.jpg)

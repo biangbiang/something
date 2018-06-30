@@ -19,7 +19,7 @@ Linux® 内核是一个庞大而复杂的操作系统的核心，不过尽管庞
 
 **图 1. 主要 Linux 内核发行版简史**
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/f6dbc6ab1029279ca6c11f4adeb7c6e2.jpg)
+![](http://biang.io/biangpic/blog/f6dbc6ab1029279ca6c11f4adeb7c6e2.jpg)
 
 主要 Linux 内核发行版简史
 
@@ -33,7 +33,7 @@ Linux 快速从一个个人项目进化成为一个全球数千人参与的开�
 
 **图 2. GNU/Linux 操作系统的基本体系结构**
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/2811c88c1961e93e5a8c4da2ecd76a86.jpg)
+![](http://biang.io/biangpic/blog/2811c88c1961e93e5a8c4da2ecd76a86.jpg)
 
 最上面是用户（或应用程序）空间。这是用户应用程序执行的地方。用户空间之下是内核空间，Linux 内核正是位于这里。
 
@@ -59,7 +59,7 @@ Linux 内核实现了很多重要的体系结构属性。在或高或低的层�
 
 **图 3. Linux 内核的一个体系结构透视图**
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/13eca0842e7ea26990664d9b5e9a0f13.jpg)
+![](http://biang.io/biangpic/blog/13eca0842e7ea26990664d9b5e9a0f13.jpg)
 
 Linux 内核的一个体系结构透视图
 
@@ -87,7 +87,7 @@ SCI 层提供了某些机制执行从用户空间到内核的函数调用。正�
 
 **图 4. VFS 在用户和文件系统之间提供了一个交换层**
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/574a152567c2c9e7e9eb8aaa847313de.jpg)
+![](http://biang.io/biangpic/blog/574a152567c2c9e7e9eb8aaa847313de.jpg)
 
 在 VFS 上面，是对诸如 open、close、read 和 write 之类的函数的一个通用 API 抽象。在 VFS 下面是文件系统抽象，它定义了上层函数的实现方式。它们是给定文件系统（超过 50 个）的插件。文件系统的源代码可以在 ./linux/fs 中找到。
 

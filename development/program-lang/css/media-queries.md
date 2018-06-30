@@ -53,7 +53,7 @@ all: 所有设备，这个应该经常看到
 
 还有其它一些：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/3c1ae09ea140119d718d58f7a1da82a8.png)
+![](http://biang.io/biangpic/blog/3c1ae09ea140119d718d58f7a1da82a8.png)
 
 相关资料扩展：http://book.51cto.com/art/201204/328362.htm
 
@@ -67,7 +67,7 @@ all: 所有设备，这个应该经常看到
 
 一个三栏布局的，在不同的尺寸下，变为两栏，再变为一栏~
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/e4d24219fa24947e7629e02a15fc304f.jpg)
+![](http://biang.io/biangpic/blog/e4d24219fa24947e7629e02a15fc304f.jpg)
 
 代码：
 

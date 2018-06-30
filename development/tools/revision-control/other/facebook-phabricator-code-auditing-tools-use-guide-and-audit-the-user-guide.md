@@ -16,7 +16,7 @@ Phabricator支持两种代码审查工作流：“review”（提交前审查）
 
 在审核工具的主页（位于/audit/）或者phabricator首页可以看到代码的提交和需要你审核的审核请求。如下图所示。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/c566e326819524454f0e5c7ba8cda335.jpg)
+![](http://biang.io/biangpic/blog/c566e326819524454f0e5c7ba8cda335.jpg)
 
 * 必要的审核（Required Audits）。当你是某个项目的成员，或者是一个包的拥有者，Required Audits提示你去审核一次提交。当你认可这次提交时，审核请求会被关闭。
 
@@ -40,7 +40,7 @@ Phabricator支持两种代码审查工作流：“review”（提交前审查）
 
 将“Auditors: username1, username2”写入提交注释中，会触发上述用户接到审核请求。如下图所示。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/6c7a68dce4c298b18076419eafcb3002.jpg)
+![](http://biang.io/biangpic/blog/6c7a68dce4c298b18076419eafcb3002.jpg)
 
 可以在Herald工具中，根据提交的属性创建一系列的触发规则。如有文件被创建、文本被修改，提交人等。
 
@@ -68,6 +68,6 @@ Phabricator支持两种代码审查工作流：“review”（提交前审查）
 * 内嵌评论最初只保存为草稿，直到你在页面底部提交评论。
 * 按“?”键查看快捷键。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/94cf43b7488cc94127aeff040e5a895a.jpg)
+![](http://biang.io/biangpic/blog/94cf43b7488cc94127aeff040e5a895a.jpg)
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/882fbde3b04b9ff153b2b4b7a63b58ad.jpg)
+![](http://biang.io/biangpic/blog/882fbde3b04b9ff153b2b4b7a63b58ad.jpg)

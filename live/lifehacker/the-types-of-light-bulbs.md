@@ -6,7 +6,7 @@
 
 可是昏暗的火光无法照亮更多的黑暗
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/55f440392e3eee616ebd008c9091a7d9.png)
+![](http://biang.io/biangpic/blog/55f440392e3eee616ebd008c9091a7d9.png)
 
 直到1879年爱迪生发明了白炽灯
 
@@ -16,7 +16,7 @@
 
 各类灯泡陆续横空出世
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/4784bb5db7d2ced1a13863e600a9b82b.png)
+![](http://biang.io/biangpic/blog/4784bb5db7d2ced1a13863e600a9b82b.png)
 
 下面
 
@@ -26,7 +26,7 @@
 
 ### 万能王-白炽灯
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/ec40eba64d535ea77979cc14d7f1bd60.png)
+![](http://biang.io/biangpic/blog/ec40eba64d535ea77979cc14d7f1bd60.png)
 
 ##### 出生时间 
 
@@ -54,7 +54,7 @@
 
 ### 暖男-卤素灯
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/78b36a24d3bb8f5ab75a7c13cef73d71.png)
+![](http://biang.io/biangpic/blog/78b36a24d3bb8f5ab75a7c13cef73d71.png)
 
 ##### 出生时间 
 
@@ -80,7 +80,7 @@
 
 ### 省电王子-节能灯
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/18d1deb195db29aa4169119476f90791.png)
+![](http://biang.io/biangpic/blog/18d1deb195db29aa4169119476f90791.png)
 
 ##### 出生时间 
 
@@ -110,7 +110,7 @@
 
 ### 靓妹-荧光灯
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/522be24a5e806accb063d0f2400704d3.png)
+![](http://biang.io/biangpic/blog/522be24a5e806accb063d0f2400704d3.png)
 
 ##### 出生时间 
 
@@ -134,7 +134,7 @@
 
 ### 全能boy-LED灯
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/c58c507c1ec7975f07d1a1e6d64c8a4f.png)
+![](http://biang.io/biangpic/blog/c58c507c1ec7975f07d1a1e6d64c8a4f.png)
 
 ##### 时间 
 

@@ -6,7 +6,7 @@
 
 A String value can be at max 512 Megabytes in length.
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/fb5b31b18e9c2f27f18e6d3371895c8b.png)
+![](http://biang.io/biangpic/blog/fb5b31b18e9c2f27f18e6d3371895c8b.png)
 
 摘自: 
 

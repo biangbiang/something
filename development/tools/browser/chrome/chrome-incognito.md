@@ -19,16 +19,16 @@ Chrome隐身模式有什么用
 
 ### 如何打开Chrome的“隐身模式”？
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/5ce6602f92eaeb0f32307ba0472e0130.jpg)
+![](http://biang.io/biangpic/blog/5ce6602f92eaeb0f32307ba0472e0130.jpg)
 
 其实在chorme浏览器的菜单里面就有“打开新的隐身窗口”选项。如果使用快捷键的方式，键盘快捷键 Ctrl+Shift+N(Windows、Linux 和 Chrome 操作系统)或 ⌘-Shift-N (Mac) 打开隐身窗口。
 
 当然，你也可以使用鼠标单击链接的方式，让任意一个链接在“隐身模式”打开。(如图)
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/22172abc2c4415f9f0804037d218bd40.jpg)
+![](http://biang.io/biangpic/blog/22172abc2c4415f9f0804037d218bd40.jpg)
 
 ### 隐身模式下的插件和扩展
 
 Chrome默认在隐身模式下是关闭所有插件和扩展的，但是你可以自定义的开启插件和扩展。(如图)
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/9cc31a4fa4a6ed31a39e2136717345cf.jpg)
+![](http://biang.io/biangpic/blog/9cc31a4fa4a6ed31a39e2136717345cf.jpg)

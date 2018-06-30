@@ -65,7 +65,7 @@ Web语义化
 
 回到开始时的疑惑，这时候header、footer、sidebar、article等标签的出现就不是那么让人困惑了，HTML5的一大革新就是语义化标签的完善
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/ef5872394e6f875fbf28c59754fdb3f5.jpg)
+![](http://biang.io/biangpic/blog/ef5872394e6f875fbf28c59754fdb3f5.jpg)
 
 使用这样结构写出的网页其语义显而易见。在有些面试的时候会问到类似strong 和font-weight: bold有什么区别，这时候就可以从语义化的角度解答了。
 
@@ -87,10 +87,10 @@ Web语义化
 
 我经常访问网易博客，看看它用了哪些语义化标签
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/96c49be842befdac404b766f4cb84ca8.jpg)
+![](http://biang.io/biangpic/blog/96c49be842befdac404b766f4cb84ca8.jpg)
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/298a99f18b24582a60b65b5874faa14c.jpg)
+![](http://biang.io/biangpic/blog/298a99f18b24582a60b65b5874faa14c.jpg)
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/65cf350849f38ae735d7d438a7087f06.jpg)
+![](http://biang.io/biangpic/blog/65cf350849f38ae735d7d438a7087f06.jpg)
 
 即使可以轻松通过div+css实现的效果，网易也选择了h1、h2、strong等标签

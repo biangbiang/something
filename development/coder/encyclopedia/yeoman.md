@@ -9,7 +9,7 @@ Yeoman主要有三部分组成：yo（脚手架工具）、grunt（构建工具�
 
 下面这幅图很形象的表明了他们三者之间的协作关系。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/d94b8cb7dfe52763de10ed42384f4867.png)
+![](http://biang.io/biangpic/blog/d94b8cb7dfe52763de10ed42384f4867.png)
 
 ### YOMAN的特性
 
@@ -50,13 +50,13 @@ Compass安装需要依赖于Ruby Gems，执行下面的步骤：
 
 安装成功后，会看到下面的提示：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/7a334bfc594d66821842122c9f478353.png) 
+![](http://biang.io/biangpic/blog/7a334bfc594d66821842122c9f478353.png) 
  
 ### 使用
 
 执行 yo webapp 我们就可以快速的创建一个新的Web应用的框架，一个通常的工作流程如下：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/06f10db6d1a1f73b9af153cb1498ffd9.png)
+![](http://biang.io/biangpic/blog/06f10db6d1a1f73b9af153cb1498ffd9.png)
 
 ### 项目实践
 
@@ -66,11 +66,11 @@ Compass安装需要依赖于Ruby Gems，执行下面的步骤：
 
 然后第一步，使用 yo 进行快速的初始化，初始化时会询问我们是否使用Bootstrap和RequireJS框架，我这里都选择了是。完成后一个Web应用的基础框架就建立好了。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/b003d98dc8afbf49cf896ac675be4c3c.png) 
+![](http://biang.io/biangpic/blog/b003d98dc8afbf49cf896ac675be4c3c.png) 
  
 初始化的WebApp目录结构如下，app目录是我们项目的主目录，test目录中对应的一些JS的单元测试文件。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/4f191ccd6bcf6ce1d45138a6d5a5c3b5.png)
+![](http://biang.io/biangpic/blog/4f191ccd6bcf6ce1d45138a6d5a5c3b5.png)
 
 注意我们需要安装黄色字体的提示，将npm和bower安装到项目本地。
 
@@ -78,11 +78,11 @@ Compass安装需要依赖于Ruby Gems，执行下面的步骤：
 
 对页面进行预览和测试。当代码编辑到一定程度，我们就需要对页面进行测试了，这个时候需要Grunt派上用场，执行下面的命令：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/f048d97443120caad9ee920f53c7caec.png)
+![](http://biang.io/biangpic/blog/f048d97443120caad9ee920f53c7caec.png)
 
 很快，浏览器中就可以看到我们的页面了。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/23e8c35258341279a5cb67ef2eaef727.png)
+![](http://biang.io/biangpic/blog/23e8c35258341279a5cb67ef2eaef727.png)
 
 更神奇的是，一旦我们编辑了项目源文件之后，切换到Safari窗口，就马上能够看到修改所带来的变化，根本不用手工刷新页面！
  
@@ -90,11 +90,11 @@ Compass安装需要依赖于Ruby Gems，执行下面的步骤：
 
 最后的步骤就是编译生成项目了，执行 grunt 就可以将项目编译生成在 dist 目录下，有可能生成的时候会提示 phantomjs 没有的错误，这个时候执行 grunt --force 强制跳过这一步就可以了。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/64f32d391b356060f7722c746728fd01.png)
+![](http://biang.io/biangpic/blog/64f32d391b356060f7722c746728fd01.png)
 
 查看具体的main.css和main.js中的内容，可以发现里面的内容都是经过优化之后的。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/a0f6942a5aca10cbc9236e3b1e998a4f.png)
+![](http://biang.io/biangpic/blog/a0f6942a5aca10cbc9236e3b1e998a4f.png)
 
 ### 使用体验
 

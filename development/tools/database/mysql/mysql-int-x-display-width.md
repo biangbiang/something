@@ -28,4 +28,4 @@ int等存储值的范围始终如下表：
     insert into user value(1);  
     select * from user;  
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/782c811355b9f2a8eeeeae98c03ffc61.png)
+![](http://biang.io/biangpic/blog/782c811355b9f2a8eeeeae98c03ffc61.png)

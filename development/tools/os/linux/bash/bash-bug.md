@@ -3,7 +3,7 @@ Bug in Bash shell creates big security hole on anything with \*nix in it
 
 Could allow attackers to execute code on Linux, Unix, and Mac OS X.
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/c03c737d36ad428c898a975b35525106.jpg)
+![](http://biang.io/biangpic/blog/c03c737d36ad428c898a975b35525106.jpg)
 
 Mac OS X Mavericks is also a *nix, and also vulnerable to the Bash bug.
 

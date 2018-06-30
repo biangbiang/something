@@ -10,7 +10,7 @@
 
 挑选键盘肯定要选个手感合适的，但是选择HHKB就必须先考虑它的奇葩键位你是否能够接受。HHKB的键位配列和传统的美式104键盘配列的区别主要有：
 
-![HHKB 键位图](http://biangbiangpic.b0.upaiyun.com/blog/92f093adfcc02ea9b2922b85d70c0508.png)
+![HHKB 键位图](http://biang.io/biangpic/blog/92f093adfcc02ea9b2922b85d70c0508.png)
 
 * 只有主键盘区（没有编辑区、数字键区、F1-F12功能键区）
 * 没有单独的方向键
@@ -47,7 +47,7 @@ HHKB之所以要搞出个跟任何人都不一样的键位肯定是有原因的�
     Control-Shift-A 选中从光标开始，到一行开头的所有文字
     Control-Shift-E 选中从光标开始，到一行结尾的所有文字
 
-![早期mac键盘](http://biangbiangpic.b0.upaiyun.com/blog/64f7ff47c782440ab5f14f40ea72468d.png)
+![早期mac键盘](http://biang.io/biangpic/blog/64f7ff47c782440ab5f14f40ea72468d.png)
 
 什么？你用Mac不用快捷键？那建议你尝试用起来，因为真的可以提高效率。推荐这款软件：
 
@@ -55,7 +55,7 @@ HHKB之所以要搞出个跟任何人都不一样的键位肯定是有原因的�
 
 * Ctrl键的位置简直太爽，用了这么久之后就感觉传统的键盘上Ctrl键的位置简直反人类，一个使用频率这么高的键竟然位于手心，谁会用手心去按键啊！而HHKB的Ctrl位于字母a的左边，就是传统键盘上的Caps Lock的位置，稍微移动一下小拇指就能够到。还是那个原则，常用的操作尽量少的移动手指去完成。Filco minila和Realforce等键盘也提供了Ctrl键和Caps键对调的功能。这就应该是标准好吗！我现在用普通的键盘都会把Caps映射成Ctrl，根本回不去了。那Caps键怎么办，首先，中文环境下输入大量的大写字母是比较少的，大多数情况都可以用shift替代；然后HHKB将Caps集成到了Tabs键上，通过Fn+Tabs触发。其实很多人觊觎Caps键的优良地段了，但是却没有好好利用，设计出了这么个鬼东西：
 
-![某款ThinkPad X1 Carbon键盘](http://biangbiangpic.b0.upaiyun.com/blog/20739b08099cf31eb47386f88280a9c1.png)
+![某款ThinkPad X1 Carbon键盘](http://biang.io/biangpic/blog/20739b08099cf31eb47386f88280a9c1.png)
 
 * delete键的位置也从键盘右上角向下挪了一个位置，离热区更近了，按键时移动的距离更短了，对于经常码字的人来说真的是方便，再也不会删除的时候先打几个顿号了。
 
@@ -64,9 +64,9 @@ HHKB之所以要搞出个跟任何人都不一样的键位肯定是有原因的�
 总之，这个键位配列的原则就是高效的录入，手可以更舒服的去打字编码编辑改错。它并不是人体工学设计的键盘，但是高效的键位设计配合优良的按键手感，使用久了依然不会觉得累。它就没有缺点吗，有，就是有时候需要实现一个操作需要的组合键太多，有时候按键之前需要先想怎么去组合，如果你用的是无刻的，你可能还需要考虑某个键在哪；而且有时候必须两个手才能完成一个操作，比如Ctrl+P，Alt+F4。另外，HHKB为适应不同的操作系统，可以通过顶部的跳线进行适配。比如在Windows下，cmd键就变成了win键，而在Windows下，我通常把左◇改成Fn。总之你还是可以根据自己的操作系统和自己的习惯去微调一下最下面一排的键位。其他地方的键位就没必要动了。
 
 
-![HHKB跳线](http://biangbiangpic.b0.upaiyun.com/blog/db586033cdb8735c01ff4e92d224d066.png)
+![HHKB跳线](http://biang.io/biangpic/blog/db586033cdb8735c01ff4e92d224d066.png)
 
-![三种模式区别](http://biangbiangpic.b0.upaiyun.com/blog/544626136fd47206ad9397e152dd0fc7.png)
+![三种模式区别](http://biang.io/biangpic/blog/544626136fd47206ad9397e152dd0fc7.png)
 
 ### 适应人群
 
@@ -81,7 +81,7 @@ HHKB之所以要搞出个跟任何人都不一样的键位肯定是有原因的�
 
 最近借了同事的cherry g80-3000黑轴用了几个月。
 
-![HHKB / cherry g80-3000](http://biangbiangpic.b0.upaiyun.com/blog/141121401c05764bb8fe132ab73963fe.png)
+![HHKB / cherry g80-3000](http://biang.io/biangpic/blog/141121401c05764bb8fe132ab73963fe.png)
 
 两者的体型差距可以说是巨大，而且cherry g80-3000真的是丑，傻大黑粗，没有愉悦感。好吧外观不是重点，两者的手感差距也是很大的。虽然都是无段落的设计，但是cherry3000的黑轴明显要更硬一些，按下去需要的力度更大。而且不知道是不是个例，我这个cherry3000的shift键和空格键和其他位置的键明显手感不一样，要更硬一些，而且键程偏短，触发距离更短，好多次都是感觉是无意间摸一下就触发了。按键压力大导致长时间打字要更累一些。
 
@@ -95,13 +95,13 @@ HHKB之所以要搞出个跟任何人都不一样的键位肯定是有原因的�
 
 去年年中的时候，败了一把Filco minila air红轴，用了大半年，来说一下感受吧
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/23fe40fada99a54a5bb9ee2d5efa9704.png)
+![](http://biang.io/biangpic/blog/23fe40fada99a54a5bb9ee2d5efa9704.png)
 
 红轴和黑轴、静电容一样，都是没有段落的轴体，敲打起来上上下下非常利落爽快。和黑轴和静电容相比，红轴的压力要更小，也就是更软，所以敲打起来非常轻松，按下去软，弹起来又轻快，就像女朋友的胸部一样的手感(*￣(エ)￣)，所以无论使用多久都不会感觉到累。。。
 
 Filco的键帽一直使用的是ABS镀膜的 工艺，耐磨程度上肯定不如PBT材质，但是Filco的这个镀膜手感真的非常细腻，而且使用半年下来，也没有打油的现象。如果有轻微的反光，那可能是你的键帽该洗了。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/d45b7df8d8b60b5f6ed6cc56916a7401.png)
+![](http://biang.io/biangpic/blog/d45b7df8d8b60b5f6ed6cc56916a7401.png)
 
 minila的键位设计也是一颗赛艇，可以通过DIP调节，把Ctrl和caps键位调换，还可以把backspace键调整到挥着键上方，基本就和HHKB的键位类似了。但是minila比HHKB多了方向键，还可以通过Fn+SEDF来移动光标，方便了很多。以为方向键而拒绝HHKB的朋友们可以试试minila，兼顾的小巧和方便，而且价格也比hhkb便宜很多
 

@@ -8,11 +8,11 @@
 
 HttpWatch能够显示安全请求的内容，因为它与浏览器集成，并且在用于HTTPS请求的SSL连接对数据进行加密之前查看数据
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/bba044fafb687d94b2195a393463a65d.jpg)
+![](http://biang.io/biangpic/blog/bba044fafb687d94b2195a393463a65d.jpg)
 
 如果你看网络嗅探器，如Network Monitor，同一请求，你前后只会看到加密的数据。 在数据包跟踪中网址，标题或内容多是不可见的。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/d8a06c5a768b0f8b3bd44cedd172a7a3.jpg)
+![](http://biang.io/biangpic/blog/d8a06c5a768b0f8b3bd44cedd172a7a3.jpg)
 
 您可以依赖一个安全的HTTPS请求，只要：
 
@@ -30,13 +30,13 @@ HttpWatch能够显示安全请求的内容，因为它与浏览器集成，并�
 
 2、网址存储在浏览器历史记录中 - 即使安全网页本身未缓存，浏览器也会将网址参数保存在其历史记录中。 以下是显示URL参数的IE历史记录
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/4fa474b45dfb76c7889b59535bea9d10.jpg)
+![](http://biang.io/biangpic/blog/4fa474b45dfb76c7889b59535bea9d10.jpg)
 
 如果用户创建书签，也会存储查询字符串参数。
 
 3、URLs在Referrer头中传递 - 如果安全网页使用诸如javascript，图片或分析服务等资源，则该URL会在每个嵌入请求的 Referrer请求头中传递。 有时，查询字符串参数可以被传递到第三方站点并由其存储。 在HttpWatch中，您可以看到我们的密码查询字符串参数正在发送到Google Analytics：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/b1d8888df0fa0c5630b1da6131e6ce13.jpg)
+![](http://biang.io/biangpic/blog/b1d8888df0fa0c5630b1da6131e6ce13.jpg)
 
 ### 结论
 
@@ -58,7 +58,7 @@ HttpWatch能够显示安全请求的内容，因为它与浏览器集成，并�
 
 下面是在我们的在线商店中用于识别用户的ASP.NET会话cookie的示例：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/e280c06f6a1f5aa43e763a3e1e18c93c.jpg)
+![](http://biang.io/biangpic/blog/e280c06f6a1f5aa43e763a3e1e18c93c.jpg)
 
 请注意，该cookie仅限于域store.httpwatch.com，并且在浏览器会话结束时过期（即不会存储到磁盘）。
 

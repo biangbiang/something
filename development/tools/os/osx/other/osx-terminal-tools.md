@@ -123,7 +123,7 @@ Homebrew程序提供的brew，严格来讲不是一个OS X的原生命令，但�
 
 也可以通过Homebrew做有趣的事情：brew install archey会安装Archey（在启动命令行时显示苹果LOGO和计算机硬件参数的小工具）。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/56594c5a2a5bbf749b6d97d06c6fcfc3.png)
+![](http://biang.io/biangpic/blog/56594c5a2a5bbf749b6d97d06c6fcfc3.png)
 
 Homebrew能安装的工具数量庞大，并且一直保持更新。Homebrew最棒的一点是：所有的文件都被约束在/usr/local/一个位置之下。也就是说可以通过Homebrew安装新版软件的同时，保持系统内置的依赖库或其他软件不变。同时如果想彻底删除Homebrew，也变得非常简单。
 

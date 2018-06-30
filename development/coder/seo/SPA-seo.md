@@ -11,7 +11,7 @@
 
 那么典型的SPA是什么样子？我们用手机看看这条URL，http://cc-ng-z.azurewebsites.net/，可以衍生想象一下乘以N倍的：切换页面无需加载的效果，HTML和JS无法比拟的动画，以及对原生APP的追求……
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/50dce726a2359b35190bba43473e95e2.jpg)
+![](http://biang.io/biangpic/blog/50dce726a2359b35190bba43473e95e2.jpg)
 
 *案例采用了angularJS这个鼎鼎大名的框架
 
@@ -36,7 +36,7 @@ HTML5移动应用开发的生态环境简介
 
 在SPA项目面前，我发现我被放在了所有人的对立面，无法抗拒这种时髦架构的上线，当然不得不说效果确实比WAP即视感的站点高端和好用太多，不要螳臂当车逆历史车轮而动。既然反抗也很痛，那么享受吧！我知道，我还和搜索引擎在一起；老板要的是解决方案，当然回滚这种方案会让我先滚。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/e6bfc8de5fd9ff5865bb08947759d88c.jpg)
+![](http://biang.io/biangpic/blog/e6bfc8de5fd9ff5865bb08947759d88c.jpg)
 
 让我们看看一个典型的SPA网站架构，和传统的服务端生成内容不同，在传统的网站，当你发起请求的时候，页面的组装是在服务器上完成的，反馈给浏览器的是已经完成组装的HTML内容；而之于SPA，服务端负责了数据和素材的存储，页面的逻辑执行和组装是在浏览器上通过Javascript完成和呈现的，这也就意味着，SPA不需要请求→接受、请求→接受、请求→接受、请求→接受这样玩了。完全凭借本地数据，即可完成基本的页面请求和访问。
 
@@ -66,7 +66,7 @@ Google给了官方指导，并在Twitter上做了个最大的case，但后来T�
 
 但实际上，蜘蛛在这种页面上还是盲的，所有内容要仰仗于noscript这个标签里塞的数据，以及搜索引擎对这个标签的支持程度。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/ac4a60531793686b15dc99c65cb947dd.jpg)
+![](http://biang.io/biangpic/blog/ac4a60531793686b15dc99c65cb947dd.jpg)
 
 做到这一步，单就需求而言，搜索引擎的抓取从HTML规范讲完成了，但这种方式没有任何搜索承认过支持，包括最核心的那个对于noscript标签的支持。
 
@@ -74,13 +74,13 @@ Google给了官方指导，并在Twitter上做了个最大的case，但后来T�
 
 再回到那个简单的架构图，SPA这种架构，渲染是在客户端（浏览器）完成的，大致流程如下：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/e5687eaaae5376fac46f7811f3464e43.jpg)
+![](http://biang.io/biangpic/blog/e5687eaaae5376fac46f7811f3464e43.jpg)
 
 蜘蛛无法执行JS，相应的页面内容无从抓取，弊端还是那个弊端。但我们知道，传统的服务端生成页面，response里已经是服务器渲染组装好的HTML代码，浏览器只负责正确地展现，蜘蛛负责正确的解析，所以，我们需要给蜘蛛渲染完成的HTML，那么你的框架需要兼容如下流程的功能。
 
 我们看到，当访问为SEO所需页面的时候，数据传输到了SEO 服务器完成渲染和组装然后吐给浏览器和蜘蛛，那么蜘蛛拿到的即是完全可见且融合了SPA的页面——landing页都是蜘蛛可见的，接下去用户的点击都是SPA的页面。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/8e337c4d1ed937c42a125afa0d700272.jpg)
+![](http://biang.io/biangpic/blog/8e337c4d1ed937c42a125afa0d700272.jpg)
 
 需要注意的是，如果你是用URL来区分SPA架构与否，那么内链及入口要全部使用SEO URL,只为用户暴露SPA的链接，JS在这里阴差阳错地成为了优势，那些SPA的链接将比较难被抓取的。
 

@@ -6,7 +6,7 @@ explain显示了mysql如何使用索引来处理select语句以及连接表。�
 
     explain select * from statuses_status where id=11;
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/59e003712c2cbb06a118ba7f8129002e.png)
+![](http://biang.io/biangpic/blog/59e003712c2cbb06a118ba7f8129002e.png)
 
 ### explain列的解释
 

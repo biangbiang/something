@@ -5,7 +5,7 @@ Windows 有蓝屏，苹果电脑 Mac OS X 系统死机时也会冒出几种语�
 
 苹果电脑Mac OS X Mountain Lion死机六国提示
 
-![苹果六国](http://biangbiangpic.b0.upaiyun.com/blog/ecdb925c9151897919b14852416a5dde.jpg)
+![苹果六国](http://biang.io/biangpic/blog/ecdb925c9151897919b14852416a5dde.jpg)
 
 今天，上面安装了 Mac OS X Mountain Lion 系统开发者预览版的苹果电脑死机的照片在网上疯传。苹果终于在 Mac 死机提示里加入了中文，五国变六国了。
 

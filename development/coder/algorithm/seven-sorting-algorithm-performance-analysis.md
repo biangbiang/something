@@ -103,5 +103,5 @@
 
 最后来个总结图
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/8e550c89246aac6e134519e4ae9bc97d.png)
+![](http://biang.io/biangpic/blog/8e550c89246aac6e134519e4ae9bc97d.png)
 

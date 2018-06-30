@@ -30,45 +30,45 @@ git rebase是对commit history的改写。当你要改写的commit history还没
 
 均如下图所示
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/3360572f9beaf4f91364f748c28fd050.png)
+![](http://biang.io/biangpic/blog/3360572f9beaf4f91364f748c28fd050.png)
 
 tom和jerry分别各自开发自己的新feature，不断有新的commit提交到他们各自私有的commit history中，所以他们的master指针不断的向前推移，分别指向不同的commit。而又由于他们都没有git fetch和git push，所以他们的origin/master都维持不变。
 
 jerry的repo如下
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/c4f3a440a847dbfc28763002df6f5d41.png)
+![](http://biang.io/biangpic/blog/c4f3a440a847dbfc28763002df6f5d41.png)
 
 tom的repo如下，注意T1和上图的J1，分别是两个不同的commit
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/86539d0a47fdbaf2577049b61a998ec5.png)
+![](http://biang.io/biangpic/blog/86539d0a47fdbaf2577049b61a998ec5.png)
 
 这时Tom首先把他的commit提交的远程repo中，那么他本机origin/master指针则会前进，和master指针保持一致，如下
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/c5143f52311f7f2e29ad0d30e25e7c44.png)
+![](http://biang.io/biangpic/blog/c5143f52311f7f2e29ad0d30e25e7c44.png)
 
 远程repo如下
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/0c90221656803fbb5db3fb9362021260.png)
+![](http://biang.io/biangpic/blog/0c90221656803fbb5db3fb9362021260.png)
 
 现在jerry也想把他的commit提交到远程repo上去，运行git push，毫无意外的失败了，所以他git fetch了一下，把远程repo，也就是之前tom提交的T1给拉到了他本机repo中，如下
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/51da95034b278843435cd7a5dabc5a2e.png)
+![](http://biang.io/biangpic/blog/51da95034b278843435cd7a5dabc5a2e.png)
 
 commit history出现了分叉，要想把tom之前提交的内容包含到自己的工作中来，有一个方法就是git merge，它会自动生成一个commit，既包含tom的提交，也包含jerry的提交，这样就把两个分叉的commit重新又合并在一起。但是这个自动生成的commit会有两个parent，review代码的时候必须要比较两次，很不方便。
 
 jerry为了保证commit history的线性，决定采用另外一种方法，就是git rebase。jerry的提交J1这时还没有被提交到远程repo上去，也就是他完全私有的一个commit，所以使用git rebase改写J1的history完全没有问题，改写之后，如下
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/9427c5ee1f28b5b7d682d682699aac24.png)
+![](http://biang.io/biangpic/blog/9427c5ee1f28b5b7d682d682699aac24.png)
 
 注意J1被改写到T1后面了，变成了J1`
 
 git push后，本机repo
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/5cee9516538ef78240f3ffc38155972c.png)
+![](http://biang.io/biangpic/blog/5cee9516538ef78240f3ffc38155972c.png)
 
 而远程repo
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/554517662abffb693d2808ed29273576.png)
+![](http://biang.io/biangpic/blog/554517662abffb693d2808ed29273576.png)
 
 异常的轻松，一条直线，没有-f
 

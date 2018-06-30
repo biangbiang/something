@@ -11,7 +11,7 @@ Exception details are logged in Window > Show View > Error Log
 
 Check the "Android version to use when rendering layouts" and make sure you're not using a version that ends in "W" for Android Wear (e.g. API 20: Android 4.4W). I don't believe Wear supports EditText.
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/3e95e6202584854a0288a2797ab1cf52.png)
+![](http://biang.io/biangpic/blog/3e95e6202584854a0288a2797ab1cf52.png)
 
 修改选择不同的API就好了，降低版本即可
 
@@ -21,7 +21,7 @@ Check the "Android version to use when rendering layouts" and make sure you're n
 
 I read this answer Rendering issue for Android with Intellij 13.1.3 ,but there is only API 20,can not set lower version
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/2310f89354ff50643073b94aa36c4142.jpg)
+![](http://biang.io/biangpic/blog/2310f89354ff50643073b94aa36c4142.jpg)
 
 my project AndroidManifest.xml
 
@@ -65,9 +65,9 @@ To download them, open the SDK manager from Android Studio, and download Android
 
 1. 上图SDK Manager 的 Tools ->Options打开SDK Manager的Settings，选中“Force https://… sources to be fetched using http://…”，强制使用http协议。
 
-  ![](http://biangbiangpic.b0.upaiyun.com/blog/167f6f108c6ad3d1e6dbfe0225d2ff05.jpg)
+  ![](http://biang.io/biangpic/blog/167f6f108c6ad3d1e6dbfe0225d2ff05.jpg)
 
-  ![](http://biangbiangpic.b0.upaiyun.com/blog/8acef821487d293f1f05a727e70137d5.jpg)
+  ![](http://biang.io/biangpic/blog/8acef821487d293f1f05a727e70137d5.jpg)
 
 2. 改hosts文件。
 

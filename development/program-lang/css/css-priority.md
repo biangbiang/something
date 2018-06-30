@@ -33,7 +33,7 @@ CSS 的优先级机制[总结]
 
 ### 选择器的优先权
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/531dfd4a30485887749dba318282eb9c.png)
+![](http://biang.io/biangpic/blog/531dfd4a30485887749dba318282eb9c.png)
 
 ### 解释：
 

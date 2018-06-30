@@ -20,7 +20,7 @@
 
   得到高德坐标：103.627229,32.755169
 
-  ![](http://biangbiangpic.b0.upaiyun.com/blog/d94c4a7ad11a29aa2634c30beacaf7ab.jpg)
+  ![](http://biang.io/biangpic/blog/d94c4a7ad11a29aa2634c30beacaf7ab.jpg)
 
   由于此坐标在手机上地图显示时，会有偏移误差，所以需要转换成 WGS-84苹果用；
 
@@ -53,13 +53,13 @@
 
   OK, 真机运行FakeGPS工程；
 
-  ![](http://biangbiangpic.b0.upaiyun.com/blog/f49a96faf3576c55f4b6113f115bc05d.jpg)
+  ![](http://biang.io/biangpic/blog/f49a96faf3576c55f4b6113f115bc05d.jpg)
 
 5. 在手机上运行FakeGPS工程，然后打开 手机上的高德地图app，定位，即可看到当前位置已模拟在目的地了，
 
   同样查看微信定位，也是要模拟的位置了；
 
-  ![](http://biangbiangpic.b0.upaiyun.com/blog/981422d85c9fcd0106769a86579eced6.jpg)
+  ![](http://biang.io/biangpic/blog/981422d85c9fcd0106769a86579eced6.jpg)
 
 6. 实测上面的位置并不会永久修改，当模拟位置的app退出或是一些其他原因模拟的位置就会不在起作用；
 

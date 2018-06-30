@@ -6,11 +6,11 @@
 
 于是也就成这样了
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/da63eedd7a56ec16b3bcb9a7811c198d.png)
+![](http://biang.io/biangpic/blog/da63eedd7a56ec16b3bcb9a7811c198d.png)
 
 而且这里也显示JavaScript，
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/883c32fd5baa6816344123cd845b4ace.png)
+![](http://biang.io/biangpic/blog/883c32fd5baa6816344123cd845b4ace.png)
 
 这样的情况很不能忍，尤其对于强迫症来说。而且github也没有bitbucket项目语言的设置。
 
@@ -34,15 +34,15 @@
 
 意思就是将.js、css、html当作Scala语言来统计。简单粗暴。效果如下：
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/b80783016716e28886e157a38527c892.png)
+![](http://biang.io/biangpic/blog/b80783016716e28886e157a38527c892.png)
 
 这里也变了，
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/fdab1faf850dacc55ed0ea2f9c463574.png)
+![](http://biang.io/biangpic/blog/fdab1faf850dacc55ed0ea2f9c463574.png)
 
 另外，说一下，在windows系统中并不好直接创建名为 .gitattributes 的文件，会提示，
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/199bd78f506f700c2bff6cba4c64ff47.png)
+![](http://biang.io/biangpic/blog/199bd78f506f700c2bff6cba4c64ff47.png)
 
 那么只需要用命令行创建就行了：
 

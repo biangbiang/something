@@ -1,6 +1,6 @@
 # 《程序员健康指南》读书笔记
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/b26791aa7daaf3720857b05e758dc09a.jpg)
+![](http://biang.io/biangpic/blog/b26791aa7daaf3720857b05e758dc09a.jpg)
 
 程序员健康指南
 
@@ -67,7 +67,7 @@
 
 ### 正确的坐姿
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/1e4ef01e7c3a5778f73d162cf67a2ee8.jpg)
+![](http://biang.io/biangpic/blog/1e4ef01e7c3a5778f73d162cf67a2ee8.jpg)
 
 准确的坐姿
 

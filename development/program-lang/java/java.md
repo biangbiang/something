@@ -101,7 +101,7 @@ Class类：object类中的getclass方法返回class类型的一个实例，程�
 
 下面列出了Java关键字。这些关键字不能用于常量、变量、和任何标识符的名称。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/dead89ef250db32fea9bb145b98f824a.png)
+![](http://biang.io/biangpic/blog/dead89ef250db32fea9bb145b98f824a.png)
 
 ### 注释
 

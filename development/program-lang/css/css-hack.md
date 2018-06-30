@@ -69,7 +69,7 @@ IE7能识别*，能识别!important;
 
 FF不能识别*，但能识别!important;
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/4303131255188a771abc339b8386e2b3.png)
+![](http://biang.io/biangpic/blog/4303131255188a771abc339b8386e2b3.png)
 
 浏览器优先级别:FF<IE7<IE6,CSS hack书写顺序一般为FF IE7 IE6
 

@@ -13,7 +13,7 @@
                 "name":"Byron"
             });
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/0f4849f82d19e347e3aa3ad6a5cd9391.png)
+![](http://biang.io/biangpic/blog/0f4849f82d19e347e3aa3ad6a5cd9391.png)
 
 ### Object.defineProperty(O,Prop,descriptor) / Object.defineProperties(O,descriptors)
 

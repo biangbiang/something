@@ -2,23 +2,23 @@
 
 在杭州，有很多路名让人乍一听总有点丈二和尚摸不着头脑的感觉。比如说，火药局、醋坊巷、立马回头……尤其是直大方伯！或许很多人都还弄不明白，直大方伯到底是路？是巷？是弄？还是街呢？今天，小编就来给您补补课，让我们去了解一下杭州的这些奇葩地名吧！
 　　
-![](http://biangbiangpic.b0.upaiyun.com/blog/d0e5dc284336e23e7d775ff99cbbd560.jpg)
+![](http://biang.io/biangpic/blog/d0e5dc284336e23e7d775ff99cbbd560.jpg)
 
 ### 最具历史气息的地名——直大方伯
 
 直大方伯，南出解放路，北抵庆春路，夹在这两条繁华通衢之间的它一直默默无闻，平淡无奇。即使是杭州人，有许多也不知道这个名字，更不用说它的过去。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/31bd8eda43fcaf1caea2fe540ae25615.jpg)
+![](http://biang.io/biangpic/blog/31bd8eda43fcaf1caea2fe540ae25615.jpg)
 
 直大方伯已经很老了。最初名叫中班街，为南宋宗室子弟所居。到了明代仁宗时，布政使应朝玉在巷内建起一座大宅邸，布政使又称方伯，故名大方伯巷。宅邸跨越横、直两条巷，故有横、直大方伯之称。民国时，扩建马路，横大方伯弃它而去，不复存在。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/1113588b209e85c8db4ee8cb5f9baa0d.jpg)
+![](http://biang.io/biangpic/blog/1113588b209e85c8db4ee8cb5f9baa0d.jpg)
 
 直大方伯丝绸会馆
 
 直大方伯见识过皇亲国戚的张扬，体会过王公大臣的铺张，聆听过养正书墅的朗朗书声，旁观过广济医院的历史变迁……它什么都见过，但它什么都不说，就如它的近邻——静静流淌的东河，走过岁月，波澜不惊。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/d555bcbf9f0d495be0fdfaada2c020fc.jpg)
+![](http://biang.io/biangpic/blog/d555bcbf9f0d495be0fdfaada2c020fc.jpg)
 
 广济医院初创时期是一所只有四间屋子的戒烟所
 
@@ -28,61 +28,61 @@
 
 立马回头位于茅家埠村西北面普福岭山路上。据说乾隆当年驾幸杭州，第一次路过这里时，对道路状况相当不满，本地官员赶紧为皇上修了一条新路。当乾隆再次经过普福岭时，路况已大为改观，龙颜大悦，立马驻足，这才有了“立马回头”的说法。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/86f01a62f8bc08b803debb1173c5702d.jpg)
+![](http://biang.io/biangpic/blog/86f01a62f8bc08b803debb1173c5702d.jpg)
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/b0ee1549baee21de0e83c5687d7cdcb6.jpg)
+![](http://biang.io/biangpic/blog/b0ee1549baee21de0e83c5687d7cdcb6.jpg)
 　　
 时至今日，“立马回头”这四个字对于部分车主来说，有了新的意义。有网友煞有介事地解读：春游旺季，过了立马回头，再往前的灵隐路常有堵车，这是在提醒大家及时调头啊。
 
 ### 最需防火的路名——火药局弄
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/5dba992f19988371455e9784741a6497.jpg)
+![](http://biang.io/biangpic/blog/5dba992f19988371455e9784741a6497.jpg)
 
 杭州火药局弄南起惠民路中段，北至羊坝头西段。明代在此设火药局，专贮火药。明嘉靖三十八年(1559)，因研制火药不慎引爆，火药局毁于火灾。
 
 ### 最具孩子气的地名——孩儿巷
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/0102fcf1166cf646d319847203e9067c.jpg)
+![](http://biang.io/biangpic/blog/0102fcf1166cf646d319847203e9067c.jpg)
 
 杭州人最熟悉的小巷。南宋爱国诗人陆游寓居临安(杭州)砖街巷时写下“小楼一夜听春雨，深巷明朝卖杏花”的诗句。砖街巷，就是现在的孩儿巷。民间传说孩儿巷98号是陆游住过的宅地。这幢古宅始建于南宋，距今约800年，又经元、明、清各代不断修缮，是一个重要的历史“地标物”。
 
 ### 最扑朔迷离的地名——十五奎巷
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/d975b35cd20a0f5e06419cd0b6ea5633.jpg)
+![](http://biang.io/biangpic/blog/d975b35cd20a0f5e06419cd0b6ea5633.jpg)
 　　
 十五奎巷南与城隍楼牌相通。宋曾名竹竿巷，属长庆坊。十五奎巷名有两说：一说巷内徽州会馆有一大石龟，俗名石乌龟巷，因嫌其不雅，改称十五奎巷。另一说，明嘉靖年间，巷人多习骑射，科举考试时一举得十人，故称十武魁巷，谐音读成十五奎巷。巷内原来还有祭祀行刺秦桧的殿前小校施全的施公祠以及玄妙观，现已毁。
 
 ### 最洋气的地名——羊坝头
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/71f74b07c60b152c53334606c911a5df.jpg)
+![](http://biang.io/biangpic/blog/71f74b07c60b152c53334606c911a5df.jpg)
 
 羊坝头，泛指今中山路（中山中路）中段、清泰街西端以及开元路东段一带。古时滨海，为防海潮侵袭在此作坝称洋坝，俗称洋坝头。宋时御街穿此而过，为杭城商业中心。明时为蔬菜鱼肉等集市贸易之地。民国时此处店铺林立，市面繁荣，沿用为区片名。
 
 ### 最迷茫的地名——旧藩署
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/391c4df4a147db143499a7a5aa6b45d1.jpg)
+![](http://biang.io/biangpic/blog/391c4df4a147db143499a7a5aa6b45d1.jpg)
 
 杭州旧藩署南起河坊街，北至惠民路。南宋在此设秘书省。元至元二十一年(1284)，江淮行中书省由扬州迁于此，总管两浙(浙东、浙西)、福建、江西四道。清嘉庆年间改为布政使署(即藩署)，设有金库，收存地方钱粮收入。民国时此地称旧藩署。1966年改名军民路，1981年恢复旧名。1995年扩建延安南路时成为吴山广场的一部分 。
 
 ### 最有酸味的地名——醋坊巷
 　　
-![](http://biangbiangpic.b0.upaiyun.com/blog/8f2b90f5c956558c283d1c9dda807dc4.jpg)
+![](http://biang.io/biangpic/blog/8f2b90f5c956558c283d1c9dda807dc4.jpg)
 
 宋时有醋库十二，此地为其中之一，故得名。南宋建炎三年(1129)于巷东侧建显真道院。相传于谦被诬以“谋逆罪”入狱，狱中将所围玉带(长四尺，嵌有碧玉)托人交给道院(于谦年轻时曾在道院后楼读书)；院内还藏有清雍正年间大将军年羹尧被贬杭州管太平门时遗留的铁枪两支。清中叶形成的东园十景之一的“红亭夕照”亦在此。
 
 ### 最有肉感的地名：牛羊司巷
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/aa8075fbceae2d5a3c876232eae8c99c.jpg)
+![](http://biang.io/biangpic/blog/aa8075fbceae2d5a3c876232eae8c99c.jpg)
 
 杭州牛羊司巷南起通江桥，跨元宝街，北至望江门直街。南宋时在此设牛羊司，负责为皇宫提供用膳和祭祀用牲畜之事务，故得名。又称武宁巷。1966年改名红松巷，1981年恢复旧名。巷内有水井，井圈刻有“义井”字样，旧时有人为解决附近居民饮水之难，开凿此井供邻里使用。
 
 ### 最有趣味的地名：教工路“叫公路”
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/1bcb5d5e6cb75e0ef0f59de025036d12.jpg)
+![](http://biang.io/biangpic/blog/1bcb5d5e6cb75e0ef0f59de025036d12.jpg)
 
 据说有个段子，有次在公交车上，一乘客问司机：这条路叫什么？司机答：叫公路(教工路)；乘客：我问是什么路？答：叫公路(教工路)啊。乘客：我问具体叫什么路！！答：叫公路啊就是叫公路啊！
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/0bb50fe9065ab45c0702a622f77bb5af.jpg)
+![](http://biang.io/biangpic/blog/0bb50fe9065ab45c0702a622f77bb5af.jpg)
 　　
 在杭州这样的路名还有很多。哑巴弄、卖鱼桥 、打铁弄、刀茅巷、仓基新村、馒头山路、乌龙巷、元宝街、高银街、潮王路、豆腐巷……
 

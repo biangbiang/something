@@ -67,7 +67,7 @@
 
 现在，你可以通过把Mac系统的DNS改为127.0.0.1来使用dnsmasq。同局域网的用户也可以修改DNS到此台Mac的IP即可。前提是要把此台Mac的局域网IP写到listen-address里。
 
-![](http://biangbiangpic.b0.upaiyun.com/blog/9c7e36164e655d7d5c9b3f69074dab0a.png)
+![](http://biang.io/biangpic/blog/9c7e36164e655d7d5c9b3f69074dab0a.png)
 
 要检查运行情况，你可以在终端运行
 
